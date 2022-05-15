@@ -1,0 +1,591 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix kg_sdm: <http://kg_sdm.org/> .
+
+<http://kg_sdm.org/Editor/Abildskov_T_J_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Physics and Astronomy, KU Leuven, Celestijnenlaan 200D, Heverlee, B-3001, Belgium" ;
+    foaf:name "Abildskov T.J." .
+
+<http://kg_sdm.org/Editor/Alcock_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Mechanical Engineering, United States" ;
+    foaf:name "Alcock C." .
+
+<http://kg_sdm.org/Editor/Ashe_J_> a kg_sdm:Editor ;
+    kg_sdm:school " Columbia Basin Agricultural Research Center, Oregon State University, Pendleton, OR, United States" ;
+    foaf:name "Ashe J." .
+
+<http://kg_sdm.org/Editor/Bannister_M_T_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Electrical and Computer Engineering, United States" ;
+    foaf:name "Bannister M.T." .
+
+<http://kg_sdm.org/Editor/Baradoy_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Centre de Thermique et d’Energétique de Lyon, INSA de Lyon, 9 rue de la Physique, Villeurbanne, 69621, France" ;
+    foaf:name "Baradoy D." .
+
+<http://kg_sdm.org/Editor/Barrios_J_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Control and Dynamical Systems, California Institute of Technology, Pasadena, CA  91125, United States" ;
+    foaf:name "Barrios J.A." .
+
+<http://kg_sdm.org/Editor/Baskota_A_> a kg_sdm:Editor ;
+    kg_sdm:school "Brigham Young University, Department of Chemical Engineering, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Baskota A." .
+
+<http://kg_sdm.org/Editor/Bateman_T_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Ford Motor Company, Dearborn, MI, United States" ;
+    foaf:name "Bateman T.C." .
+
+<http://kg_sdm.org/Editor/Bauer_J_M_> a kg_sdm:Editor ;
+    kg_sdm:school " University of Florida, Shalimar, FL  32579, United States" ;
+    foaf:name "Bauer J.M." .
+
+<http://kg_sdm.org/Editor/Bean_M_> a kg_sdm:Editor ;
+    kg_sdm:school " Fermi National Accelerator Laboratory, Batavia, IL  60510, United States" ;
+    foaf:name "Bean M." .
+
+<http://kg_sdm.org/Editor/Beauchamp_M_J_> a kg_sdm:Editor ;
+    kg_sdm:school "Combustion Science & Engineering, Inc., Columbia, MD, United States" ;
+    foaf:name "Beauchamp M.J." .
+
+<http://kg_sdm.org/Editor/Belanger_H_> a kg_sdm:Editor ;
+    kg_sdm:school " University of Texas at Dallas, Richardson, TX, United States" ;
+    foaf:name "Belanger H." .
+
+<http://kg_sdm.org/Editor/Bigler_E_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Mechanical and Aerospace Engineering, Utah State University, 4130 Old Main Hill, Logan, UT  84322, United States" ;
+    foaf:name "Bigler E.D." .
+
+<http://kg_sdm.org/Editor/Bjoraker_G_L_> a kg_sdm:Editor ;
+    kg_sdm:school " AFRL, University of Florida Research and Engineering Education Facility, United States" ;
+    foaf:name "Bjoraker G.L." .
+
+<http://kg_sdm.org/Editor/Bodewits_D_> a kg_sdm:Editor ;
+    kg_sdm:school "Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 Clyde Bldg., Provo, UT  84602, United States" ;
+    foaf:name "Bodewits D." .
+
+<http://kg_sdm.org/Editor/Bosh_A_S_> a kg_sdm:Editor ;
+    kg_sdm:school " SandME Inc., 620 Wando Park Blvd, Mt. Pleasant, SC  29464, United States" ;
+    foaf:name "Bosh A.S." .
+
+<http://kg_sdm.org/Editor/Bresciano_K_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Raytheon Missile Systems, Tucson, AZ  85756, United States" ;
+    foaf:name "Bresciano K.A." .
+
+<http://kg_sdm.org/Editor/Buie_M_W_> a kg_sdm:Editor ;
+    kg_sdm:school "CubiScan, Farmington, UT  84025, United States" ;
+    foaf:name "Buie M.W." .
+
+<http://kg_sdm.org/Editor/Burrow_D_> a kg_sdm:Editor ;
+    kg_sdm:school "Department of mechanical engineering, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Burrow D." .
+
+<http://kg_sdm.org/Editor/Call_M_S_> a kg_sdm:Editor ;
+    kg_sdm:school " CKR Engineers, 1295 N State St., Orem, UT  84057, United States" ;
+    foaf:name "Call M.S." .
+
+<http://kg_sdm.org/Editor/Campbell_B_D_> a kg_sdm:Editor ;
+    kg_sdm:school "Department of Construction Science, College of Architecture, Texas A and M University, College Station, TX, United States" ;
+    foaf:name "Campbell B.D." .
+
+<http://kg_sdm.org/Editor/Carpenter_J_P_> a kg_sdm:Editor ;
+    kg_sdm:school "NSF, Center for High-Performance Reconfigurable Computing (CHREC), Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Carpenter J.P." .
+
+<http://kg_sdm.org/Editor/Carsley_J_E_> a kg_sdm:Editor ;
+    kg_sdm:school " Applied Geotechnical Engineering Consultants, 600 West Sandy Parkway, Sandy, UT  84070, United States" ;
+    foaf:name "Carsley J.E." .
+
+<http://kg_sdm.org/Editor/Chanda_A_> a kg_sdm:Editor ;
+    kg_sdm:school " ISISE, University of Minho, Department of Civil Engineering, Portugal" ;
+    foaf:name "Chanda A." .
+
+<http://kg_sdm.org/Editor/Chen_G_> a kg_sdm:Editor ;
+    kg_sdm:school " Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg, L-4365, Luxembourg" ;
+    foaf:name "Chen G." .
+
+<http://kg_sdm.org/Editor/Choudhury_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Architecture, Building and Planning, Eindhoven University, Netherlands" ;
+    foaf:name "Choudhury D." .
+
+<http://kg_sdm.org/Editor/Christensen_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Information and Decision Algorithms Laboratories and the Computer Science Department, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Christensen C." .
+
+<http://kg_sdm.org/Editor/Clarke_K_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Hayward Baker, Incorporated, 1780 Lemonwood Dr., Santa Paula, CA  93060, United States" ;
+    foaf:name "Clarke K.D." .
+
+<http://kg_sdm.org/Editor/Cluff_S_> a kg_sdm:Editor ;
+    kg_sdm:school " Manufacturing Engineering Technology, Brigham Young University" ;
+    foaf:name "Cluff S." .
+
+<http://kg_sdm.org/Editor/Cope_M_> a kg_sdm:Editor ;
+    kg_sdm:school "School of Technology, Department of Construction and Facilities Management, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Cope M." .
+
+<http://kg_sdm.org/Editor/Cosner_R_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Sociology, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Cosner R." .
+
+<http://kg_sdm.org/Editor/Coughlin_D_R_> a kg_sdm:Editor ;
+    kg_sdm:school " Fehr and Peers, 2180 South 1300 East, Ste 220, Salt Lake City, UT  84106, United States" ;
+    foaf:name "Coughlin D.R." .
+
+<http://kg_sdm.org/Editor/Dallon_E_> a kg_sdm:Editor ;
+    kg_sdm:school " AMS-TAOS USA Inc., 5556 Tennyson Pkwy., Plano, TX  75024, United States" ;
+    foaf:name "Dallon E." .
+
+<http://kg_sdm.org/Editor/Davies_R_> a kg_sdm:Editor ;
+    kg_sdm:school " DOWL, 4041 B St., Anchorage, AK  99503, United States" ;
+    foaf:name "Davies R." .
+
+<http://kg_sdm.org/Editor/Dennis_E_L_> a kg_sdm:Editor ;
+    kg_sdm:school "Brigham Young University, Department of Mechanical Engineering, 435 CTB, Provo, UT  84602, United States" ;
+    foaf:name "Dennis E.L." .
+
+<http://kg_sdm.org/Editor/Dodson_B_> a kg_sdm:Editor ;
+    kg_sdm:school "Department of Plant and Wildlife Sciences, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Dodson B." .
+
+<http://kg_sdm.org/Editor/Drennon_A_M_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Plant and Wildlife Science, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Drennon A.M." .
+
+<http://kg_sdm.org/Editor/Eapen_B_> a kg_sdm:Editor ;
+    kg_sdm:school " Theoretical Division, MS B16, Los Alamos National Laboratory, Los Alamos, NM  87545, United States" ;
+    foaf:name "Eapen B." .
+
+<http://kg_sdm.org/Editor/Exter_M_> a kg_sdm:Editor ;
+    kg_sdm:school " 902 Battelle Boulevard, Richland, WA  99352, United States" ;
+    foaf:name "Exter M." .
+
+<http://kg_sdm.org/Editor/Farnham_T_L_> a kg_sdm:Editor ;
+    kg_sdm:school "AECOM, 756 E Winchester St. #400, Salt Lake City, UT  84107, United States" ;
+    foaf:name "Farnham T.L." .
+
+<http://kg_sdm.org/Editor/Frandsen_D_> a kg_sdm:Editor ;
+    kg_sdm:school " LEPP, Physics Department, Newman Laboratory, Cornell University, United States" ;
+    foaf:name "Frandsen D." .
+
+<http://kg_sdm.org/Editor/Frezza_S_T_> a kg_sdm:Editor ;
+    kg_sdm:school " Theoretical Division, Los Alamos National Laboratory, TA-3, Los Alamos, NM  87544, United States" ;
+    foaf:name "Frezza S.T." .
+
+<http://kg_sdm.org/Editor/Galan_A_M_> a kg_sdm:Editor ;
+    kg_sdm:school "Kimley-Horn and Associates, Inc, 1920 Wekiva Way, Suite 200, West Palm Beach, FL  33411, United States" ;
+    foaf:name "Galan A.M." .
+
+<http://kg_sdm.org/Editor/Galligan_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Crop and Soil Sciences, Washington State University, Pullman, WA, United States" ;
+    foaf:name "Galligan C." .
+
+<http://kg_sdm.org/Editor/Gao_H_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Electrical and Computer Engineering, Brigham Young Univ., 459 Clyde Bldg., Provo, UT  84602, United States" ;
+    foaf:name "Gao H." .
+
+<http://kg_sdm.org/Editor/Goettel_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Chalmers University of Technology, Gothenburg, Sweden" ;
+    foaf:name "Goettel C." .
+
+<http://kg_sdm.org/Editor/Griffitts_J_> a kg_sdm:Editor ;
+    kg_sdm:school "Department of Electrical and Computer Engineering, Utah State University, Logan, UT  84322, United States" ;
+    foaf:name "Griffitts J." .
+
+<http://kg_sdm.org/Editor/Gupta_V_> a kg_sdm:Editor ;
+    kg_sdm:school " Morgan State University, Baltimore, MD, United States" ;
+    foaf:name "Gupta V." .
+
+<http://kg_sdm.org/Editor/Haghighipour_N_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 CB, Provo, UT  84602, United States" ;
+    foaf:name "Haghighipour N." .
+
+<http://kg_sdm.org/Editor/Hardersen_P_S_> a kg_sdm:Editor ;
+    kg_sdm:school " Federal Highway Administration, 6300 Georgetown Pike, McLean, VA  22101-2296, United States" ;
+    foaf:name "Hardersen P.S." .
+
+<http://kg_sdm.org/Editor/Harris_A_W_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Chemical Engineering, University of Utah, 50 S. Central Campus Dr, Rm 3290 MEB, Salt Lake City, UT  84112-9203, United States" ;
+    foaf:name "Harris A.W." .
+
+<http://kg_sdm.org/Editor/Haswell_C_> a kg_sdm:Editor ;
+    kg_sdm:school "Pacific Northwest National Laboratory, 902 Battelle Boulevard, Richland, WA  99354, United States" ;
+    foaf:name "Haswell C." .
+
+<http://kg_sdm.org/Editor/Hedges_D_M_> a kg_sdm:Editor ;
+    kg_sdm:school " United States Department of Agriculture-Agricultural Research Service, Sidney, MT, United States" ;
+    foaf:name "Hedges D.M." .
+
+<http://kg_sdm.org/Editor/Henderson_P_> a kg_sdm:Editor ;
+    kg_sdm:school "Dept of Mechanical Engineering, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Henderson P." .
+
+<http://kg_sdm.org/Editor/Hinds_S_R_> a kg_sdm:Editor ;
+    kg_sdm:school " Honda R&D Americas, Raymond, OH  43067, United States" ;
+    foaf:name "Hinds S.R." .
+
+<http://kg_sdm.org/Editor/Hinton_D_> a kg_sdm:Editor ;
+    kg_sdm:school "Google, Inc., Mountain View, CA  94043, United States" ;
+    foaf:name "Hinton D." .
+
+<http://kg_sdm.org/Editor/Hirata_C_M_> a kg_sdm:Editor ;
+    kg_sdm:school "Department of Plant and Wildlife Sciences, Brigham Young University, 4105 LSB, Provo, UT  84602, United States" ;
+    foaf:name "Hirata C.M." .
+
+<http://kg_sdm.org/Editor/Holler_B_J_> a kg_sdm:Editor ;
+    kg_sdm:school "BYU Department of Mechanical Engineering, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Holler B.J." .
+
+<http://kg_sdm.org/Editor/Hsieh_H_H_> a kg_sdm:Editor ;
+    kg_sdm:school " General Mills, Inc., Crop Bioscience Wheat Innovation Center, 1990 Kimball Ave, Manhattan, KS  66502, United States" ;
+    foaf:name "Hsieh H.H." .
+
+<http://kg_sdm.org/Editor/Jaramillo_C_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Manufacturing Engineering Technology, Brigham Young University, 265 CTB, Provo, UT  84602, United States" ;
+    foaf:name "Jaramillo C.A." .
+
+<http://kg_sdm.org/Editor/Jensen_T_D_> a kg_sdm:Editor ;
+    kg_sdm:school " 1376 N 1350 W, Provo, UT  84604, United States" ;
+    foaf:name "Jensen T.D." .
+
+<http://kg_sdm.org/Editor/Johnson_M_H_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Genetics and Biotechnology, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Johnson M.H." .
+
+<http://kg_sdm.org/Editor/Jones_S_H_> a kg_sdm:Editor ;
+    kg_sdm:school " Compressor Aero Research Laboratory, Air Force Research Laboratory, Propulsion Dirct., Wright-Patterson AFB, OH  45433, United States" ;
+    foaf:name "Jones S.H." .
+
+<http://kg_sdm.org/Editor/Katz_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Civil and Environmental Engineering, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Katz A." .
+
+<http://kg_sdm.org/Editor/Kelley_M_S_P_> a kg_sdm:Editor ;
+    kg_sdm:school " Departmentof Chemical Engineering, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Kelley M.S.P." .
+
+<http://kg_sdm.org/Editor/Kim_M_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Mechanical Engineering, University of Wisconsin-Madison, Madison, WI, United States" ;
+    foaf:name "Kim M.D." .
+
+<http://kg_sdm.org/Editor/Kimmons_R_> a kg_sdm:Editor ;
+    kg_sdm:school "NSF Center for High-Performance Reconfigurable Computing (CHREC), Department of Electrical and Computer Engineering, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Kimmons R." .
+
+<http://kg_sdm.org/Editor/King_R_> a kg_sdm:Editor ;
+    kg_sdm:school " Information and Decision Algorithms Laboratories, Department of Computer Science, Brigham Young University, Provo, UT  84602-1001, United States" ;
+    foaf:name "King R." .
+
+<http://kg_sdm.org/Editor/Klein_M_> a kg_sdm:Editor ;
+    kg_sdm:school "Chemical Engineering, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Klein M." .
+
+<http://kg_sdm.org/Editor/Knight_M_M_> a kg_sdm:Editor ;
+    kg_sdm:school "The University of Texas, Dallas, United States" ;
+    foaf:name "Knight M.M." .
+
+<http://kg_sdm.org/Editor/Kramer_E_A_> a kg_sdm:Editor ;
+    kg_sdm:school "Chemical Engineering Dept., Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Kramer E.A." .
+
+<http://kg_sdm.org/Editor/Krutka_D_G_> a kg_sdm:Editor ;
+    kg_sdm:school "Aerospace and Ocean Engineering, Virginia Tech, Blacksburg, VA  24061, United States" ;
+    foaf:name "Krutka D.G." .
+
+<http://kg_sdm.org/Editor/Kvavle_J_> a kg_sdm:Editor ;
+    kg_sdm:school "Electrical and Computer Engineering Department, Stevens Institute of Technology, Hoboken, NJ  07030, United States" ;
+    foaf:name "Kvavle J." .
+
+<http://kg_sdm.org/Editor/Lansinger_V_B_> a kg_sdm:Editor ;
+    kg_sdm:school "School of Technology, Brigham Young University, 265 CTB, BYU, Provo, UT  84602, United States" ;
+    foaf:name "Lansinger V.B." .
+
+<http://kg_sdm.org/Editor/Lee_J_H_> a kg_sdm:Editor ;
+    kg_sdm:school " Pennsylvania State University, State College, PA, United States" ;
+    foaf:name "Lee J.H." .
+
+<http://kg_sdm.org/Editor/Levin_H_S_> a kg_sdm:Editor ;
+    kg_sdm:school " General Motors Research and Development Laboratory, Warren, MI  48090, United States" ;
+    foaf:name "Levin H.S." .
+
+<http://kg_sdm.org/Editor/Li_X_> a kg_sdm:Editor ;
+    kg_sdm:school "Brigham Young University, Dept. of Mechanical Engineering, CTB435, Provo, UT  84602, United States" ;
+    foaf:name "Li X." .
+
+<http://kg_sdm.org/Editor/Liu_W_> a kg_sdm:Editor ;
+    kg_sdm:school " Bureau of Economic Geology, The University of Texas at Austin, Austin, TX  78758, United States" ;
+    foaf:name "Liu W." .
+
+<http://kg_sdm.org/Editor/Longobardo_A_> a kg_sdm:Editor ;
+    kg_sdm:school "Dept. of Engineering Technology, Utah Valley University, Orem, UT  84058, United States" ;
+    foaf:name "Longobardo A." .
+
+<http://kg_sdm.org/Editor/Lund_J_> a kg_sdm:Editor ;
+    kg_sdm:school "Mechanical Engineering, Brigham Young University, Provo, UT  84606, United States" ;
+    foaf:name "Lund J." .
+
+<http://kg_sdm.org/Editor/McMurray_J_> a kg_sdm:Editor ;
+    kg_sdm:school " University of Kansas, Lawrence, KS  66045, United States" ;
+    foaf:name "McMurray J." .
+
+<http://kg_sdm.org/Editor/Medina_J_> a kg_sdm:Editor ;
+    kg_sdm:school "Brigham Young University, Industrial Design, United States" ;
+    foaf:name "Medina J." .
+
+<http://kg_sdm.org/Editor/Milam_S_N_> a kg_sdm:Editor ;
+    kg_sdm:school " National Wind Technology Center, National Renewable Energy Laboratory, Golden, CO  80401, United States" ;
+    foaf:name "Milam S.N." .
+
+<http://kg_sdm.org/Editor/Millard_J_D_> a kg_sdm:Editor ;
+    kg_sdm:school "Laboratory of Atomic and Solid State Physics, Clark Hall, Cornell University, Ithaca, NY  14853-2501, United States" ;
+    foaf:name "Millard J.D." .
+
+<http://kg_sdm.org/Editor/Morey_R_> a kg_sdm:Editor ;
+    kg_sdm:school " 412 Test Wing, Edwards AFB, CA, United States" ;
+    foaf:name "Morey R." .
+
+<http://kg_sdm.org/Editor/Newsome_M_R_> a kg_sdm:Editor ;
+    kg_sdm:school " Brigham Young University, Department of Mechanical Engineering, 270 CB, Provo, UT  84602, United States" ;
+    foaf:name "Newsome M.R." .
+
+<http://kg_sdm.org/Editor/Nixon_C_A_> a kg_sdm:Editor ;
+    kg_sdm:school "School of Mechatronics, Xidian University, Xi'an, Shaanxi, 710071, China" ;
+    foaf:name "Nixon C.A." .
+
+<http://kg_sdm.org/Editor/Olsen_M_> a kg_sdm:Editor ;
+    kg_sdm:school " Institut de Mathématiques de Toulouse, Toulouse, France" ;
+    foaf:name "Olsen M." .
+
+<http://kg_sdm.org/Editor/Orfila_M_> a kg_sdm:Editor ;
+    kg_sdm:school " Université de Rennes 1, IRMAR, Rennes, France" ;
+    foaf:name "Orfila M." .
+
+<http://kg_sdm.org/Editor/Palma_L_> a kg_sdm:Editor ;
+    kg_sdm:school "IIIT-Delhi, New Delhi, India" ;
+    foaf:name "Palma L." .
+
+<http://kg_sdm.org/Editor/Palomba_E_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Chemical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA  02139, United States" ;
+    foaf:name "Palomba E." .
+
+<http://kg_sdm.org/Editor/Pears_A_N_> a kg_sdm:Editor ;
+    kg_sdm:school "Pacific Northwest National Laboratory" ;
+    foaf:name "Pears A.N." .
+
+<http://kg_sdm.org/Editor/Pohl_M_B_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Electrical Engineering and Computer Sciences, University of California Berkeley, Berkeley, CA  94720-5800, United States" ;
+    foaf:name "Pohl M.B." .
+
+<http://kg_sdm.org/Editor/Poon_T_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Chemical Engineering, Brigham Young Univ., 350 Clyde Bldg., Provo, UT  84602, United States" ;
+    foaf:name "Poon T.C." .
+
+<http://kg_sdm.org/Editor/Protopapa_S_> a kg_sdm:Editor ;
+    kg_sdm:school "SINTEF Petroleum Research, Norway" ;
+    foaf:name "Protopapa S." .
+
+<http://kg_sdm.org/Editor/Puleo_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Agriculture and Agri-Food Canada, Lethbridge, AB, Canada" ;
+    foaf:name "Puleo C." .
+
+<http://kg_sdm.org/Editor/Putney_L_G_> a kg_sdm:Editor ;
+    kg_sdm:school " Occidental Petroleum Corporation, United States" ;
+    foaf:name "Putney L.G." .
+
+<http://kg_sdm.org/Editor/Qaderi_K_> a kg_sdm:Editor ;
+    kg_sdm:school " Automatic Control and Systems Engineering Department, University politehnica Bucharest, Bucharest, 024074, Romania" ;
+    foaf:name "Qaderi K." .
+
+<http://kg_sdm.org/Editor/Qian_Z_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Mechanical, Industrial and Manuf. Engineering, Oregon State University, Corvallis, OR  97331, United States" ;
+    foaf:name "Qian Z." .
+
+<http://kg_sdm.org/Editor/Quick_L_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Air Force Research Laboratory, Wright-Patterson AFB, 2610 Seventh St., Bldg. 441OH  45433, United States" ;
+    foaf:name "Quick L.C." .
+
+<http://kg_sdm.org/Editor/Ragozzine_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Blue Ridge Research and Consulting, 29 N Market St, Suite 700 LLC, Asheville, NC  28801, United States" ;
+    foaf:name "Ragozzine D." .
+
+<http://kg_sdm.org/Editor/Raikes_A_C_> a kg_sdm:Editor ;
+    kg_sdm:school " School of Technology, Department of Construction and Facilities Management, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Raikes A.C." .
+
+<http://kg_sdm.org/Editor/Reddy_V_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Advanced Energy, Graduate School of Frontier Sciences, University of Tokyo, Kashiwa, Chiba  277-8561, Japan" ;
+    foaf:name "Reddy V." .
+
+<http://kg_sdm.org/Editor/Rendon_G_T_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Physiology and Developmental Biology, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Rendon G.T." .
+
+<http://kg_sdm.org/Editor/Reynolds_J_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Biology, Brigham Young University, Provo, UT, United States" ;
+    foaf:name "Reynolds J." .
+
+<http://kg_sdm.org/Editor/Rhodes_J_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Aeronautics and Astronautics, Graduate School of Engineering, University of Tokyo, Bunkyo-ku, Tokyo  113-8656, Japan" ;
+    foaf:name "Rhodes J.D." .
+
+<http://kg_sdm.org/Editor/Rivkin_A_S_> a kg_sdm:Editor ;
+    kg_sdm:school " Research Unit III, Japan Aerospace Exploration Agency, Sagamihara, Kanagawa  252-5210, Japan" ;
+    foaf:name "Rivkin A.S." .
+
+<http://kg_sdm.org/Editor/Ruchti_T_> a kg_sdm:Editor ;
+    kg_sdm:school "Utah State University, ENGR 419J, Logan, UT  84322-4130, United States" ;
+    foaf:name "Ruchti T." .
+
+<http://kg_sdm.org/Editor/Salva_K_T_> a kg_sdm:Editor ;
+    kg_sdm:school "School of Engineering, University of California, 1156 High Street, Santa Cruz, CA  95064, United States" ;
+    foaf:name "Salva K.T." .
+
+<http://kg_sdm.org/Editor/Sarid_G_> a kg_sdm:Editor ;
+    kg_sdm:school " Air Force Research Laboratory, Wright-Patterson Air Force Base, Battlespace Acoustics Branch, AFRL 711 HPW/RHCBOH  45433, United States" ;
+    foaf:name "Sarid G." .
+
+<http://kg_sdm.org/Editor/Scheibel_R_S_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Mechanical Engineering, Polytechnic of Turin, Via Cristoforo Colombo, 55, Turin, 10129, Italy" ;
+    foaf:name "Scheibel R.S." .
+
+<http://kg_sdm.org/Editor/Sickafoose_A_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Advanced Energy, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba  277-8561, Japan" ;
+    foaf:name "Sickafoose A.A." .
+
+<http://kg_sdm.org/Editor/Simon_A_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Aerospace Research and Development Directorate, Japan Aerospace Exploration Agency, Sagamihara, Kanagawa  252-5210, Japan" ;
+    foaf:name "Simon A.A." .
+
+<http://kg_sdm.org/Editor/Song_R_> a kg_sdm:Editor ;
+    kg_sdm:school " 265P CTB, Provo, UT  84602, United States" ;
+    foaf:name "Song R." .
+
+<http://kg_sdm.org/Editor/Stan_N_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Bioengineering, Centre for Synthetic Biology and Innovation, Imperial College London, London, SW7 2AZ, United Kingdom" ;
+    foaf:name "Stan N." .
+
+<http://kg_sdm.org/Editor/Steffensen_S_C_> a kg_sdm:Editor ;
+    kg_sdm:school " United States Department of Agriculture-Agricultural Research Service, Stoneville, MS, United States" ;
+    foaf:name "Steffensen S.C." .
+
+<http://kg_sdm.org/Editor/Stewart_E_> a kg_sdm:Editor ;
+    kg_sdm:school "Northwest Hydraulic Consultants, 835 S. 192nd St., Bldg. C, Suite 1300, Seatac, WA  98148, United States" ;
+    foaf:name "Stewart E." .
+
+<http://kg_sdm.org/Editor/Takahashi_K_Z_> a kg_sdm:Editor ;
+    kg_sdm:school " Laboratory for Information and Decision Systems, Massachusetts Institute of Technology, Cambridge, MA  02139-4307, United States" ;
+    foaf:name "Takahashi K.Z." .
+
+<http://kg_sdm.org/Editor/Tate_D_F_> a kg_sdm:Editor ;
+    kg_sdm:school "Control Group, Department of Engineering, University of Cambridge, Cambridge, CB2 1PZ, United Kingdom" ;
+    foaf:name "Tate D.F." .
+
+<http://kg_sdm.org/Editor/Taylor_B_A_> a kg_sdm:Editor ;
+    kg_sdm:school "Mechanical Engineering, Brigham Young University, 435 CTB, Provo, UT  84602, United States" ;
+    foaf:name "Taylor B.A." .
+
+<http://kg_sdm.org/Editor/Thomas_C_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Dept. of Aeronautics and Astronautics, Graduate School of Engineering, The University of Tokyo, Bunkyo, Tokyo  113-8656, Japan" ;
+    foaf:name "Thomas C.A." .
+
+<http://kg_sdm.org/Editor/Thompson_P_M_> a kg_sdm:Editor ;
+    kg_sdm:school " Kuka Development Center, Sterling Heights, MI, United States" ;
+    foaf:name "Thompson P.M." .
+
+<http://kg_sdm.org/Editor/Trilling_D_E_> a kg_sdm:Editor ;
+    kg_sdm:school "Air Force Research Laboratory, Research Physicist, Battlespace Acoustics Branch, 2610 Seventh St., Bldg. 441, Wright-Patterson Air Force Base, OH  45433, United States" ;
+    foaf:name "Trilling D.E." .
+
+<http://kg_sdm.org/Editor/Troyanskaya_M_> a kg_sdm:Editor ;
+    kg_sdm:school " NASA Jet Propulsion Laboratory, California Institute of Technology, Extreme Environment Robotics, 4800 Oak Grove Drive, Pasadena, CA  91109, United States" ;
+    foaf:name "Troyanskaya M." .
+
+<http://kg_sdm.org/Editor/Upchurch_W_> a kg_sdm:Editor ;
+    kg_sdm:school " Naval Undersea Warfare Center, Newport, RI, United States" ;
+    foaf:name "Upchurch W." .
+
+<http://kg_sdm.org/Editor/Vasquez_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Systems Engineering Department, University of Pennsylvania, Philadelphia, PA  19104, United States" ;
+    foaf:name "Vasquez D." .
+
+<http://kg_sdm.org/Editor/Veletsianos_G_> a kg_sdm:Editor ;
+    kg_sdm:school "Mechanical Engineering, BYU, Provo, UT  84602, United States" ;
+    foaf:name "Veletsianos G." .
+
+<http://kg_sdm.org/Editor/Velez_C_> a kg_sdm:Editor ;
+    kg_sdm:school "Institute of Plant Breeding, Genetics, and Genomics, University of Georgia, Tifton Campus, Tifton, GA  31794, United States" ;
+    foaf:name "Velez C." .
+
+<http://kg_sdm.org/Editor/Villanueva_I_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Construction Science and Management, Clemson University, Clemson, SC, United States" ;
+    foaf:name "Villanueva I." .
+
+<http://kg_sdm.org/Editor/Wade_B_S_C_> a kg_sdm:Editor ;
+    kg_sdm:school " Plant Genome Mapping Laboratory, University of Georgia, Athens, GA  30602, United States" ;
+    foaf:name "Wade B.S.C." .
+
+<http://kg_sdm.org/Editor/Walker_W_C_> a kg_sdm:Editor ;
+    kg_sdm:school " FCA US LLC, Auburn Hills, MI  48321, United States" ;
+    foaf:name "Walker W.C." .
+
+<http://kg_sdm.org/Editor/Wan_J_> a kg_sdm:Editor ;
+    kg_sdm:school "Department of Geological Sciences, Brigham Young University, Provo, UT  84602-4606, United States" ;
+    foaf:name "Wan J." .
+
+<http://kg_sdm.org/Editor/Ward_C_J_> a kg_sdm:Editor ;
+    kg_sdm:school " Northern Illinois University, DeKalb, IL  60115, United States" ;
+    foaf:name "Ward C.J." .
+
+<http://kg_sdm.org/Editor/Warnick_G_M_> a kg_sdm:Editor ;
+    kg_sdm:school "Dept. of Civil and Environmental Engineering, Brigham Young Univ., 368 CB, Provo, UT  84602, United States" ;
+    foaf:name "Warnick G.M." .
+
+<http://kg_sdm.org/Editor/Weidman_J_E_> a kg_sdm:Editor ;
+    kg_sdm:school "Merit Medical Systems, Inc., South Jordan, UT, United States" ;
+    foaf:name "Weidman J.E." .
+
+<http://kg_sdm.org/Editor/Welling_A_G_> a kg_sdm:Editor ;
+    kg_sdm:school " Honors Program, Brigham Young University, Provo, UT  84602, United States" ;
+    foaf:name "Welling A.G." .
+
+<http://kg_sdm.org/Editor/West_R_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Brigham Young University, Dept. of Physics and Astronomy, N283 ESC, Provo, UT  84602, United States" ;
+    foaf:name "West R.A." .
+
+<http://kg_sdm.org/Editor/Whitehead_N_> a kg_sdm:Editor ;
+    kg_sdm:school "School of MME, Washington State University, Pullman, WA  99164, United States" ;
+    foaf:name "Whitehead N." .
+
+<http://kg_sdm.org/Editor/Wilde_E_A_> a kg_sdm:Editor ;
+    kg_sdm:school " Brigham Young University, Department of Mechanical Engineering, 350C MSRB, Provo, UT  84602, United States" ;
+    foaf:name "Wilde E.A." .
+
+<http://kg_sdm.org/Editor/Witzeman_J_S_> a kg_sdm:Editor ;
+    kg_sdm:school "Brigham Young University, 368 CB, Provo, UT  84664, United States" ;
+    foaf:name "Witzeman J.S." .
+
+<http://kg_sdm.org/Editor/Wood_Chiang_S_-H_> a kg_sdm:Editor ;
+    kg_sdm:school " Washington State University, Sloan 201, Pullman, WA, United States" ;
+    foaf:name "Wood Chiang S.-H." .
+
+<http://kg_sdm.org/Editor/Wood_D_> a kg_sdm:Editor ;
+    kg_sdm:school " Forschungszentrum Jülich, Peter Grünberg Institut (PGI-2), Jülich, D-52425, Germany" ;
+    foaf:name "Wood D." .
+
+<http://kg_sdm.org/Editor/Yeung_E_> a kg_sdm:Editor ;
+    kg_sdm:school " Indiana University, Bloomington, IN  47405, United States" ;
+    foaf:name "Yeung E." .
+
+<http://kg_sdm.org/Editor/York_G_E_> a kg_sdm:Editor ;
+    kg_sdm:school " Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA  50011, United States" ;
+    foaf:name "York G.E." .
+
+<http://kg_sdm.org/Editor/Zeng_M_> a kg_sdm:Editor ;
+    kg_sdm:school "Sustainable Energy Solutions, United States" ;
+    foaf:name "Zeng M." .
+
+<http://kg_sdm.org/Editor/Zephirin_T_> a kg_sdm:Editor ;
+    kg_sdm:school "Institute of Applied Geometry, Johannes Kepler University, Linz, Austria" ;
+    foaf:name "Zephirin T." .
+
+<http://kg_sdm.org/Editor/Zoltowski_C_B_> a kg_sdm:Editor ;
+    kg_sdm:school "Chemical Engineering, Brigham Young University, Brigham Young University, 350 Clyde Building, Provo, UT  84606, United States" ;
+    foaf:name "Zoltowski C.B." .
+
