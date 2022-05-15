@@ -78,7 +78,7 @@ kg_sdm:related_to rdfs:label "related_to" ;
 
 kg_sdm:reviews rdfs:label "reviews" ;
     rdfs:domain kg_sdm:Reviewers ;
-    rdfs:range kg_sdm:Review_process .
+    rdfs:range kg_sdm:ReviewProcess .
 
 kg_sdm:school rdfs:label "school" ;
     rdfs:domain kg_sdm:Academic ;
