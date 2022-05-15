@@ -1,0 +1,7692 @@
+ID,name
+1,Drones
+2,Human engineering
+3,Intelligent systems
+4,Real time systems
+5,Security of data
+6,Autonomous systems
+7,Causal relationships
+8,Decision mechanism
+9,Dependency graphs
+10,Real-time application
+11,Self assessment
+12,Social robots
+13,Automation
+14,Cascade control systems
+15,Computation theory
+16,Process control
+17,Soft computing
+18,Students
+19,Cascade control
+20,Cascade control structure
+21,Control concept
+22,Control techniques
+23,Engineering course
+24,"Proportional , integral and derivative controllers"
+25,Teaching/learning
+26,Theory and practice
+27,Control theory
+28,Hydraulics
+29,Editorial board
+30,Sediment management
+31,Reservoir management
+32,guideline
+33,reservoir
+34,sediment
+35,Compressors
+36,Data handling
+37,Structural design
+38,Compressor blades
+39,Computational costs
+40,Design space exploration
+41,Design variations
+42,Geometric variations
+43,Principal Components
+44,Stress variations
+45,Two-point correlation
+46,Machine design
+47,Entertainment
+48,A-RINGS
+49,External pressures
+50,Romantic relationship
+51,User motivation
+52,Motivation
+53,Asynchronous generators
+54,Compressed sensing
+55,Computational geometry
+56,Dynamic loads
+57,Dynamics
+58,Electric fault currents
+59,Large scale systems
+60,Computational data
+61,Computational differential geometry
+62,Doubly fed induction generators
+63,Information geometry
+64,Large-scale power systems
+65,Power system transients
+66,Transient phenomenon
+67,Two-step procedure
+68,Electric machine theory
+69,Ballistics
+70,Coatings
+71,Fiber optic sensors
+72,Fibers
+73,Impact testing
+74,Weaving
+75,Backing materials
+76,Ballistic impact testing
+77,Ballistic Protection
+78,Fiber Bragg Grating Sensors
+79,High-velocity impact
+80,Repeated impact
+81,Strain information
+82,Strain response
+83,Fiber Bragg gratings
+84,Economic and social effects
+85,Location
+86,Collaborative environments
+87,Design environment
+88,Immersive virtual environments
+89,Immersive virtual reality
+90,Location identification
+91,Multiple transitions
+92,Specific component
+93,View locations
+94,Virtual reality
+95,Cyber Physical System
+96,Embedded systems
+97,Frequency estimation
+98,State estimation
+99,Bad data detections
+100,Cyber physical systems (CPSs)
+101,Hybrid state estimation
+102,Information and Communication Technologies
+103,Measuring instruments
+104,Network observability
+105,Probabilistic extension
+106,Realistic communication
+107,Phasor measurement units
+108,Etching
+109,Photoresists
+110,Polymers
+111,Capillary action
+112,Chemical vapor deposited
+113,Nanoscale solids
+114,Natural shapes
+115,Sacrificial etching
+116,Silicon substrates
+117,Solid-state membranes
+118,Suspended membranes
+119,Membranes
+120,Amines
+121,Carbon dioxide
+122,Carbon nanotubes
+123,Climate change
+124,Energy utilization
+125,Environmental technology
+126,Ethanolamines
+127,Investments
+128,Life cycle
+129,Specific heat
+130,Adsorption/desorption
+131,Covalently bonded
+132,High temperature
+133,Industrial methods
+134,Material synthesis
+135,Monoethanolamine
+136,Polyethyleneimine
+137,Preparation phasis
+138,Environmental impact
+139,Aerospace industry
+140,Aluminum alloys
+141,Aluminum coated steel
+142,Automotive industry
+143,Cleaning
+144,Spot welding
+145,Thermocouples
+146,Tool steel
+147,Welds
+148,Effective tool
+149,Friction stir spot welding
+150,Steel tools
+151,Thin sheet
+152,Tool materials
+153,Tool surfaces
+154,Weld temperature
+155,Friction stir welding
+156,Agricultural robots
+157,Numerical methods
+158,Trees (mathematics)
+159,Coordinate ascent
+160,Decentralized routing
+161,"Intelligence , surveillance , and reconnaissances"
+162,Limited communication
+163,Monte-Carlo tree searches
+164,Multiple autonomous vehicles
+165,Myopic algorithm
+166,Optimal solutions
+167,Autonomous vehicles
+168,Armor
+169,Deformation
+170,Energy dissipation
+171,Failure (mechanical)
+172,High speed cameras
+173,Ballistic fabric
+174,Fabric deformations
+175,Face deformations
+176,Optical interrogation
+177,Spectral profile
+178,Strain behaviors
+179,Degrees of freedom (mechanics)
+180,Extraction
+181,Functions
+182,Linear systems
+183,Quality control
+184,Strain
+185,Thin walled structures
+186,Coarse meshes
+187,Control meshes
+188,Geometrically nonlinear
+189,Interpolatory
+190,Mixed approach
+191,Orthogonality properties
+192,Shear and membrane locking
+193,Variational principles
+194,Locks (fasteners)
+195,Physical layer
+196,Vehicle to infrastructure
+197,Vehicles
+198,Finite block length
+199,Physical layer security
+200,Reliable communication
+201,Urban environments
+202,Vehicle to infrastructure (V2I)
+203,Vehicle to vehicle network (V2V)
+204,Network security
+205,Bridge decks
+206,Computer architecture
+207,Concrete bridges
+208,Concretes
+209,Acoustic excitation
+210,Data processing architecture
+211,Detection and repairs
+212,Inspection methods
+213,Internal cracking
+214,Long-term maintenances
+215,Orders of magnitude
+216,Sounding techniques
+217,Repair
+218,Aluminum
+219,Energy efficiency
+220,Heat losses
+221,Hinges
+222,Meteorology
+223,Radiative Cooling
+224,Thermal conductivity
+225,Expansion and contraction
+226,Experimental demonstrations
+227,Experimental prototype
+228,Operating temperature
+229,Radiative heat loss
+230,Spacecraft components
+231,Spacecraft radiators
+232,Vacuum environment
+233,Radiators
+234,Activation energy
+235,Carbon dioxide process
+236,Carbon footprint
+237,Carbon monoxide
+238,Catalysts
+239,Coal
+240,Global warming
+241,Iron research
+242,Methane
+243,Oxalic acid
+244,Reaction kinetics
+245,Synthesis gas
+246,Synthesis gas manufacture
+247,Carbon and hydrogens
+248,Carbon dioxide emissions
+249,Carbon footprint reductions
+250,Char gasification
+251,Multifunctional agents
+252,Process efficiency
+253,Syngas production
+254,Two-stage process
+255,Coal combustion
+256,High pass filters
+257,Particle detectors
+258,Biquad filter
+259,Design process
+260,Front-end amplifier
+261,Particle detection
+262,Power efficiency
+263,Pulse signal
+264,State of the art
+265,Transfer characteristics
+266,Pulse shaping
+267,Data integration
+268,Data Science
+269,Information use
+270,Paper
+271,Publishing
+272,Search engines
+273,Websites
+274,Academic journal
+275,Empirical studies
+276,High volumes
+277,Latest development
+278,Learning models
+279,Research papers
+280,Scientific journals
+281,Scientific papers
+282,Deep learning
+283,Crystal lattices
+284,Nickel
+285,Boundary planes
+286,Coincidence site lattices
+287,Disorientation angle
+288,Face-centered cubic
+289,Grain-boundary energy
+290,Low angle boundaries
+291,Misorientations
+292,Grain boundaries
+293,Bandwidth
+294,Signal to noise ratio
+295,Analog to digital converters
+296,Coarse quantization
+297,Data converter
+298,High resolution
+299,Multi stage noise shaping
+300,Over sampling ratio
+301,Power efficient
+302,Wide bandwidth
+303,Analog to digital conversion
+304,Antennas
+305,MIMO systems
+306,Unmanned aerial vehicles (UAV)
+307,Ambiguity resolution
+308,Attitude estimation
+309,Cooperative navigations
+310,Multiple-input multiple-output channels
+311,Potential methods
+312,Radio frequencies
+313,Two degrees of freedom
+314,Vector estimates
+315,Air navigation
+316,Global positioning system
+317,Direct measurement
+318,Global measurements
+319,GPS-denied navigations
+320,Inertial measurement unit
+321,Laser scan matching
+322,Multiplicative extended kalman filters
+323,System robustness
+324,Useful properties
+325,Extended Kalman filters
+326,Safety engineering
+327,Censored data
+328,Censored observations
+329,Keypoints
+330,Ecodesign
+331,Engineers
+332,Laws and legislation
+333,Product design
+334,Academic research
+335,Current practices
+336,Design engineers
+337,Engineering professionals
+338,Government regulation
+339,Industry practices
+340,Social impact assessments
+341,Aircraft detection
+342,Clutter (information theory)
+343,Geometrical optics
+344,Matrix algebra
+345,Video recording
+346,Embedded hardware
+347,Epipolar geometry
+348,Multi-target tracking
+349,Pose estimation algorithm
+350,Real time performance
+351,Relative rotation
+352,State-of-the-art algorithms
+353,Iterative methods
+354,Calibration
+355,Clinical research
+356,Joints (anatomy)
+357,Calibration method
+358,Clinical application
+359,Co-ordinate system
+360,Electromagnetic sensors
+361,Experimental methods
+362,In-vivo measurement
+363,International Society of Biomechanics
+364,Motion tracking system
+365,Motion tracking
+366,anatomic landmark
+367,arm movement
+368,Article
+369,body position
+370,comparative study
+371,elbow
+372,electromagnetism
+373,forearm
+374,in vivo study
+375,kinematics
+376,methodology
+377,rotation
+378,shoulder
+379,wrist
+380,Acoustic noise measurement
+381,Noise abatement
+382,Control performance
+383,Intermediate results
+384,Noise levels
+385,Noise range
+386,Radiated noise
+387,Radiated sound
+388,Tube inserts
+389,Valve opening
+390,Acoustic variables control
+391,Mechanical engineering
+392,Mechanisms
+393,Conical geometry
+394,Conical surfaces
+395,Multiloop
+396,Position analysis
+397,Spherical mechanisms
+398,Spheres
+399,Aerodynamics
+400,Controllers
+401,Fixed wings
+402,Flight simulators
+403,Linear control systems
+404,Aerodynamic modeling
+405,Angular rate
+406,Control schemes
+407,Flight modes
+408,LQR controller
+409,State-dependent
+410,Trajectory tracking
+411,Vertical take-off and landings
+412,Aircraft control
+413,Aerospace applications
+414,Convolution
+415,Failure analysis
+416,Field programmable gate arrays (FPGA)
+417,Integrated circuit design
+418,Low power electronics
+419,Military applications
+420,Military vehicles
+421,Multilayer neural networks
+422,Network layers
+423,Random errors
+424,Static random access storage
+425,Binary quantization
+426,Configuration memory
+427,Design flexibility
+428,Low-power consumption
+429,Misclassifications
+430,Reliability impacts
+431,Resource utilizations
+432,Static random access memory
+433,Convolutional neural networks
+434,Computer software
+435,Data acquisition
+436,Drops
+437,Observability
+438,Packet loss
+439,Communication delays
+440,Discrete Kalman filters
+441,Network simulator 2
+442,Packet-drop probability
+443,Supervisory control and data acquisition
+444,System observability
+445,Separation
+446,Aliased
+447,CME analysis
+448,confounding
+449,effect heredity
+450,Effect sparsity
+451,Hierarchical order
+452,Factor analysis
+453,Bit error rate
+454,Equalizers
+455,Errors
+456,Frequency allocation
+457,Maximum likelihood
+458,Mean square error
+459,Telemetering equipment
+460,Aeronautical telemetry
+461,Carrier frequency offsets
+462,Discrete-time channels
+463,Filter coefficients
+464,Frequency selectivity
+465,Minimum mean squared error equalizers
+466,Reliable estimates
+467,Viable solutions
+468,Parameter estimation
+469,Aircraft
+470,Kalman filters
+471,Flight test
+472,Global constraints
+473,Global state
+474,Measurement model
+475,Monocular cameras
+476,Nonlinear uncertainties
+477,Relative navigation
+478,3D printers
+479,Additives
+480,Laser heating
+481,Open source software
+482,Open systems
+483,Residual stresses
+484,Sintering
+485,Complex microstructures
+486,Cross correlations
+487,Dislocation structures
+488,Dislocation substructures
+489,Geometrically necessary dislocations
+490,High resolution electron backscatter diffractions
+491,Laser additive manufacturing
+492,Residual strains
+493,Aspect ratio
+494,Cytology
+495,Geometry
+496,Liquid films
+497,Microfluidics
+498,Thermodynamics
+499,Water cooled reactors
+500,Wetting
+501,Ambient environment
+502,Capillary effects
+503,Large aspect ratio
+504,Light water cooled nuclear reactors
+505,Microfluidic channel
+506,Microfluidic geometry
+507,Thin liquid film
+508,Barium compounds
+509,Couplings
+510,Barium borate
+511,Spectral feature
+512,Terahertz spectra
+513,Vibrational couplings
+514,Terahertz spectroscopy
+515,Light scattering
+516,Polarization
+517,Free electron
+518,Laser focus
+519,Nonlinear Thomson scattering
+520,Polarization components
+521,Red-shifted
+522,Spatial patterns
+523,Third harmonic
+524,Light
+525,Developing countries
+526,Product development
+527,Developing product
+528,Developing world
+529,Engineered products
+530,New product development
+531,Probability tables
+532,Product development process
+533,Product reviews
+534,SIMPLE method
+535,Fluidic devices
+536,Polymethyl methacrylates
+537,Printed circuit boards
+538,Substrates
+539,Temperature
+540,Device materials
+541,Fluid interface
+542,Glass substrates
+543,Low temperature processing
+544,Microfluidic chip
+545,Plastic tubing
+546,Pressure tests
+547,Drying
+548,Ink jet printing
+549,Saturation (materials composition)
+550,Stainless steel
+551,Additive manufacturing process
+552,Droplet volume
+553,Drying condition
+554,Heating conditions
+555,Postprocessing methods
+556,Saturation levels
+557,Saturation limits
+558,Saturation parameters
+559,DNA
+560,Electroless plating
+561,Gold Nanorods
+562,Metals
+563,Nanoelectronics
+564,Nanorods
+565,Plasmons
+566,Semiconducting tellurium
+567,Bottom up approach
+568,DNA nanostructures
+569,Electrical characterization
+570,Electroless gold plating
+571,Inorganic nanostructures
+572,Schottky junctions
+573,Semiconductor interfaces
+574,Voltage properties
+575,Semiconductor junctions
+576,Bioinformatics
+577,C++ (programming language)
+578,Data structures
+579,Software prototyping
+580,De Bruijn graphs
+581,False positive
+582,Map-reduce
+583,Parallel data structures
+584,Parallel operations
+585,Specific values
+586,Digital storage
+587,Learning algorithms
+588,Topology
+589,Global stability
+590,Hierarchical topology
+591,Network element
+592,Real-world networks
+593,Skewed degree distribution
+594,Spectral properties
+595,Topological evolution
+596,Topological features
+597,Recurrent neural networks
+598,Polynomial approximation
+599,Biharmonic problem
+600,Continuity constraints
+601,Dual basis
+602,Dual mortars
+603,Fourth order problems
+604,Higher-order polynomials
+605,Optimal approximation
+606,Polynomial splines
+607,Mortar
+608,Angular distribution
+609,Brickmaking
+610,Heat flux
+611,Heat radiation
+612,Radiative transfer
+613,Rotary kilns
+614,Absorption and scatterings
+615,Conductive heat transfer
+616,Cylindrical enclosure
+617,Discrete ordinates method
+618,Particle distributions
+619,Radiative heat fluxes
+620,Radiative heat transfer
+621,Radiative transfer equations
+622,3D modeling
+623,Four wave mixing
+624,Free electron lasers
+625,All optical
+626,Extreme-ultraviolet free-electron lasers
+627,Phase sensitive
+628,Pulse train
+629,Single-shot measurements
+630,Spectrograms
+631,Electrons
+632,Backscattering
+633,Coarsening
+634,Cryogenics
+635,Electron diffraction
+636,Cryogenic loading
+637,Cryogenic temperatures
+638,Elastic and plastic deformation
+639,Electron back scatter diffraction
+640,Equal channel angular pressed
+641,Micro compressions
+642,Science applications
+643,Stress-driven grain-growth
+644,Grain growth
+645,Biocompatibility
+646,Cell adhesion
+647,Cytotoxicity
+648,Plasma applications
+649,Polyethylene glycols
+650,Resins
+651,Sulfur compounds
+652,3-D printing
+653,Cell migration
+654,Design approaches
+655,Microfluidic structures
+656,Plasma treatment
+657,Polyethylene glycol diacrylate
+658,spheroid
+659,Automotive aluminum
+660,Design limitations
+661,Joining process
+662,Long cycle time
+663,Process parameters
+664,Rotational velocity
+665,Welding process
+666,Forecasting
+667,Isomers
+668,Sustainable development
+669,Design for X
+670,Engineering community
+671,Engineering parameters
+672,Performance measure
+673,Product requirements
+674,U.S.-Mexico border
+675,Computer graphics
+676,Graphics processing unit
+677,Nonlinear systems
+678,Predictive control systems
+679,Program processors
+680,Real time control
+681,Robot programming
+682,Robotics
+683,Robots
+684,Control architectures and programming
+685,High degree of freedom systems
+686,Model learning
+687,Nonlinear model predictive control
+688,Optimization and optimal control
+689,Optimization method
+690,Robotics applications
+691,Model predictive control
+692,Fault detection
+693,Network components
+694,Circuit components
+695,Fault detection techniques
+696,Fault Injection techniques
+697,Multiple clock domains
+698,Networking systems
+699,Neutron radiations
+700,Partial duplications
+701,Radiation-induced
+702,Neutron irradiation
+703,Flow velocity
+704,Fluorescence
+705,Focusing
+706,Hydrodynamics
+707,Optical waveguides
+708,Surface micromachining
+709,Detection sensitivity
+710,Fluorescent signals
+711,Hydrodynamic focusing
+712,Optofluidic devices
+713,Pressure-driven flows
+714,Sensitivity and specificity
+715,Threedimensional (3-d)
+716,Volumetric flow ratio
+717,Flow of fluids
+718,Curricula
+719,Course development
+720,Electromagnetics
+721,EM theory
+722,Engineering instructions
+723,ITS applications
+724,Teaching and learning
+725,Teaching
+726,Kinetic energy
+727,Kinetics
+728,Modulation
+729,Navier Stokes equations
+730,Stochastic models
+731,Stochastic systems
+732,Turbulent flow
+733,Energy dissipation rate
+734,Homogeneous isotropic turbulence
+735,Navier-Stokes turbulence
+736,One dimensional turbulence
+737,Particle Stokes number
+738,Particle-induced turbulence
+739,Physical interpretation
+740,Statistical stationarity
+741,Turbulence
+742,Railroad transportation
+743,Seismology
+744,Stiffness
+745,Backbone curves
+746,High speed rail
+747,Large scale tests
+748,Parametric curve
+749,Tectonic faults
+750,Three dimensional finite element model
+751,Vertical differential movement
+752,Vertical stiffness
+753,Abutments (bridge)
+754,Binary alloys
+755,Cobalt alloys
+756,Crystal structure
+757,Crystallinity
+758,Deposition
+759,Lithium batteries
+760,Thin films
+761,Tin alloys
+762,combinatorial
+763,High through-put characterization
+764,Li metal
+765,Protection layers
+766,Sn alloys
+767,Lithium alloys
+768,Anodes
+769,Electrochemical cells
+770,Fuel cells
+771,Glucose
+772,Molar ratio
+773,Oxygen
+774,Reaction rates
+775,Electrochemical conditions
+776,Electrochemical experiments
+777,Electrochemical reaction rates
+778,Fuel cell application
+779,Glucose fuel cells
+780,Glucose oxidation
+781,Oxidation efficiency
+782,Viologens
+783,Electrochemical oxidation
+784,anoxic conditions
+785,electrochemical method
+786,electrode
+787,experimental study
+788,fuel cell
+789,glucose
+790,oxic conditions
+791,oxidation
+792,reaction rate
+793,Comparators (optical)
+794,Integrated circuits
+795,Biasing circuit
+796,Circuit functionality
+797,Load capacitors
+798,Low power application
+799,Low supply voltages
+800,Measurements of
+801,Strength ratios
+802,Subthreshold
+803,Comparator circuits
+804,Friction
+805,Friction welding
+806,Martensite
+807,Martensitic transformations
+808,Microstructure
+809,Pearlite
+810,Pearlitic transformations
+811,Scanning electron microscopy
+812,Temperature control
+813,Cooling rates
+814,Geometric properties
+815,Interface temperatures
+816,Microstructure control
+817,Pearlitic microstructure
+818,Rotary friction welding
+819,Transformation
+820,Weld microstructures
+821,Cooling
+822,Electron transport properties
+823,Electron tunneling
+824,Finite element method
+825,Inverse problems
+826,Nanocomposites
+827,Nanoparticles
+828,Percolation (solid state)
+829,Poisson distribution
+830,Quantum chemistry
+831,Solvents
+832,Conductive nanoparticles
+833,Effective medium theories
+834,Orientation distributions
+835,Percolation behavior
+836,Percolation theory
+837,Piezo-resistive behavior
+838,Piezo-resistive sensors
+839,Random resistor networks
+840,Wearable sensors
+841,Compliant mechanisms
+842,Potential energy functions
+843,Rigid structures
+844,Contact analysis
+845,Contact-aided compliant mechanisms
+846,Geometric constraint
+847,Geometric information
+848,Large deflection
+849,Large deflection analysis
+850,Pseudo-rigid body models
+851,Static equilibrium configurations
+852,Ashes
+853,Biomass
+854,Fuels
+855,Gasification
+856,Particle size
+857,Char reactivity
+858,Diffusion controlled
+859,Kinetic reactions
+860,Kinetic reactivity
+861,Kinetically controlled
+862,Non-catalytic
+863,Theoretical modeling
+864,ash
+865,biomass
+866,burning
+867,catalysis
+868,reaction kinetics
+869,reactive transport
+870,theoretical study
+871,Brute force search
+872,Generalized grids
+873,K points
+874,K-point sampling
+875,On the flies
+876,Regular grids
+877,Symmetry reduction
+878,Uniform distribution
+879,Density functional theory
+880,Frequency division multiplexing
+881,Frequency domain analysis
+882,Low noise amplifiers
+883,Microwave antennas
+884,Notch filters
+885,Printed circuit design
+886,Receiving antennas
+887,Slot antennas
+888,Timing circuits
+889,Defected ground plane
+890,Electromagnetic isolation
+891,Frequency division duplexed
+892,Frequency division duplexing
+893,Isolation performance
+894,Small aircraft
+895,Unmanned aerial systems
+896,X bands
+897,Disturbance rejection
+898,Gases
+899,MEMS
+900,Silicon
+901,Thermal gradients
+902,Conduction-cooling
+903,Fabrication process
+904,Gas chromatographic column
+905,Heating and cooling rates
+906,High-resolution separations
+907,Microcolumns
+908,Quadratic temperature
+909,Temperature profiles
+910,Gas chromatography
+911,Bicrystals
+912,Polycrystals
+913,Computational constraints
+914,Effective property
+915,Grain boundary structure
+916,Property data
+917,Property measurement
+918,Property models
+919,Uncertainty quantifications
+920,Structural properties
+921,Boundary layer flow
+922,Boundary layers
+923,Buoyancy
+924,Differential equations
+925,Hydrophobicity
+926,Natural convection
+927,Nusselt number
+928,Polonium compounds
+929,Prandtl number
+930,Surface properties
+931,Analytical investigations
+932,Boundary layer thickness
+933,Increased temperature
+934,Slip length
+935,Super-hydrophobic surfaces
+936,System of differential equations
+937,Temperature jump
+938,Vertical wall
+939,Alumina
+940,Aluminum oxide
+941,Calcination
+942,Catalysis
+943,Ethane
+944,Ethylene
+945,Nickel oxide
+946,Productivity
+947,Silica
+948,Alumina support
+949,Alumina-supported
+950,Calcination temperature
+951,Energy-efficient process
+952,NiO catalysts
+953,Oxidative dehydrogenation of ethanes
+954,Oxidative dehydrogenations
+955,Reaction temperature
+956,Dehydrogenation
+957,Feedback
+958,Identification (control systems)
+959,Relay control systems
+960,Religious buildings
+961,Research laboratories
+962,Restoration
+963,Adaptive methods
+964,Adaptive relay
+965,Autotuning
+966,Friction stir welding(FSW)
+967,Non-oscillations
+968,Relay feedback test
+969,Relay test
+970,article
+971,simulation
+972,welding
+973,Battery management systems
+974,Digital communication systems
+975,Ions
+976,Probability
+977,Viterbi algorithm
+978,BCJR algorithm
+979,Digital communications
+980,Interacting multiple model
+981,Markovian process
+982,Post processing
+983,Postprocessing algorithms
+984,Probability mass function
+985,Transition probabilities
+986,Lithium-ion batteries
+987,Block codes
+988,Space time codes
+989,Space-time block coding (STBC)
+990,Channel conditions
+991,Equalizer coefficients
+992,Mean squared error
+993,Multipaths
+994,Nonconvex functions
+995,Sparse channels
+996,Transmit diversity
+997,Atmospheric temperature
+998,Heat transfer
+999,Iron ores
+1000,Oil field equipment
+1001,Convective heat transfer
+1002,Particle concentrations
+1003,Radiation and convection
+1004,Radiative heat transfer equation
+1005,Radiative heat transfer modeling
+1006,Heat convection
+1007,biomedicine
+1008,biotechnology
+1009,commercial phenomena
+1010,economic aspect
+1011,economic development
+1012,employment
+1013,government
+1014,human
+1015,licensing
+1016,patent
+1017,priority journal
+1018,United States
+1019,university
+1020,cohort analysis
+1021,economics
+1022,entrepreneurship
+1023,policy
+1024,Biotechnology
+1025,Cohort Studies
+1026,Employment
+1027,Entrepreneurship
+1028,Humans
+1029,Licensure
+1030,Policy
+1031,Universities
+1032,Tantalum
+1033,Back stress
+1034,cpfem
+1035,Crystal plasticity finite element methods (CP FEM)
+1036,ebsd
+1037,Individual components
+1038,Stress-strain response
+1039,Public policy
+1040,Resource allocation
+1041,Surveys
+1042,Environmental dynamics
+1043,Green human resource management bundles
+1044,Green products
+1045,Team creativity
+1046,Technological turbulences
+1047,Human resource management
+1048,Reflection
+1049,Aperture efficiency
+1050,Field of views
+1051,Figure of merits
+1052,Optimal spacing
+1053,Optimal system performance
+1054,Phased array feeds
+1055,Reflector geometry
+1056,Superdirectivity
+1057,Speed
+1058,Contact lenses
+1059,Drug delivery
+1060,Hydrogels
+1061,Propanol
+1062,Silicones
+1063,Solubility
+1064,Swelling
+1065,Targeted drug delivery
+1066,Artificial tears
+1067,Conventional lens
+1068,Hansen solubility parameters
+1069,latanoprost
+1070,Poly hydroxy ethyl methacrylates
+1071,Silicone hydrogels
+1072,Solubility parameters
+1073,Solvent chemistries
+1074,Controlled drug delivery
+1075,alpha tocopherol
+1076,galyfilcon A
+1077,propanol
+1078,trichloroethylene
+1079,drug release
+1080,drug uptake
+1081,swelling
+1082,Antimicrobial agents
+1083,Medical applications
+1084,Medical nanotechnology
+1085,Metal nanoparticles
+1086,Nanomagnetics
+1087,Nanostructured materials
+1088,Nanotechnology
+1089,Peptides
+1090,Physicochemical properties
+1091,Antibacterial peptides
+1092,Biomedical applications
+1093,Cathelicidin
+1094,Ceragenins
+1095,Magnetic nano-particles
+1096,Membrane active compounds
+1097,Nanoantibiotics
+1098,Therapeutic potentials
+1099,antiinfective agent
+1100,antimicrobial cationic peptide
+1101,cathelicidin antimicrobial peptide LL 37
+1102,ceragenin
+1103,magnetic nanoparticle
+1104,nanomaterial
+1105,nanoparticle
+1106,unclassified drug
+1107,antibiofilm activity
+1108,antibiotic therapy
+1109,antifungal activity
+1110,antimicrobial activity
+1111,antineoplastic activity
+1112,bacterial strain
+1113,cancer therapy
+1114,drug delivery system
+1115,drug efficacy
+1116,drug formulation
+1117,drug potency
+1118,Escherichia coli
+1119,experimental therapy
+1120,fractional inhibitory concentration index
+1121,immunomodulation
+1122,immunotherapy
+1123,infection prevention
+1124,minimum inhibitory concentration
+1125,nanomedicine
+1126,nonhuman
+1127,pathogen clearance
+1128,pleiotropy
+1129,recurrent disease
+1130,regenerative medicine
+1131,Review
+1132,urinary tract infection
+1133,Cyclic quadrilateral
+1134,Cylindrical surface
+1135,Four-bar mechanisms
+1136,Grashof
+1137,Graphite fibers
+1138,Optical data processing
+1139,Autoclave methods
+1140,Automated methods
+1141,Carbon reinforcements
+1142,Flow orientations
+1143,High performance composites
+1144,Liquid composite molding
+1145,Minimum velocities
+1146,Optical measurement
+1147,Image analysis
+1148,Circuit simulation
+1149,Computer aided software engineering
+1150,Computer programming
+1151,Photonic devices
+1152,Transceivers
+1153,Deep knowledge
+1154,Free and open source softwares
+1155,Open sources
+1156,Photonic integrated circuits
+1157,Plug-ins
+1158,Photonic integration technology
+1159,Clothes
+1160,Textiles
+1161,Adaptive thinking
+1162,Cognitive modes
+1163,Creative thinking
+1164,Industrial designers
+1165,Most likely
+1166,Visual thinking
+1167,Industrial research
+1168,Classification (of information)
+1169,Computational linguistics
+1170,Intelligent computing
+1171,Sentiment analysis
+1172,Transfer learning
+1173,Based reasonings
+1174,Commonsense reasoning
+1175,Emotional classification
+1176,Empirical evaluations
+1177,Implicit knowledge
+1178,Internal representation
+1179,Linear operations
+1180,Threat detection
+1181,Embeddings
+1182,Electrostatic actuators
+1183,Electrostatics
+1184,Nanofluidics
+1185,Pumps
+1186,Capillary force
+1187,Electrostatic actuation
+1188,Nano channels
+1189,Nano scale
+1190,Peristaltic pump
+1191,Pumping rate
+1192,Silica thin films
+1193,Continuous time systems
+1194,Fault tolerant computer systems
+1195,Maintainability
+1196,Markov chains
+1197,Time-to-failure
+1198,Common cause failure
+1199,Continuous time Markov chain
+1200,Fundamental limitations
+1201,Markov chain models
+1202,Mitigation techniques
+1203,Reliability improvement
+1204,System reliability
+1205,Triple modular redundancy
+1206,Redundancy
+1207,End effectors
+1208,Sliding mode control
+1209,McKibben actuators
+1210,Model predictive controllers
+1211,Model-based control methods
+1212,Multiple-degree-of-freedom
+1213,Simultaneous control
+1214,Sliding mode controller
+1215,Unstructured environments
+1216,Variable stiffness
+1217,Position control
+1218,Analysis and evaluation
+1219,Decomposition technique
+1220,Design activity
+1221,Envelope method
+1222,Multi-user
+1223,Partitioning methods
+1224,Partitioning techniques
+1225,Sensitive datas
+1226,Computer aided design
+1227,Delamination
+1228,Signal processing
+1229,Acoustic energy
+1230,Acoustic response
+1231,Bandlimited
+1232,Impact-echo testing
+1233,Inspection time
+1234,Measurement instruments
+1235,Moving platform
+1236,Multi channel
+1237,Dual quaternion
+1238,Functional representation
+1239,Normal vector
+1240,Rigid motions
+1241,Single vertex
+1242,Cables
+1243,Array architecture
+1244,Array systems
+1245,Large arrays
+1246,Large spaces
+1247,Self-deployable
+1248,Strain energy
+1249,MATLAB
+1250,Regression analysis
+1251,Contour map
+1252,Decision boundary
+1253,Final decision
+1254,Left turns
+1255,Safety assessments
+1256,Signalized intersection
+1257,Traffic volumes
+1258,Intersections
+1259,Decision trees
+1260,Forestry
+1261,Information dissemination
+1262,Machine learning
+1263,Massive data
+1264,Offensive operations
+1265,Phishing
+1266,Neural networks
+1267,Bragg cells
+1268,Codes (symbols)
+1269,Continuum mechanics
+1270,Crystallites
+1271,Diffraction patterns
+1272,Interferometry
+1273,Molecular crystals
+1274,Nanocrystalline materials
+1275,Parameterization
+1276,Single crystals
+1277,X ray diffraction
+1278,Arbitrary Lagrangian Eulerian
+1279,Crystal lattice deformation
+1280,Cyclotrimethylenetrinitramine
+1281,Dynamic compression experiment
+1282,In-situ X-ray diffraction
+1283,Parametric uncertainties
+1284,Single-crystal materials
+1285,Thermo-mechanical response
+1286,Crime
+1287,Game theory
+1288,Ground vehicles
+1289,Differential games
+1290,Human trafficking
+1291,Minimum distance
+1292,Optimal policies
+1293,Potential threats
+1294,Rectangular area
+1295,State information
+1296,Ionizing radiation
+1297,Logic gates
+1298,Neutron scattering
+1299,Radiation effects
+1300,Radiation hardening
+1301,Configuration scrubbing
+1302,Fault injection
+1303,Radiation testing
+1304,Single event effects
+1305,Single event upsets
+1306,Single point failure
+1307,Error correction
+1308,Microcontrollers
+1309,Radiation protection
+1310,Statistical methods
+1311,Error correction codes
+1312,Multiple bit upset
+1313,Multiple cell upset
+1314,Physical layout
+1315,Radiation tests
+1316,Magnetic fields
+1317,Nondestructive examination
+1318,Piezoelectricity
+1319,Spectroscopy
+1320,Transducers
+1321,Ultrasonic applications
+1322,Vibrations (mechanical)
+1323,Electromagnetic excitations
+1324,Electromagnetic techniques
+1325,Electromagnetic transducer
+1326,Non destructive evaluation
+1327,Non-linear parameters
+1328,Nonlinear resonant ultrasound spectroscopies
+1329,Resonance frequencies
+1330,Selective excitations
+1331,Electric excitation
+1332,Computational efficiency
+1333,Constraint model
+1334,Cross-Axis Flexural Pivot
+1335,Geometrical aspects
+1336,Numerical results
+1337,Preliminary design
+1338,Rotational stiffness
+1339,Software frameworks
+1340,Infill drilling
+1341,Oil well drilling
+1342,Controller models
+1343,Feedback measurements
+1344,High fidelity models
+1345,Highly accurate
+1346,Managed Pressure Drilling
+1347,Physical systems
+1348,Simulation studies
+1349,System modeling
+1350,Afterburners (engine)
+1351,Large eddy simulation
+1352,Military aircraft
+1353,Shear flow
+1354,Afterburning
+1355,Coherence analysis
+1356,High temperature ratio
+1357,Large Eddy simulation methods
+1358,Noise production
+1359,Shear layer
+1360,Transfer information
+1361,Jet aircraft
+1362,Crosswalks
+1363,Footbridges
+1364,Traffic signals
+1365,Fatality rates
+1366,High intensity
+1367,Safety impact
+1368,Safety measures
+1369,Speed limit
+1370,Technological enhancement
+1371,Utah department of transportations
+1372,Pedestrian safety
+1373,Dipole antennas
+1374,Electromagnetic waves
+1375,Effective area
+1376,Gain enhancement
+1377,Minimum scattering antennas
+1378,Parasitic element
+1379,Poynting vectors
+1380,Antenna arrays
+1381,Angular momentum
+1382,Dynamical systems
+1383,Momentum transfer
+1384,Reynolds equation
+1385,Reynolds number
+1386,Azimuthal momentum
+1387,Free-slip boundary conditions
+1388,Full three-dimensional
+1389,Independent variables
+1390,Momentum transports
+1391,Plane Couette flow
+1392,Taylor Couette flow
+1393,Velocity components
+1394,Ability testing
+1395,Data Sharing
+1396,Monte Carlo methods
+1397,Navigation
+1398,Cooperative operation
+1399,Coordinated resets
+1400,Expected improvements
+1401,Formation flying
+1402,Global navigation
+1403,Sharing information
+1404,Brain
+1405,Chemical activation
+1406,Complex networks
+1407,Computer aided diagnosis
+1408,Graph algorithms
+1409,Graph structures
+1410,Image classification
+1411,Magnetic resonance imaging
+1412,Tumors
+1413,Activation functions
+1414,Brain tumor classifications
+1415,Brain tumors
+1416,Clinical experience
+1417,Computer assisted diagnosis
+1418,Network structures
+1419,Neural network designs
+1420,Commercial off-the-shelf
+1421,Fault tolerance
+1422,Software testing
+1423,System-on-chip
+1424,Cache configurations
+1425,Silent data corruption (SDC)
+1426,Soft error
+1427,Software fault tolerances
+1428,Software protection
+1429,Program compilers
+1430,Precision engineering
+1431,Future challenges
+1432,Kinetostatic
+1433,Mechanical behavior
+1434,Model approach
+1435,Paper surveys
+1436,Serial parallels
+1437,Augmented reality
+1438,Holograms
+1439,Holographic displays
+1440,Man machine systems
+1441,Manipulators
+1442,Manual control
+1443,Motion planning
+1444,Robotic arms
+1445,Structural dynamics
+1446,Complex operations
+1447,Force feedback
+1448,Human supervision
+1449,Interactive robot
+1450,Joy-stick interfaces
+1451,MicroSoft
+1452,Robot control systems
+1453,Robotic manipulators
+1454,Acoustic arrays
+1455,Acoustic measuring instruments
+1456,Costs
+1457,Data fusion
+1458,Machinery
+1459,Recovery
+1460,Acoustic measurements
+1461,Acoustic techniques
+1462,Frequency contents
+1463,Information contents
+1464,Safety and securities
+1465,Spatial resolution
+1466,Structural health
+1467,Vibrational information
+1468,Structural health monitoring
+1469,Charging time
+1470,Efficiency
+1471,System buses
+1472,Voltage regulators
+1473,Battery chargers
+1474,Constant current
+1475,Constant current and constant voltages
+1476,Hardware implementations
+1477,Output inductors
+1478,Universal serial bus
+1479,Secondary batteries
+1480,Atomic beams
+1481,Atoms
+1482,Frequency standards
+1483,Microfabrication
+1484,Quantum optics
+1485,Ballistic trajectories
+1486,Equivalent electrical circuit model
+1487,Experimental parameters
+1488,Magnetooptical traps
+1489,Micro-fabrication techniques
+1490,Optical frequency standard
+1491,Precision metrology
+1492,Precision spectroscopy
+1493,Crystal atomic structure
+1494,Fuel storage
+1495,Imaging techniques
+1496,Localized corrosion
+1497,Nuclear fuels
+1498,Radioactive materials
+1499,Steel corrosion
+1500,Ultrasonic testing
+1501,Austentic stainless steels
+1502,Long term performance
+1503,Non destructive testing
+1504,Rectangular samples
+1505,Spent nuclear fuels
+1506,Synchrotron x ray diffraction
+1507,Ultrasonic C-scan
+1508,Stress corrosion cracking
+1509,Anchorages (foundations)
+1510,Earthquake engineering
+1511,Geotechnical engineering
+1512,Landslides
+1513,Outages
+1514,Structural analysis
+1515,Aerial reconnaissance
+1516,Alaska earthquakes
+1517,Moment magnitudes
+1518,Northridge earthquakes
+1519,Peak ground acceleration
+1520,Residential building
+1521,Slope deformation
+1522,Structural damages
+1523,Earthquakes
+1524,Health risks
+1525,Nursing
+1526,Surveying
+1527,Health care costs
+1528,Health care providers
+1529,Hospital costs
+1530,Medical errors
+1531,Operational failures
+1532,Patient health
+1533,Quality of care
+1534,workarounds
+1535,Hospitals
+1536,Glues
+1537,SPACE system
+1538,Gluing
+1539,asparaginase
+1540,cell extract
+1541,clearcoli cell extract
+1542,bacterium culture
+1543,cell free system
+1544,drug approval
+1545,extraction
+1546,Food and Drug Administration
+1547,leukemia
+1548,protein expression
+1549,protein synthesis
+1550,Developable surfaces
+1551,Engineering models
+1552,Four bar
+1553,Graphical methods
+1554,Kinematic Analysis
+1555,Morphing
+1556,Spatial restrictions
+1557,Computational fluid dynamics
+1558,Vortex flow
+1559,Backflow structure
+1560,Comprehensive analysis
+1561,Computational fluid dynamics simulations
+1562,Flow recirculation
+1563,Fundamental mechanisms
+1564,Low flow condition
+1565,Tip clearance
+1566,Tip leakage flow
+1567,Cavitation
+1568,Acoustic impedance
+1569,Acoustic resonators
+1570,Classical model
+1571,Helmholtz resonators
+1572,Higher-order
+1573,Lumped element equivalent circuit
+1574,One-dimensional wave equations
+1575,Resonator coupling
+1576,Side branches
+1577,Equivalent circuits
+1578,Mass spectrometry
+1579,Petroleum reservoir evaluation
+1580,Clustering
+1581,Clustering evaluation
+1582,Clustering problems
+1583,Explicit treatments
+1584,External metrics
+1585,Gold standards
+1586,Noise
+1587,Noisy observations
+1588,Cluster analysis
+1589,Carbon fiber reinforced plastics
+1590,Carbon fibers
+1591,Computerized tomography
+1592,Cracks
+1593,Porosity
+1594,Reinforcement
+1595,Resin transfer molding
+1596,Wool
+1597,Yarn
+1598,Carbon fibre reinforced polymer
+1599,Damage mechanics
+1600,Delamination growth
+1601,Out-of-plane loading
+1602,Quasi-static indentation
+1603,Quasi-static loading
+1604,Reinforced polymers
+1605,Tomographic imaging
+1606,Loading
+1607,Algebra
+1608,Boundary value problems
+1609,Elasticity
+1610,Integration
+1611,Laplace transforms
+1612,Number theory
+1613,Sailing vessels
+1614,Collocation
+1615,Isogeometric analysis
+1616,Linear elasticity
+1617,Patch tests
+1618,T-splines
+1619,Boundary element method
+1620,Decoding
+1621,Coset coding
+1622,Interleaved coding
+1623,Physical-layer securities
+1624,Quadrature-amplitude modulations (QAM)
+1625,Security gap
+1626,Wireless transmission scheme
+1627,Quadrature amplitude modulation
+1628,Copper alloys
+1629,Iron alloys
+1630,Learning systems
+1631,Magnesium alloys
+1632,Niobium alloys
+1633,Silver alloys
+1634,Titanium alloys
+1635,Vanadium alloys
+1636,Ab initio method
+1637,Computational materials science
+1638,Formation enthalpy
+1639,Machine learning models
+1640,Predicting properties
+1641,Prediction errors
+1642,Cameras
+1643,Labeling
+1644,Synchronization
+1645,Activity recognition
+1646,Annotating
+1647,Labor intensive
+1648,Multiple recordings
+1649,Multiple sensors
+1650,Video
+1651,Video and datum
+1652,Visual indicators
+1653,Cryptography
+1654,Feedback control
+1655,Telecommunication repeaters
+1656,Nonreciprocal circuits
+1657,Operational parameters
+1658,Propagation channels
+1659,Radio frequency circuitries
+1660,Reciprocity principle
+1661,Secret key generations
+1662,security
+1663,Total least squares
+1664,beta glucan
+1665,"beta-1,3-D-glucan"
+1666,endotoxin
+1667,air conditioning
+1668,animal
+1669,climate
+1670,cross-sectional study
+1671,dust
+1672,housing
+1673,indoor air pollution
+1674,poverty
+1675,procedures
+1676,Pyroglyphidae
+1677,Utah
+1678,volatilization
+1679,Air Conditioning
+1680,"Air Pollution, Indoor"
+1681,Animals
+1682,beta-Glucans
+1683,Climate
+1684,Cross-Sectional Studies
+1685,Dust
+1686,Endotoxins
+1687,Housing
+1688,Poverty
+1689,Volatilization
+1690,Irradiation
+1691,Conduction radiations
+1692,Design and optimization
+1693,Environmental change
+1694,Geometric manipulation
+1695,Thermal conductance
+1696,Thermal control systems
+1697,Thermal environment
+1698,Heat exchangers
+1699,Military communications
+1700,BER performance
+1701,Bit error rate (BER) performance
+1702,Orthogonal space-time block codes
+1703,Orthogonal space-time blocks
+1704,"Single input , single outputs"
+1705,Space time
+1706,State space partitions
+1707,Computer networks
+1708,Electrical engineering
+1709,General publics
+1710,Key management
+1711,Usable security
+1712,Electronic mail
+1713,Approximation theory
+1714,Invariance
+1715,Time varying control systems
+1716,Balanced singular perturbation approximations
+1717,Balanced truncation
+1718,Boundary approximation methods
+1719,Linear time invariant systems
+1720,Model parameterization
+1721,Model reduction
+1722,Model reduction techniques
+1723,Singular perturbation approximation
+1724,Approximation algorithms
+1725,Graphic methods
+1726,Image communication systems
+1727,Scales (weighing instruments)
+1728,Image gradients
+1729,Image quality assessment
+1730,Local binary patterns
+1731,No references
+1732,Phase congruency
+1733,Image quality
+1734,Annealing
+1735,Polyethylene terephthalates
+1736,Processing
+1737,Annealing temperatures
+1738,Annealing time
+1739,Engineering design
+1740,Force response
+1741,origami
+1742,Polyethylene terephthalates (PET)
+1743,Processing method
+1744,Traditional engineerings
+1745,Plastic bottles
+1746,Data mining
+1747,Artificial neural network models
+1748,Connection weights
+1749,Historical records
+1750,Input variables
+1751,Manufacturing environments
+1752,Operating condition
+1753,Predictive variables
+1754,Process characteristics
+1755,Discrete event simulation
+1756,Collective robots
+1757,Human influences
+1758,Human operator
+1759,Large parts
+1760,Operator influence
+1761,Robot swarms
+1762,Swarm behavior
+1763,Swarm systems
+1764,Swarm intelligence
+1765,Graphical user interfaces
+1766,Dynamic environments
+1767,Environment change
+1768,Human-robot collaboration
+1769,Interactive graphical user interface
+1770,On-line path planning
+1771,Path re-planning
+1772,Performance objective
+1773,Robot navigation
+1774,Equivalence classes
+1775,Formal methods
+1776,Model checking
+1777,Parallel programming
+1778,Data race detection
+1779,Java PathFinder
+1780,Mechanized proofs
+1781,Model checker
+1782,Parallel program
+1783,Program execution
+1784,Sound and complete
+1785,Task parallel
+1786,Java programming language
+1787,Alignment
+1788,Construction manager
+1789,Design-build projects
+1790,Industry professionals
+1791,Project complexity
+1792,Project delivery method
+1793,Project experiences
+1794,Public involvement
+1795,Transportation projects
+1796,Project management
+1797,Maximum likelihood estimation
+1798,Quadrature phase shift keying
+1799,Telemetering
+1800,Continuous phase modulation
+1801,equalization
+1802,Frequency selective multipath
+1803,Matching pursuit algorithms
+1804,SOQPSK
+1805,Sparse channel estimations
+1806,Channel estimation
+1807,Distribution functions
+1808,Communication parameters
+1809,Cosimulation
+1810,Empirical cumulative distribution functions
+1811,Hybrid power systems
+1812,Power system networks
+1813,Probabilistic network
+1814,Differential algebraic equations
+1815,Dynamic power systems
+1816,Networked systems
+1817,Partial observation
+1818,Reduced order systems
+1819,System measurement
+1820,Transient stability models
+1821,Transients
+1822,Applied origami
+1823,Complex 3D geometry
+1824,Cost-sensitive
+1825,Folding
+1826,Folding technique
+1827,Manufacturing methods
+1828,Buildings
+1829,Foundations
+1830,Mapping
+1831,Soils
+1832,Building damage
+1833,Building performance
+1834,Engineering reconnaissance
+1835,Foundation deformation
+1836,Foundation performance
+1837,Site response
+1838,Strong ground motion
+1839,Structural resonance
+1840,Seismic response
+1841,deformation
+1842,earthquake damage
+1843,earthquake event
+1844,foundation
+1845,ground motion
+1846,seismic design
+1847,soil-structure interaction
+1848,structural response
+1849,Federal District [Mexico]
+1850,Mexico City
+1851,Mexico [North America]
+1852,Density (specific gravity)
+1853,Raman spectroscopy
+1854,Bending moduli
+1855,Carbon material
+1856,Destructive testing
+1857,Effective materials
+1858,Emerging materials
+1859,Maximum stiffness
+1860,Micro electromechanical system (MEMS)
+1861,Cylinders (shapes)
+1862,Electron devices
+1863,Environmental testing
+1864,Polyamides
+1865,Rayon
+1866,Thermal expansion
+1867,Thermal shock
+1868,Area projection
+1869,Conductive ink
+1870,Environmental conditions
+1871,Extreme temperatures
+1872,Printed electronics
+1873,Strength failures
+1874,Temperature cycling
+1875,Thermal expansion mismatch
+1876,Electronics packaging
+1877,Diseases
+1878,Medical informatics
+1879,Proportional control systems
+1880,Transfer functions
+1881,Two term control systems
+1882,Dynamic characteristics
+1883,Exercise response
+1884,Gulf War
+1885,Homeostatic regulations
+1886,Oscillatory behaviors
+1887,Proportional integral derivative controllers
+1888,Response parameters
+1889,Control Systems
+1890,Feedback Control
+1891,Patterns
+1892,Persian Gulf
+1893,Processes
+1894,Transfer Functions
+1895,Terahertz waves
+1896,Broadband terahertz
+1897,Centrosymmetric crystals
+1898,Nonlinear excitation
+1899,Raman active modes
+1900,Solid systems
+1901,Terahertz photonics
+1902,Thz spectroscopy
+1903,Two Dimensional (2 D)
+1904,Energy transfer
+1905,Anharmonic couplings
+1906,Beta barium borate
+1907,Coherent Energy Transfer
+1908,Excitation pathways
+1909,Raman measurements
+1910,Transmission measurements
+1911,Vibrational excitation
+1912,Jets
+1913,Liquids
+1914,Ordinary differential equations
+1915,Isoflux
+1916,Jet impingement
+1917,Benchmarking
+1918,Image Structures
+1919,Just-noticeable difference
+1920,Reduced reference
+1921,Milling (machining)
+1922,Photonics
+1923,Waveguides
+1924,Free spaces
+1925,Liquid core waveguide
+1926,Metal layer
+1927,Milling depth
+1928,Optofluidic
+1929,Single particle detection
+1930,Waveguide channels
+1931,Antibiotics
+1932,Nucleic acids
+1933,Acid sensitivities
+1934,Antibiotic drugs
+1935,Multi-mode interference
+1936,Multiplexed detection
+1937,Spot pattern
+1938,Biosensors
+1939,Diagnosis
+1940,Bio photonics
+1941,Detection capability
+1942,Detection enhancement
+1943,Low concentrations
+1944,Opto-fluidics
+1945,Optofluidic sensors
+1946,Human computer interaction
+1947,Transparency
+1948,Emergent behaviors
+1949,Machine systems
+1950,Real-world
+1951,Swarm robotic systems
+1952,Transparency criteria
+1953,Human robot interaction
+1954,machine
+1955,monitoring
+1956,robotics
+1957,Bootstrapped switches
+1958,Bottom plate
+1959,Comb structure
+1960,Dual path
+1961,Nonlinear capacitance
+1962,Parasitic capacitance
+1963,Time-interleaved
+1964,Capacitance
+1965,Biomedical engineering
+1966,Control engineering
+1967,Factory automation
+1968,Three term control systems
+1969,Arduino
+1970,Control experiments
+1971,Controller designs
+1972,Industrial process control
+1973,Real systems
+1974,Undergraduate students
+1975,Artificial intelligence
+1976,Cardiology
+1977,Database systems
+1978,Epidemiology
+1979,Genetic algorithms
+1980,Health insurance
+1981,Heart
+1982,Medical problems
+1983,Sleep research
+1984,Support vector machines
+1985,Clinical decision support systems
+1986,Erectile dysfunction
+1987,Hypertension
+1988,Indexes
+1989,Research database
+1990,Sleep apnea
+1991,Decision support systems
+1992,adult
+1993,aged
+1994,chronic kidney failure
+1995,clinical decision support system
+1996,computer prediction
+1997,congestive heart failure
+1998,controlled study
+1999,depression
+2000,diabetes mellitus
+2001,diagnostic accuracy
+2002,diagnostic test accuracy study
+2003,erectile dysfunction
+2004,follow up
+2005,genetic algorithm
+2006,gout
+2007,hypertension
+2008,incidence
+2009,information retrieval
+2010,ischemic heart disease
+2011,jackknife test
+2012,major clinical study
+2013,male
+2014,mathematical model
+2015,middle aged
+2016,pathophysiology
+2017,predictive value
+2018,prevalence
+2019,receiver operating characteristic
+2020,sensitivity and specificity
+2021,sexual behavior
+2022,sleep disorder
+2023,support vector machine
+2024,training
+2025,algorithm
+2026,factual database
+2027,young adult
+2028,Adult
+2029,Aged
+2030,Algorithms
+2031,"Databases, Factual"
+2032,"Decision Support Systems, Clinical"
+2033,Erectile Dysfunction
+2034,Male
+2035,Middle Aged
+2036,Support Vector Machine
+2037,Young Adult
+2038,Pixels
+2039,Textures
+2040,Absolute difference
+2041,Local neighborhoods
+2042,Nearest neighborhood
+2043,Non-uniform patterns
+2044,Structure information
+2045,Texture classification
+2046,Image texture
+2047,classifier
+2048,histogram
+2049,neighborhood
+2050,noise
+2051,Sodium chloride
+2052,Folding kinetics
+2053,G-quadruplexes
+2054,Hydrodynamic flows
+2055,Micro mixers
+2056,Three dimensional focusing
+2057,Mixers (machinery)
+2058,Phase transitions
+2059,Pore size
+2060,Pore structure
+2061,Stability
+2062,Thermodynamic stability
+2063,Catalytic reactions
+2064,Dopant concentrations
+2065,Doped alumina
+2066,Mesoporous alumina
+2067,Structural feature
+2068,Structure evolution
+2069,Thermal and hydrothermal stability
+2070,Thermal calcination
+2071,Electromagnetic wave emission
+2072,Materials
+2073,Powder metals
+2074,Binding agent
+2075,High production rate
+2076,Manufacturing techniques
+2077,Powder deposition
+2078,Review of technologies
+2079,Two-dimensional patterns
+2080,Binders
+2081,Muscle
+2082,Noninvasive medical procedures
+2083,Fundamental principles
+2084,Mechanical impedances
+2085,Musculoskeletal dynamics
+2086,Musculoskeletal geometry
+2087,Non-invasive treatment
+2088,Superficial muscles
+2089,Suppression devices
+2090,abduction
+2091,adduction
+2092,arm muscle
+2093,biomechanics
+2094,daily life activity
+2095,dislocation
+2096,electromyography
+2097,essential tremor
+2098,excitation contraction coupling
+2099,impedance
+2100,muscle contraction
+2101,muscle excitation
+2102,muscle strength
+2103,nonlinear system
+2104,Parkinson disease
+2105,torque
+2106,tremor
+2107,upper limb
+2108,viscoelasticity
+2109,Piles
+2110,Soil structure interactions
+2111,Soil-Structure Interaction effects
+2112,Surrounding regions
+2113,building
+2114,damage
+2115,mapping
+2116,seismic response
+2117,strong motion
+2118,Morelos
+2119,Puebla [Mexico]
+2120,Puebla [Puebla (STT)]
+2121,Channel coding
+2122,Concatenated codes
+2123,Encoding (symbols)
+2124,Gaussian distribution
+2125,Receivers (containers)
+2126,Reliability
+2127,Signal encoding
+2128,Signal receivers
+2129,Binary symmetric channel
+2130,Information- theoretic securities
+2131,Kullback Leibler divergence
+2132,practical secrecy coding
+2133,Security
+2134,Security and reliabilities
+2135,Wire-tap channels
+2136,Intermetallics
+2137,Soldered joints
+2138,Strain rate
+2139,Tensile testing
+2140,Dissimilar
+2141,Effective heat of formation
+2142,Friction stir
+2143,High strain rate deformation
+2144,Intermetallic compound layer
+2145,Lap-shear testing
+2146,Micro-structural characterization
+2147,Welded interface
+2148,Projectiles
+2149,Areal densities
+2150,Ballistic impact
+2151,Body armors
+2152,Impact behavior
+2153,Soft body armor
+2154,Test parameters
+2155,Aramid fibers
+2156,Flowcharting
+2157,Statistics
+2158,Average run lengths
+2159,Average time to signal
+2160,Cusum
+2161,EWMA
+2162,Phase II monitoring
+2163,Process Variability
+2164,Shewhart control charts
+2165,variability
+2166,Control charts
+2167,Design ethnographies
+2168,Global development
+2169,Low resource
+2170,Poverty alleviation
+2171,Resource-poor
+2172,Computer control systems
+2173,Data collection system
+2174,Large-scale deployment
+2175,Memory blocks
+2176,Neutron cross sections
+2177,New York city
+2178,Single event characterization
+2179,Neutrons
+2180,Space applications
+2181,Soft processors
+2182,Technical presentations
+2183,Assessment
+2184,Extended abstracts
+2185,Feedback technology
+2186,Oral presentations
+2187,Peer feedback
+2188,Qualitative feedback
+2189,Real time
+2190,Professional aspects
+2191,Concrete beams and girders
+2192,Microalloyed steel
+2193,Beneficial effects
+2194,Column depths
+2195,Lower bounds
+2196,Slab-on-grade
+2197,Steel column
+2198,Steel moment frames
+2199,Strength and stiffness
+2200,Strength models
+2201,Bending strength
+2202,Forming
+2203,Coining
+2204,Dislocation densities
+2205,EBSD
+2206,Micro forming
+2207,Microstructure formation
+2208,Earth (planet)
+2209,Image enhancement
+2210,Luminance
+2211,Meteorological instruments
+2212,Microwave devices
+2213,Microwave measurement
+2214,Microwave sensors
+2215,Microwaves
+2216,NASA
+2217,Radiometers
+2218,Soil moisture
+2219,Advanced Microwave Scanning Radiometer-Earth Observing System (AMSR-E)
+2220,Brightness temperatures
+2221,Image reconstruction techniques
+2222,Scanning multichannel microwave radiometer
+2223,Scatterometer Image Reconstruction algorithms
+2224,Soil moisture active passive (SMAP)
+2225,Special sensor microwave imagers
+2226,Special sensor microwave/Imager
+2227,Image reconstruction
+2228,brightness temperature
+2229,detection method
+2230,image resolution
+2231,radiometer
+2232,reconstruction
+2233,satellite sensor
+2234,spatial resolution
+2235,Mechanical properties
+2236,Coordinate equations
+2237,Curved folding
+2238,developable
+2239,energy
+2240,Energy configurations
+2241,Natural configurations
+2242,Physical model
+2243,Boiling temperature
+2244,Contact time
+2245,Cooling effectiveness
+2246,Droplet impact
+2247,Hydrophilic substrate
+2248,Similarity solution
+2249,Temperature variation
+2250,Group delay
+2251,Parameter extraction
+2252,Ultrashort pulses
+2253,Chirped Bragg grating
+2254,Design parameters
+2255,Device parameters
+2256,Discrete numbers
+2257,Extracting parameter
+2258,Index contrasts
+2259,Parameter extraction tools
+2260,Parameter-extraction method
+2261,Silicon photonics
+2262,Alloy steel
+2263,Carbides
+2264,Chromium compounds
+2265,Dissimilar metals
+2266,Hardness
+2267,Heat treatment
+2268,Carbon concentrations
+2269,Carbon depletion
+2270,Carbon migration
+2271,Chromium carbide
+2272,Dissimilar metal weld
+2273,Microstructural changes
+2274,Microstructure and mechanical properties
+2275,Post weld heat treatment
+2276,Blending
+2277,Blending function
+2278,Control point
+2279,Linear independence
+2280,Local refinement
+2281,Refinement algorithms
+2282,Spline surfaces
+2283,Burgers vector
+2284,Dislocations (crystals)
+2285,Molecular dynamics
+2286,Polycrystalline materials
+2287,Dislocation movement
+2288,Grain boundary dislocation
+2289,Loading condition
+2290,Residual burgers vectors
+2291,Slip system
+2292,Inspection
+2293,Optical radar
+2294,Planning
+2295,Remote sensing
+2296,Automated inspection
+2297,Industrial inspections
+2298,Infrastructure modeling
+2299,Multi-Scale
+2300,Multi-scale approaches
+2301,Structure from motion
+2302,Unmanned aircraft system
+2303,View planning
+2304,Three dimensional computer graphics
+2305,Small unmanned aerial vehicles
+2306,Frequency response
+2307,Technology transfer
+2308,gyrostabilizer
+2309,hand
+2310,suppression
+2311,Tremor
+2312,Gyroscopes
+2313,Image processing
+2314,Passive filters
+2315,Remote control
+2316,Training aircraft
+2317,Well testing
+2318,Attitude measurement
+2319,Convolutional neural network
+2320,Flight demonstration
+2321,Human abilities
+2322,Image processing - methods
+2323,Learning methods
+2324,Network topology
+2325,Position and orientations
+2326,Feedback linearization
+2327,Circular trajectory
+2328,Constant velocities
+2329,Control laws
+2330,Lyapunov theories
+2331,Moving targets
+2332,Range rate
+2333,Stationary targets
+2334,Error-state
+2335,Estimated state
+2336,Lie theory
+2337,LQR control
+2338,State tracking
+2339,Time dependent trajectory
+2340,Robot applications
+2341,Visual servoing
+2342,Autopilot systems
+2343,Dark conditions
+2344,Degree of freedom
+2345,Flight testing
+2346,Image based visual servoing
+2347,Precision landing
+2348,Vision-based approaches
+2349,Estimation
+2350,Radar
+2351,Weather forecasting
+2352,Wind
+2353,Wind effects
+2354,Antenna measurement
+2355,Azimuth
+2356,Oceans
+2357,Radar scattering
+2358,RapidScat
+2359,Scatterometers
+2360,Sea measurements
+2361,Radar measurement
+2362,estimation method
+2363,model validation
+2364,radar
+2365,scattering
+2366,scatterometer
+2367,wind direction
+2368,Sampling
+2369,Algorithm performance
+2370,Backus-Gilbert
+2371,Higher resolution images
+2372,Scatterometer image reconstruction
+2373,Variable aperture
+2374,backscatter
+2375,data processing
+2376,image analysis
+2377,imaging method
+2378,sampling
+2379,Felt
+2380,Two factor authentication
+2381,Usability
+2382,User attitudes
+2383,Authentication
+2384,Traction (friction)
+2385,Gesture commands
+2386,Logistic Regression modeling
+2387,Natural interfaces
+2388,Overall accuracies
+2389,Unmanned air vehicle (UAVs)
+2390,Gesture recognition
+2391,Computer aided instruction
+2392,Education
+2393,Technical writing
+2394,Audience awareness
+2395,Case method
+2396,pedagogy
+2397,Proposal writing
+2398,Proposals
+2399,Acoustic field measurement
+2400,Acoustic waves
+2401,Boundary conditions
+2402,Underwater acoustics
+2403,Volume measurement
+2404,Absorbing boundary condition
+2405,Acoustic Scattering
+2406,High-frequency scattering
+2407,Very low frequency
+2408,Acoustic wave scattering
+2409,Branch and bound method
+2410,Electric energy storage
+2411,Electric power transmission networks
+2412,Heat storage
+2413,Power markets
+2414,Quadratic programming
+2415,Thermal energy
+2416,Water cooling systems
+2417,Chiller
+2418,District energy systems
+2419,Dynamic optimization
+2420,Intermittent renewables
+2421,Mixed integer quadratic programming
+2422,Near-optimal solutions
+2423,Real-time optimization
+2424,Thermal energy storage tanks
+2425,Integer programming
+2426,Big data
+2427,Electric load flow
+2428,Data classification
+2429,Diffusion maps
+2430,Load modeling
+2431,Manifold learning
+2432,Manifold learning algorithm
+2433,Point of interest
+2434,Power-flow solution
+2435,Real-time operation
+2436,Electron microscopy
+2437,Magnesium printing plates
+2438,Nucleation
+2439,Twinning
+2440,Number of transmissions
+2441,Texture information
+2442,Uni-axial compression
+2443,Visco-plastic self-consistent
+2444,Viscoplastic self-consistent model
+2445,VPSC
+2446,Clay deposits
+2447,Deposits
+2448,Faulting
+2449,3d finite differences
+2450,Epicentral distances
+2451,Hydraulic conditions
+2452,Infrastructure
+2453,Maintenance structures
+2454,Seismic risk
+2455,Seismic vulnerability
+2456,aftershock
+2457,earthquake mechanism
+2458,finite difference method
+2459,risk assessment
+2460,site effect
+2461,site investigation
+2462,soil profile
+2463,subsoil
+2464,three-dimensional modeling
+2465,urban area
+2466,Amplitude modulation
+2467,Coplanar waveguides
+2468,Extrusion
+2469,Reinforced plastics
+2470,Coplanar wave-guide (CPW)
+2471,Electrical conductivity
+2472,Radio frequency devices
+2473,Smoothing process
+2474,Solvent absorption
+2475,thermal smoothing (TS)
+2476,Surface roughness
+2477,Mechanical permeability
+2478,Process monitoring
+2479,Radial flow
+2480,Characterization procedures
+2481,Coefficient of variation
+2482,Fabrics/textiles
+2483,Fiber volume content
+2484,In-plane permeability
+2485,Measurement system
+2486,Resin flows
+2487,proteome
+2488,transfer RNA
+2489,amino acid labeling
+2490,amino terminal sequence
+2491,bioengineering
+2492,chemical labeling
+2493,chemical structure
+2494,click chemistry
+2495,cycloaddition
+2496,decision tree
+2497,disulfide bond
+2498,mass spectrometry
+2499,protein function
+2500,proteomics
+2501,quorum sensing
+2502,structure activity relation
+2503,Channel measurements
+2504,Channel sounding
+2505,Indoor environment
+2506,Physical locations
+2507,Point design
+2508,Power settings
+2509,Real environments
+2510,Design
+2511,Engineering
+2512,Design critiques
+2513,Design Education
+2514,ethics
+2515,In-depth interviews
+2516,reasoning
+2517,Self cultivations
+2518,Social practices
+2519,Student development
+2520,Studios
+2521,body weight
+2522,female
+2523,internal knee extension moment
+2524,knee flexion angle
+2525,knee function
+2526,knee osteoarthritis
+2527,muscle training
+2528,musculoskeletal system parameters
+2529,quadriceps strengthening
+2530,randomized controlled trial (topic)
+2531,sagittal plane walking biomechanics
+2532,vertical ground reaction force
+2533,walking
+2534,walking speed
+2535,disability
+2536,gait
+2537,joint characteristics and functions
+2538,knee
+2539,pain measurement
+2540,physiology
+2541,quadriceps femoris muscle
+2542,randomized controlled trial
+2543,resistance training
+2544,weight bearing
+2545,Biomechanical Phenomena
+2546,Disability Evaluation
+2547,Female
+2548,Gait
+2549,Knee Joint
+2550,Muscle Strength
+2551,"Osteoarthritis, Knee"
+2552,Pain Measurement
+2553,Quadriceps Muscle
+2554,"Range of Motion, Articular"
+2555,Resistance Training
+2556,Weight-Bearing
+2557,Backpropagation
+2558,Deep neural networks
+2559,Nutrition
+2560,Bag of features
+2561,Computer vision technology
+2562,Deep convolutional neural networks
+2563,Proposed architectures
+2564,Recognition
+2565,Recognition accuracy
+2566,Network architecture
+2567,Stiffness matrix
+2568,Transfer matrix method
+2569,D' Alembert's principle
+2570,Degrees of freedom (DoFs)
+2571,Displacement amplification
+2572,Dynamic stiffness matrix
+2573,Flexure hinge
+2574,Frequency dependent
+2575,Micro/nano positioning
+2576,Static and dynamic performance
+2577,Adaptive filtering
+2578,Adaptive filters
+2579,Concatenated coding
+2580,Full-duplex
+2581,Hidden key
+2582,Jamming
+2583,Piercing
+2584,Adaptive characteristic
+2585,Channel quality
+2586,coding for secrecy
+2587,interleaving
+2588,scrambling
+2589,chelate
+2590,gadodiamide
+2591,gadolinium
+2592,gadolinium chloride gd 153
+2593,gadolinium diethylene triaminepentaacetic acid bis glucosamide
+2594,gadolinium pentetate derivative
+2595,pentetate bismetylamide
+2596,pentetic acid derivative
+2597,zinc
+2598,chelating agent
+2599,contrast medium
+2600,gadolinium pentetate
+2601,gadolinium-DTPA bis-glucosamide
+2602,organometallic compound
+2603,pentetic acid
+2604,animal experiment
+2605,animal tissue
+2606,contrast enhancement
+2607,drug dosage form comparison
+2608,image quality
+2609,in vitro study
+2610,inductively coupled plasma mass spectrometry
+2611,isotope labeling
+2612,rat
+2613,zinc blood level
+2614,bone
+2615,chemistry
+2616,femur
+2617,nuclear magnetic resonance imaging
+2618,Sprague Dawley rat
+2619,Bone and Bones
+2620,Chelating Agents
+2621,Contrast Media
+2622,Femur
+2623,Gadolinium
+2624,Gadolinium DTPA
+2625,Magnetic Resonance Imaging
+2626,Organometallic Compounds
+2627,Pentetic Acid
+2628,Rats
+2629,"Rats, Sprague-Dawley"
+2630,Zinc
+2631,Glass
+2632,Large dataset
+2633,Metallic glass
+2634,High throughput
+2635,Inferential statistics
+2636,Large datasets
+2637,Materials informatics
+2638,Microstructural phenomenon
+2639,Structure property relationships
+2640,Throughput
+2641,Vector spaces
+2642,Automatic Generation
+2643,Basis vector
+2644,High-throughput method
+2645,Lattice vectors
+2646,Space Groups
+2647,Structural prototype
+2648,Two dimensional plane
+2649,Wyckoff positions
+2650,Blood
+2651,Capillary electrophoresis
+2652,Genes
+2653,Informatics
+2654,Least squares approximations
+2655,Multivariant analysis
+2656,Pattern recognition
+2657,Principal component analysis
+2658,Statistical mechanics
+2659,First order derivatives
+2660,Genomic sequencing
+2661,Inverse least squares
+2662,Partial least square (PLS)
+2663,Physiological effects
+2664,Prediction capability
+2665,Variable selection methods
+2666,World Anti-Doping Agency
+2667,Blood vessels
+2668,Coupled motions
+2669,Luxury products
+2670,Two-state
+2671,First-time user
+2672,Grassroots adoption
+2673,Integrated solutions
+2674,Paired participants
+2675,Pretty good privacy
+2676,Secure messages
+2677,Usability studies
+2678,Autonomous agents
+2679,Collision avoidance
+2680,Computational methods
+2681,Agent-based model
+2682,Conflict Resolution
+2683,Mid-air collisions
+2684,Safety and efficiencies
+2685,System safety
+2686,Unmanned aerial vehicle systems
+2687,Computational complexity
+2688,Error statistics
+2689,Frequency modulation
+2690,Optical communication
+2691,Correlated symbols
+2692,Maximum likelihood sequence estimation
+2693,Observation model
+2694,Pulse amplitude modulation
+2695,losartan
+2696,serine protease HTRA1
+2697,transforming growth factor beta1
+2698,angiotensin 1 receptor antagonist
+2699,animal cell
+2700,animal model
+2701,articular cartilage
+2702,chondrocyte
+2703,chondrodysplasia
+2704,disease exacerbation
+2705,drug effect
+2706,histopathology
+2707,joint degeneration
+2708,mouse
+2709,osteoarthritis
+2710,temporomandibular joint
+2711,TGF beta signaling
+2712,upregulation
+2713,C57BL mouse
+2714,cell culture
+2715,diagnostic imaging
+2716,disease model
+2717,immunohistochemistry
+2718,metabolism
+2719,mutant mouse strain
+2720,pathology
+2721,synovium
+2722,Western blotting
+2723,Angiotensin II Type 1 Receptor Blockers
+2724,"Blotting, Western"
+2725,"Cartilage, Articular"
+2726,"Cells, Cultured"
+2727,Chondrocytes
+2728,"Disease Models, Animal"
+2729,Disease Progression
+2730,Immunohistochemistry
+2731,Losartan
+2732,Mice
+2733,"Mice, Inbred C57BL"
+2734,"Mice, Mutant Strains"
+2735,Osteoarthritis
+2736,Synovial Membrane
+2737,Temporomandibular Joint
+2738,Transforming Growth Factor beta1
+2739,Polymer blends
+2740,Styrene
+2741,Surface defects
+2742,Surface testing
+2743,Thermography (imaging)
+2744,Acrylonitrile butadiene styrene
+2745,Defect depth quantifications
+2746,Non-destructive test methods
+2747,Nondestructive testing method
+2748,Pulse thermography
+2749,Subsurface defect
+2750,Surface temperatures
+2751,Computer simulation
+2752,Grain size and shape
+2753,Heat affected zone
+2754,Nuclear industry
+2755,Numerical models
+2756,Recrystallization (metallurgy)
+2757,304L stainless steel
+2758,Finite-element approach
+2759,Friction stir processing
+2760,Fusion welding
+2761,Intergranular crack
+2762,Lower peak temperatures
+2763,Recrystallized grain sizes
+2764,Temperature prediction
+2765,Austenitic stainless steel
+2766,Adaptive decoding
+2767,Decoding strategy
+2768,Decoding techniques
+2769,Polar codes
+2770,System security
+2771,Multi agent systems
+2772,Multipurpose robots
+2773,Edge constraints
+2774,Edge-based methods
+2775,Graph problems
+2776,Hardware experiment
+2777,Multi-robot systems
+2778,Pose graph optimizations
+2779,Simulation comparison
+2780,SLAM
+2781,Compressive strength
+2782,Concrete construction
+2783,Grouting
+2784,High performance concrete
+2785,Prisms
+2786,Shrinkage
+2787,Block geometry
+2788,Compatibility
+2789,Concrete masonry units
+2790,Experimental program
+2791,High strength
+2792,High strength concretes
+2793,Medium strengths
+2794,Shrinkage characteristic
+2795,Bismuth compounds
+2796,Yeast
+2797,Genome alignment
+2798,Genomic structure
+2799,Graph methods
+2800,Multiple whole genome alignment
+2801,Reference-free
+2802,Structural variations
+2803,Boron compounds
+2804,316 stainless steel
+2805,Design/methodology/approach
+2806,Dimensional accuracy
+2807,Inclined surface
+2808,Measurement strategies
+2809,Optical measurement systems
+2810,Size and position
+2811,Concrete testing
+2812,Degree of similarity
+2813,Delamination detections
+2814,Excitation mechanisms
+2815,Percentage points
+2816,Quantitative method
+2817,Universal threshold
+2818,Antenna lobes
+2819,Beam forming networks
+2820,Beamforming
+2821,Radar antennas
+2822,Radar signal processing
+2823,Radar systems
+2824,Tracking radar
+2825,Antenna mutual coupling
+2826,Beam-steering
+2827,Detection performance
+2828,Monostatic MIMO radars
+2829,Multiple input multiple output (MIMO) radars
+2830,Mutual coupling
+2831,Simple matching network
+2832,MIMO radar
+2833,Electromagnetic wave reflection
+2834,Oceanography
+2835,Topography
+2836,Evanescent wave
+2837,Internal waves
+2838,Kinetic energy density
+2839,Propagating waves
+2840,Synthetic schlieren
+2841,Tidal flow
+2842,Tidal frequencies
+2843,Topographic slope
+2844,Decay (organic)
+2845,Hydrogen embrittlement
+2846,Steel
+2847,Advanced high strength steel
+2848,Concentration Measurement
+2849,Crystallographic orientations
+2850,Diffusible hydrogen
+2851,Empirical relations
+2852,Hydrogen concentration
+2853,Hydrogen diffusion
+2854,Microstructural evaluation
+2855,High strength steel
+2856,Automobile manufacture
+2857,Cellular telephones
+2858,Obsolescence
+2859,Purchasing
+2860,capabilities
+2861,Defense contractor
+2862,Development costs
+2863,excess
+2864,Net present value
+2865,Product development strategy
+2866,redesign
+2867,requirements
+2868,Analytical models
+2869,Uncertainty analysis
+2870,Apparent temperature
+2871,Cavity parameters
+2872,Collimated irradiation
+2873,Experimental uncertainty
+2874,Irradiated surface
+2875,Radiative properties
+2876,Durability
+2877,Electric power systems
+2878,Energy harvesting
+2879,Flexible electronics
+2880,Lead zirconate titanate
+2881,Nitrides
+2882,Open circuit voltage
+2883,Piezoelectric devices
+2884,Wearable technology
+2885,Biocompatible
+2886,Flexible
+2887,III-Nitride
+2888,Piezoelectric generators
+2889,Self-powered systems
+2890,Thin film circuits
+2891,Chlorine compounds
+2892,Connecting rods
+2893,Damage detection
+2894,Magnesium compounds
+2895,Natural frequencies
+2896,Steel containers
+2897,Cumulative amount
+2898,Longitudinal modes
+2899,Magnesium chloride solution
+2900,Non-linear ultrasonic
+2901,Resonance frequency shift
+2902,Biological systems
+2903,Semiconductor device manufacture
+2904,Semiconductor materials
+2905,Biofabrication
+2906,Emerging technologies
+2907,Information processing architecture
+2908,Microchip fabrication
+2909,Nanometer scale structure
+2910,Roadmap
+2911,Semiconductor industry
+2912,Semiconductor technology
+2913,Cloud computing
+2914,System stability
+2915,Cloud computing environments
+2916,FPGA applications
+2917,Silent data corruptions
+2918,Soft error detection
+2919,Traditional computing
+2920,Application programs
+2921,Program debugging
+2922,Design spaces
+2923,Domain-specific information
+2924,Latency costs
+2925,Low area
+2926,Machine learning applications
+2927,Runtimes
+2928,Software model
+2929,Target systems
+2930,Elastic moduli
+2931,Histology
+2932,Stress analysis
+2933,Testing
+2934,Tissue
+2935,Tissue engineering
+2936,Computed tomography data
+2937,Specific finite element
+2938,Structural response
+2939,Testing configurations
+2940,Tissue properties
+2941,Transverse compression
+2942,Transverse Young's modulus
+2943,X-ray computed tomography
+2944,compression
+2945,geometry
+2946,human tissue
+2947,maize
+2948,rigidity
+2949,stress
+2950,x-ray computed tomography
+2951,finite element analysis
+2952,mechanical stress
+2953,Young modulus
+2954,Elastic Modulus
+2955,Finite Element Analysis
+2956,"Stress, Mechanical"
+2957,Zea mays
+2958,Kinematics
+2959,Rhenium alloys
+2960,Sensors
+2961,Configuration estimation
+2962,Configuration estimation methods
+2963,Orientation measurements
+2964,Outdoor environment
+2965,Soft robotics
+2966,Lakes
+2967,Mass transfer
+2968,Surface structure
+2969,Air bubble formation
+2970,Constant surface temperatures
+2971,Convection coefficients
+2972,Heat and mass transfer
+2973,Structured surfaces
+2974,Superhydrophobic
+2975,Control systems
+2976,Dynamical networks
+2977,Graph-theoretic
+2978,Remote measurement
+2979,Source estimation
+2980,Target nodes
+2981,Graph theory
+2982,School buildings
+2983,CS education
+2984,Elementary schools
+2985,High level description
+2986,Local expectations
+2987,Open-ended questions
+2988,Public school districts
+2989,Public schools
+2990,Student enrollments
+2991,Pulsatile flow
+2992,Splines
+2993,Deformable capsule
+2994,Discretizations
+2995,Hydrodynamical equations
+2996,Hyperelastic membranes
+2997,Mean velocities
+2998,Mechanical characteristics
+2999,Relative rigidity
+3000,Time domain analysis
+3001,alginic acid
+3002,dynamics
+3003,microcapsule
+3004,oscillation
+3005,pulsatile flow
+3006,surface area
+3007,surface property
+3008,velocity
+3009,hydrodynamics
+3010,mechanics
+3011,Capsules
+3012,Mechanical Phenomena
+3013,Pulsatile Flow
+3014,Complex repairable systems
+3015,Component distributions
+3016,Component failures
+3017,Drenick's theorem
+3018,Exponential distributions
+3019,Failure-time distribution
+3020,Mutually independents
+3021,Directive antennas
+3022,Array antennas
+3023,element-gain paradox
+3024,Loaded antennas
+3025,Poynting streamlines
+3026,Shape
+3027,Capacitors
+3028,Computer circuits
+3029,Digital to analog conversion
+3030,Electric power utilization
+3031,Switches
+3032,DAC layout
+3033,DAC settling
+3034,Delays
+3035,Power demands
+3036,SAR ADC
+3037,timing scheme
+3038,Brittle fracture
+3039,Crack propagation
+3040,Brittle cracks
+3041,Computational challenges
+3042,Crack interaction
+3043,Crack propagation simulations
+3044,Graph theoretic algorithm
+3045,Graph theoretic approach
+3046,Reduced order models
+3047,Dynamic network
+3048,Dynamical structure
+3049,Linear time invariant
+3050,On state
+3051,State space realization
+3052,State transformation
+3053,Multi resolution representation
+3054,Multiresolution model
+3055,Network representation
+3056,Structural details
+3057,Wellposedness
+3058,Abstracting
+3059,Alpha model
+3060,Classification datasets
+3061,Ensemble members
+3062,Ensembles
+3063,Loss functions
+3064,Multiple choice
+3065,Training time
+3066,Parameter identifiability
+3067,Power system model
+3068,Electric batteries
+3069,Propulsion
+3070,Systems analysis
+3071,Battery optimization
+3072,Blade element momentum theory
+3073,Fixed point iteration
+3074,High altitude long endurances
+3075,Optimization framework
+3076,Optimization of propulsion
+3077,Trajectory optimization
+3078,Flight paths
+3079,Aviation
+3080,Maneuverability
+3081,Amount of information
+3082,Dimensionalization
+3083,Domain size
+3084,One-time
+3085,Search performance
+3086,Time step
+3087,Time-efficient methods
+3088,Vehicle location
+3089,Vehicle performance
+3090,Unsteady flow
+3091,Acquisition tools
+3092,Computational researches
+3093,Inlet conditions
+3094,Physical process
+3095,Stall inception
+3096,Tip clearance flow
+3097,Unsteady interaction
+3098,Cadmium telluride
+3099,Chip scale packages
+3100,D region
+3101,II-VI semiconductors
+3102,Nanosystems
+3103,Semiconductor quantum dots
+3104,Temperature measurement
+3105,Temperature sensors
+3106,Thermal management (electronics)
+3107,Thermometers
+3108,CdTe quantum dots
+3109,Fabrication technique
+3110,Iterative process
+3111,Micro-fluidic devices
+3112,Non contact temperatures
+3113,Temperature behavior
+3114,Temperature sensing
+3115,Temperature sensitive
+3116,Electric propulsion
+3117,Laminated composites
+3118,Lattice theory
+3119,Retrofitting
+3120,Urban transportation
+3121,Blade-element momentum methods
+3122,Classical laminate theory
+3123,Composite failure
+3124,Conceptual study
+3125,Gradient-based optimization
+3126,Motor controllers
+3127,Performance trade-off
+3128,Vortex lattice method
+3129,VTOL/STOL aircraft
+3130,Computer vision
+3131,Automated process
+3132,Finite element solver
+3133,Gray-scale images
+3134,Mode shapes
+3135,Orthogonal axes
+3136,Principal axes
+3137,Alassroom archive
+3138,Design knowledge
+3139,Instagram search
+3140,Instagram student presentations
+3141,Personal growth
+3142,Presentation tools
+3143,Search process
+3144,Social media
+3145,Behavioral research
+3146,Class rooms
+3147,Classroom environment
+3148,Creativity pedagogy
+3149,Emotional wellbeing
+3150,Learning experiences
+3151,Psychological well-being
+3152,Student learning
+3153,Student perceptions
+3154,Communication
+3155,Interdisciplinary education
+3156,Interdisciplinary teams
+3157,Pilot studies
+3158,Team members
+3159,Leaky modes
+3160,Multi-ordering
+3161,Static structures
+3162,Test rigs
+3163,Photons
+3164,Electron dynamics
+3165,Low density
+3166,Single photon detection
+3167,Single photons
+3168,Particle beams
+3169,Sales
+3170,User centered design
+3171,Customer information
+3172,Demographic data
+3173,Design method
+3174,Microdata
+3175,National level
+3176,Persona
+3177,Persona Generator
+3178,Product designers
+3179,Population statistics
+3180,Action sets
+3181,Extended interaction
+3182,Learning in games
+3183,Long-term relationships
+3184,Repeated games
+3185,Stochastic game
+3186,Time-varying structure
+3187,Trigger strategies
+3188,Coal deposits
+3189,Flow rate
+3190,Fluidization
+3191,Fluidized beds
+3192,Hoppers
+3193,Models
+3194,Coal particles
+3195,Dense Phase
+3196,Design concept
+3197,Gravitational forces
+3198,Horizontal pipes
+3199,Model results
+3200,Transport
+3201,Virtual reactors
+3202,Coal transportation
+3203,Hardware security
+3204,Mobile telecommunication systems
+3205,Hardware tokens
+3206,Laboratory studies
+3207,One time passwords
+3208,Qualitative data
+3209,Usability research
+3210,Usability testing
+3211,Usability engineering
+3212,3D imaging
+3213,Optical trap
+3214,Volumetric display
+3215,Three dimensional displays
+3216,Combinatorial optimization
+3217,Computational grammars
+3218,Agent behavior
+3219,Behavior trees
+3220,Bootstrapping method
+3221,Credit assignment problems
+3222,Fitness functions
+3223,Grammatical evolution
+3224,Swarms
+3225,Facebook
+3226,Manual operations
+3227,Second phase
+3228,Threat models
+3229,Two phase
+3230,User feedback
+3231,Civil engineering
+3232,Transportation
+3233,AC analysis
+3234,Access category
+3235,Crash severity
+3236,Hierarchical bayesian
+3237,Modification factors
+3238,Vehicle-miles traveled
+3239,Accidents
+3240,Encryption key
+3241,Risk communication
+3242,User study
+3243,User training
+3244,Access control
+3245,Cognitive systems
+3246,Driving forces
+3247,Functional abstractions
+3248,Mental model
+3249,Personal use
+3250,Semi-structured
+3251,Service provider
+3252,Symmetric encryption
+3253,User perceptions
+3254,Motion control
+3255,Clinical settings
+3256,Dynamic accuracies
+3257,Leap motions
+3258,Limited bandwidth
+3259,Markerless motion capture
+3260,Movement disorders
+3261,bandwidth
+3262,inverse filter
+3263,leap motion controller
+3264,movement (physiology)
+3265,Movement
+3266,Radio transmission
+3267,DFT-based
+3268,Dichotomous searches
+3269,Digital modulations
+3270,Error variance
+3271,Frequency offset estimators
+3272,Frequency offsets
+3273,Phase information
+3274,PSK signals
+3275,Power spectrum
+3276,Doppler
+3277,Power-spectra
+3278,Vehicle to vehicles
+3279,Acceleration data
+3280,Acceleration vectors
+3281,Circuit boards
+3282,Educational experiences
+3283,Ground stations
+3284,Inertial measurements
+3285,Inertial motions
+3286,Simple modeling
+3287,Rockets
+3288,Phase locked loops
+3289,Carrier frequency
+3290,Feedback approach
+3291,Ideal performance
+3292,Minimum value
+3293,Phase lock loop (PLL)
+3294,Phase synchronization
+3295,Uncoded system
+3296,Antenna feeds
+3297,Co-phasing
+3298,Frequency selective channel
+3299,Ground-based stations
+3300,Optimal combination
+3301,Polarization diversity
+3302,Epoxy resins
+3303,Morphology
+3304,Optimization
+3305,Cross-section micrographs
+3306,Defect characterization
+3307,Experimental methodology
+3308,Resin infusion
+3309,Void distributions
+3310,Void formation
+3311,Photography
+3312,Taxonomies
+3313,Deployment process
+3314,Energy mechanisms
+3315,Mechanical systems
+3316,Minimally invasive surgical
+3317,Self actuation
+3318,Self-deployment
+3319,Proof of concept
+3320,Surgical equipment
+3321,Kinematic mechanism
+3322,Potential function
+3323,Surgical devices
+3324,Surgery
+3325,Best practices
+3326,Developing nations
+3327,Engineering program
+3328,Engineering service
+3329,Impact assessments
+3330,Project outcomes
+3331,Service learning
+3332,Service learning project
+3333,Engineering education
+3334,Industrial engineering
+3335,Appropriate techniques
+3336,Case-studies
+3337,Design considerations
+3338,Four-group
+3339,Integration method
+3340,Non-differentiable
+3341,Stable state
+3342,Fold mechanisms
+3343,Parasitic motion
+3344,Spring steel
+3345,Global product development
+3346,Graduate studies
+3347,Mixed method
+3348,Product development organizations
+3349,Short term
+3350,Study abroad
+3351,Time-periods
+3352,Flat sheets
+3353,Four-bar linkage
+3354,Model parameters
+3355,Motion of individual
+3356,Self-interferences
+3357,Stop model
+3358,Thin materials
+3359,Dihedral angle
+3360,Fabrication
+3361,Arabidopsis
+3362,MEMS systems
+3363,Nanoinjection
+3364,Optimal force
+3365,Physical damages
+3366,Plant cells
+3367,Plant leaves
+3368,Plants (botany)
+3369,Digital technologies
+3370,Human interactions
+3371,Low fidelities
+3372,Low-frequency data
+3373,Remote sensors
+3374,Single snapshots
+3375,Mechanics
+3376,Electrical power
+3377,Energy scavenging
+3378,Micro electro mechanical system
+3379,Non-linear springs
+3380,Optimized designs
+3381,Pressurized gas
+3382,Cyanides
+3383,Groundwater
+3384,Potable water
+3385,Base-line performance
+3386,Clean waters
+3387,India Mark
+3388,Material degradation
+3389,Material variation
+3390,Seals
+3391,Delay control systems
+3392,Time delay
+3393,Accurate measurement
+3394,Least squares fitting
+3395,Least-squares approach
+3396,Optimal controls
+3397,Reducing noise
+3398,Temperature derivatives
+3399,Temperature fluctuation
+3400,Tool temperatures
+3401,Potential energy
+3402,Solar energy
+3403,Aircraft surface
+3404,Flight conditions
+3405,Optimal trajectories
+3406,Simulated flight
+3407,System constraints
+3408,Vehicle orientation
+3409,User interfaces
+3410,Wings
+3411,XML
+3412,Design frameworks
+3413,Design intent
+3414,Design standard
+3415,Engineering companies
+3416,Multiple CAD systems
+3417,Multiple systems
+3418,Neutral format
+3419,Parametric design
+3420,Coal fired boilers
+3421,Fourier transform infrared spectroscopy
+3422,Natural gas
+3423,Optical fibers
+3424,Soot
+3425,Water vapor
+3426,Biomass-fired boilers
+3427,Design and operations
+3428,Fourier transform infrared spectrometer
+3429,FTIR
+3430,High temperature and pressure
+3431,Measurement techniques
+3432,Particle temperature
+3433,Gas emissions
+3434,Dilution
+3435,Active mixers
+3436,Active valves
+3437,Device operations
+3438,Dilution ratio
+3439,Inlet channels
+3440,Integrated structure
+3441,Relative concentration
+3442,Separate interfaces
+3443,Aluminum coatings
+3444,Binding energy
+3445,Chemical shift
+3446,Electron emission
+3447,Mirrors
+3448,Optical constants
+3449,Oxidation
+3450,Photoelectrons
+3451,Quality assurance
+3452,Spectroscopic ellipsometry
+3453,Ultrathin films
+3454,X ray photoelectron spectroscopy
+3455,Aluminum mirrors
+3456,Appropriate models
+3457,Deposition chambers
+3458,Deposition conditions
+3459,Empirical formulas
+3460,Lifetime
+3461,Magnesium fluoride
+3462,Real time monitoring
+3463,Fluorine compounds
+3464,Integrated circuit interconnects
+3465,Lab-on-a-chip
+3466,Stereolithography
+3467,Active elements
+3468,Application area
+3469,Commercial tools
+3470,High density interconnects
+3471,Lab-on-a-chip devices
+3472,Electric utilities
+3473,Nonlinear programming
+3474,Wind power
+3475,Annual energy productions
+3476,Computational optimization
+3477,Gradient-based optimization method
+3478,Optimization strategy
+3479,Sparse nonlinear
+3480,Wind farm layout optimizations
+3481,Wind farm layouts
+3482,Wakes
+3483,Gradient based
+3484,Power production
+3485,Simplifying assumptions
+3486,Wake model
+3487,Film growth
+3488,Nuclear power plants
+3489,Thermal conductivity of solids
+3490,Thermal Engineering
+3491,Thermodynamic properties
+3492,Thorium compounds
+3493,Uranium compounds
+3494,Actinide materials
+3495,Dc magnetron sputtering
+3496,Deposition process
+3497,Electron interaction
+3498,Measured properties
+3499,Thermal characterization
+3500,Thermal property measurements
+3501,Thin-film measurement
+3502,Ablation
+3503,Corrosion protection
+3504,Disintegration
+3505,Laser ablation
+3506,Laser beam effects
+3507,Laser beams
+3508,Magnesium
+3509,Metal implants
+3510,Micromachining
+3511,Biocompatible coatings
+3512,Biodegradable implants
+3513,Corrosion characteristics
+3514,High-purity magnesium
+3515,Magnesium and its alloys
+3516,Uniform microstructure
+3517,Wetting characteristics
+3518,Turbomachinery
+3519,Inlet distortion
+3520,Operating points
+3521,Performance prediction
+3522,Power variations
+3523,Radial variations
+3524,Total pressure distortion
+3525,Total temperatures
+3526,Aircraft propulsion
+3527,Automated assessment
+3528,In-control
+3529,Student expectations
+3530,A-stability
+3531,Cavitation instability
+3532,Design flows
+3533,Inlet pressures
+3534,Rotating cavitations
+3535,Rotordynamic forces
+3536,Suction performance
+3537,Time-accurate
+3538,Nonlinear filtering
+3539,Position measurement
+3540,Radar tracking
+3541,Target tracking
+3542,Bank of Extended Kalman Filters
+3543,Estimation algorithm
+3544,Extraterrestrial measurements
+3545,Nonlinear observability
+3546,Pose estimation
+3547,State observability
+3548,Radar target recognition
+3549,Combustion
+3550,Mixtures
+3551,Cylindrical formulation
+3552,Jet configuration
+3553,Measurement data
+3554,Mixture fraction
+3555,One-dimensional turbulence modeling
+3556,Subtle interaction
+3557,Vitiated coflow
+3558,Philosophical aspects
+3559,Social aspects
+3560,Engineering educators
+3561,Ethical climate
+3562,Ethics
+3563,Qualitative interviews
+3564,Social responsibilities
+3565,Undergraduate engineering
+3566,Undergraduate engineering students
+3567,Decision making process
+3568,Informed decision
+3569,Major factors
+3570,Perceived risk
+3571,Security design
+3572,Three phase
+3573,User autonomy
+3574,Risk perception
+3575,Functional areas
+3576,Generalized linear model
+3577,Graphical user interfaces (GUI)
+3578,Intersection crashes
+3579,Intersection safety
+3580,Model inputs
+3581,Safety concerns
+3582,Aircraft accidents
+3583,Landing
+3584,Complete system
+3585,Emergency landing
+3586,Management systems
+3587,Multiple targets
+3588,Non-cooperative
+3589,Safety features
+3590,Small unmanned aircrafts
+3591,Chip based
+3592,Error rate
+3593,Robust signal processing
+3594,Single-molecule detection
+3595,Ultra sensitives
+3596,Wavelet-based signal processing
+3597,E-mail research
+3598,Identity Based Encryption
+3599,Key management schemes
+3600,Quantitative metric
+3601,Standard metrics
+3602,Usability evaluation
+3603,Public key cryptography
+3604,Geosynthetic materials
+3605,Granular materials
+3606,Cellular concretes
+3607,Controlled low strength materials
+3608,Displacement demand
+3609,Granular backfills
+3610,Granular fills
+3611,Passive forces
+3612,Seismic loadings
+3613,Underlying soils
+3614,Light weight concrete
+3615,Biochips
+3616,Microchannels
+3617,Viruses
+3618,Light-matter interactions
+3619,Optical collection efficiency
+3620,Single-molecule sensitivity
+3621,Personal computing
+3622,Silicate minerals
+3623,Encrypted traffic
+3624,Identity theft
+3625,Security and privacy
+3626,Trade off
+3627,Commerce
+3628,Risk assessment
+3629,Weighing
+3630,Coping strategies
+3631,On-line securities
+3632,Security measure
+3633,Security situation
+3634,Semi structured interviews
+3635,Users' perception
+3636,Washington State
+3637,Capstone
+3638,Customer need
+3639,Industry representatives
+3640,Project descriptions
+3641,Project sponsors
+3642,Sponsor expectations
+3643,US Air Force Academy
+3644,Bi objectives
+3645,Design researchers
+3646,Divergent thinkings
+3647,Explicit representation
+3648,Initial phasis
+3649,Physical products
+3650,Flow of gases
+3651,Kilns
+3652,Pulverized fuel
+3653,Cement kiln systems
+3654,CO2 concentration
+3655,Measurements and modeling
+3656,On-site measurement
+3657,Outlet temperature
+3658,Production rates
+3659,Pulverized coal combustion
+3660,Thermal efficiency
+3661,Two phase flow
+3662,Decision making
+3663,Multiobjective optimization
+3664,Pareto principle
+3665,Turing machines
+3666,Water wells
+3667,Decision makers
+3668,Design Exploration
+3669,Economic sustainability
+3670,Environmental sustainability
+3671,Multi-objective optimization techniques
+3672,Pareto-optimality
+3673,Social sustainability
+3674,Sustainable product development
+3675,Light reflection
+3676,Lithography
+3677,Optics
+3678,Plasma diagnostics
+3679,Aluminum oxide nanoparticles
+3680,Anti-reflective layers
+3681,Complex topographies
+3682,Complicated topographies
+3683,High-resolution patterning
+3684,Nanoparticle suspension
+3685,Optical sensor devices
+3686,Reflection of light
+3687,Light transmission
+3688,Rendering (computer graphics)
+3689,Complex assembly
+3690,Exterior surfaces
+3691,High-fidelity
+3692,Novel methods
+3693,Ray casting
+3694,Hazards
+3695,Seismic design
+3696,Comparative studies
+3697,Design ground motion
+3698,Liquefaction hazards
+3699,Low to moderate seismicity
+3700,Performance based
+3701,Performance based approach
+3702,Probabilistic methods
+3703,Soil amplification
+3704,Soil liquefaction
+3705,earthquake engineering
+3706,hazard assessment
+3707,liquefaction
+3708,prediction
+3709,probability
+3710,seismicity
+3711,soil classification
+3712,trigger mechanism
+3713,Mathematical models
+3714,Tunnelling magnetoresistance
+3715,Random access memory
+3716,Routing
+3717,Triple modular redundancies (TMR)
+3718,Tunneling magnetoresistance
+3719,Atmospheric pressure
+3720,Nanocantilevers
+3721,Porous materials
+3722,Resonators
+3723,Analyte detection
+3724,Cantilever resonators
+3725,High surface area
+3726,Mechanical resonance
+3727,Mechanical resonators
+3728,Mechanically robust
+3729,Micro-cantilevers
+3730,Nano-scale porosity
+3731,Acoustic surface wave devices
+3732,Femtosecond lasers
+3733,Guided electromagnetic wave propagation
+3734,Holography
+3735,Laser optics
+3736,Light modulation
+3737,Niobium compounds
+3738,Optical transfer function
+3739,Bragg reflection gratings
+3740,Direct laser writing
+3741,Experimental characterization
+3742,Femtosecond laser micromachining
+3743,Femtosecond laser writing
+3744,Lithium niobate
+3745,Spatial light modulators
+3746,Surface acoustic waves
+3747,Light modulators
+3748,Probes
+3749,Time measurement
+3750,Chirped fiber Bragg grating
+3751,Pump-probe spectroscopy
+3752,Single shots
+3753,Time stretching
+3754,Time-encoding
+3755,Phase change materials
+3756,Palladium alloys
+3757,Quantum theory
+3758,Structural optimization
+3759,Ternary alloys
+3760,Active Learning
+3761,Alloy phase
+3762,Cluster expansion
+3763,Interatomic potential
+3764,Moment tensors
+3765,Lean production
+3766,Serious games
+3767,Construction stakeholders
+3768,Design decision-making
+3769,Design science
+3770,Development and testing
+3771,International construction projects
+3772,Simulations
+3773,Target value designs
+3774,Value
+3775,Architectural design
+3776,Compliance control
+3777,Flexible manipulators
+3778,Industrial robots
+3779,Modular robots
+3780,Pneumatic actuators
+3781,Adaptive Control
+3782,Coupling modeling
+3783,Integral controllers
+3784,Nominal models
+3785,Six degree-of-freedom
+3786,Soft robot
+3787,System Dynamics
+3788,Model reference adaptive control
+3789,Acoustic noise
+3790,Decomposition
+3791,Mixing
+3792,Noise pollution
+3793,Shock tubes
+3794,Characteristic shapes
+3795,High frequency HF
+3796,Nonlinear propagation
+3797,Peak frequencies
+3798,Shock associated noise
+3799,Spatial variations
+3800,Spectral decomposition
+3801,Turbulent mixing noise
+3802,Light interference
+3803,Lithium compounds
+3804,Barrier layers
+3805,Fluoride layers
+3806,Space-based observations
+3807,Aeroacoustics
+3808,Condition monitoring
+3809,Microphones
+3810,Supersonic aerodynamics
+3811,Supersonic aircraft
+3812,Apparent source
+3813,Engine conditions
+3814,Near-field acoustical holography
+3815,Overall sound pressure level
+3816,Perceptual feature
+3817,Supersonic jets
+3818,Time-domain beamforming
+3819,Acoustic fields
+3820,Afterburners (oven)
+3821,Laboratories
+3822,Jet plumes
+3823,Near fields
+3824,Source region
+3825,Basic principles
+3826,Carry-over effects
+3827,Computing devices
+3828,On-line experiments
+3829,Provide guidances
+3830,Software developer
+3831,User interface designs
+3832,Visual consistency
+3833,Mammals
+3834,Feature extraction
+3835,Ensemble feature selections
+3836,General regression neural network
+3837,Maximal oxygen uptake
+3838,Minimum redundancy-maximum relevances
+3839,Multiple correlation coefficients
+3840,Predictor variables
+3841,Rank aggregation
+3842,Root mean square errors
+3843,Integrated optical waveguides
+3844,Liquid cores
+3845,Pneumatic valve
+3846,Sample preparation
+3847,Solid core
+3848,Specific capture
+3849,Electric power measurement
+3850,Heuristic algorithms
+3851,Transient analysis
+3852,Voltage measurement
+3853,Dynamic equivalent
+3854,Non-linear optimization
+3855,On-line measurement
+3856,Power system dynamics
+3857,Power system stability
+3858,REI equivalents
+3859,Electric power system measurement
+3860,Effective approaches
+3861,Finite size
+3862,Three dimensions
+3863,Folded state
+3864,Multi-loops
+3865,Single degree of freedoms
+3866,Spatial mechanism
+3867,Vertex result
+3868,Complex task
+3869,Curved surfaces
+3870,Relative orientation
+3871,Rigid links
+3872,Calorimeters
+3873,Calorimetry
+3874,Computational chemistry
+3875,Metastable phases
+3876,Nanometals
+3877,Surface chemistry
+3878,Surface scattering
+3879,Titanium dioxide
+3880,High temperature oxide melt solution calorimetry
+3881,Low-temperature specific heat
+3882,Metal oxide nanoparticles
+3883,Metal oxide surfaces
+3884,Molecular dynamics simulations
+3885,Substantial variations
+3886,Surface water interaction
+3887,Water interactions
+3888,Surface waters
+3889,Neutron beams
+3890,Software reliability
+3891,Commercial off the shelves
+3892,High radiation environment
+3893,Msp430 microcontrollers
+3894,Processor architectures
+3895,Biometrics
+3896,Hardening
+3897,Attractive solutions
+3898,Biological neural networks
+3899,Field programmable gate array (FPGAs)
+3900,Iris
+3901,Iris recognition
+3902,Selective hardening
+3903,Adhesion
+3904,Adhesives
+3905,Chemical bonds
+3906,Conductive materials
+3907,Curing
+3908,Plasma theory
+3909,Surface treatment
+3910,Adhesive failure modes
+3911,Electronics manufacturing
+3912,Interfacial shear strength
+3913,Processing condition
+3914,Single lap shears
+3915,Structural component
+3916,Group velocity dispersion
+3917,Acquisition rates
+3918,Chaotic phenomena
+3919,Chirped pulse
+3920,Photo-induced phase transitions
+3921,Propagation loss
+3922,Pump probe measurement
+3923,Bistable mechanisms
+3924,Buckling constraints
+3925,Critical buckling loads
+3926,Force-displacement characteristics
+3927,Fully compliant
+3928,Monolithic structures
+3929,Multistable
+3930,Disasters
+3931,Hurricanes
+3932,Information management
+3933,Information systems
+3934,Social networking (online)
+3935,Characterization tools
+3936,Data
+3937,Emergency response
+3938,Framework
+3939,Hurricane evacuation
+3940,Large scale disasters
+3941,Public safety answering points
+3942,Emergency services
+3943,Drop breakup
+3944,Electronic cooling
+3945,Hydraulic jump
+3946,Hydraulic machinery
+3947,Oscillators (electronic)
+3948,Analytical expressions
+3949,Axisymmetric modeling
+3950,Fuel atomization
+3951,Horizontal surfaces
+3952,Liquid jet impingement
+3953,Patterning approaches
+3954,Serpentine
+3955,Trusses
+3956,Antenna aperture
+3957,Deployment architecture
+3958,Deployment kinematics
+3959,Diamond patterns
+3960,Folding patterns
+3961,Packaging density
+3962,Spacecraft structures
+3963,Soil mechanics
+3964,Tall buildings
+3965,Catastrophic consequences
+3966,Earthquake sequences
+3967,Energy interactions
+3968,High rise building
+3969,Post-earthquake reconnaissances
+3970,Subduction-zone earthquakes
+3971,Civil defense
+3972,Managers
+3973,Risk management
+3974,Crisis informatics
+3975,Delphi method
+3976,Emergency management
+3977,Software requirements
+3978,Computer software reusability
+3979,Drills
+3980,Open Data
+3981,Statistical Physics
+3982,Drilling operation
+3983,Joint industry programs
+3984,Non-linear dynamics
+3985,Open source repositories
+3986,Post-well analysis
+3987,Software capability
+3988,Lunar landing
+3989,Manned space flight
+3990,Moon
+3991,Poles
+3992,Space research
+3993,Design reference missions
+3994,Extravehicular activity
+3995,Landing site
+3996,National Research Council
+3997,Sample return
+3998,South polar region
+3999,South Pole-Aitken basins
+4000,Lunar missions
+4001,Global optimization
+4002,Continuous dynamics
+4003,Differential and algebraic equations
+4004,Dynamic power system model
+4005,Identification procedure
+4006,Transient stability studies
+4007,Cache memory
+4008,Multiprocessing systems
+4009,External power supplies
+4010,Multiple processors
+4011,Processing systems
+4012,Processor failures
+4013,Programmable logic
+4014,FinFET
+4015,Flip flop circuits
+4016,Heavy ions
+4017,Blockram
+4018,Single event
+4019,Single event latch-up
+4020,Smart power grids
+4021,Co-simulations
+4022,Dropped packets
+4023,Packet drops
+4024,Phasor Measurement Unit (PMU)
+4025,Power system state estimation
+4026,SCADA measurements
+4027,nucleic acid
+4028,dimeticone
+4029,nylon
+4030,poly(dimethylsiloxane)-polyamide copolymer
+4031,virus DNA
+4032,equipment design
+4033,excitation
+4034,Flavivirus
+4035,fluorescence
+4036,limit of detection
+4037,nanofabrication
+4038,nucleic acid analysis
+4039,protein determination
+4040,virus detection
+4041,Zika fever
+4042,analysis
+4043,blood
+4044,devices
+4045,diagnosis
+4046,genetics
+4047,lab on a chip
+4048,optical instrumentation
+4049,Zika virus
+4050,Analytic Sample Preparation Methods
+4051,Dimethylpolysiloxanes
+4052,"DNA, Viral"
+4053,Equipment Design
+4054,Lab-On-A-Chip Devices
+4055,Limit of Detection
+4056,Nylons
+4057,Optical Devices
+4058,Zika Virus
+4059,Access management
+4060,Conflict analysis
+4061,Multiple-access management
+4062,Simulated environment
+4063,Simulation software
+4064,Surrogate analysis
+4065,Highway administration
+4066,Flexible printed circuit boards
+4067,Geometric feature
+4068,Global stiffness
+4069,Material selection
+4070,Maximum stress
+4071,Non ideals
+4072,Stiffness reduction
+4073,Evaporation
+4074,Nucleate boiling
+4075,Film boiling
+4076,Pool boiling
+4077,Post patterned
+4078,Rib patterned
+4079,Encapsulation
+4080,Cell differentiation
+4081,Immune rejection
+4082,Induced pluripotent stem cells
+4083,Retrievability
+4084,Type 1 diabetes
+4085,Vascularization
+4086,Stem cells
+4087,fibrin
+4088,glibenclamide
+4089,politef
+4090,polysulfone
+4091,cell aggregation
+4092,cell differentiation
+4093,cell encapsulation
+4094,cell size
+4095,feasibility study
+4096,glycemic control
+4097,induced pluripotent stem cell
+4098,insulin dependent diabetes mellitus
+4099,nonobese diabetic mouse
+4100,pathogenesis
+4101,skin fibroblast
+4102,stem cell transplantation
+4103,teratoma
+4104,cytology
+4105,Cell Differentiation
+4106,"Diabetes Mellitus, Type 1"
+4107,Feasibility Studies
+4108,Induced Pluripotent Stem Cells
+4109,Stem Cell Transplantation
+4110,Complex mechanisms
+4111,Engineering problems
+4112,Force deflection
+4113,Magnetic actuation
+4114,Mechanical advantage
+4115,Multiple inputs
+4116,Single input and single outputs
+4117,Torsional stress
+4118,Design equation
+4119,Design insights
+4120,Rectangular beams
+4121,Rectangular cross-section beams
+4122,Symmetric equations
+4123,Thickness-to-width ratio
+4124,Torsional compliance
+4125,Two-dimension
+4126,Airborne tests
+4127,Flight test engineers
+4128,Rotary wing aircrafts
+4129,Spectrum allocation
+4130,Counter current
+4131,Head waters
+4132,Low-head dams
+4133,Partial widths
+4134,Prototype testing
+4135,Submerged hydraulic jumps
+4136,Surface velocity
+4137,Tailwater
+4138,Dams
+4139,Uranium alloys
+4140,Zirconium alloys
+4141,Alloy compositions
+4142,Compositional evolution
+4143,Compositional range
+4144,Compositional spectra
+4145,Compositional uniformity
+4146,Phase field methods
+4147,Phase field models
+4148,Simulated evolutions
+4149,Plutonium alloys
+4150,Astrophysics
+4151,Mathematical operators
+4152,Nonlinear equations
+4153,Asymptotics
+4154,Boussinesq equations
+4155,Multiple time scale
+4156,Parallel numerical method
+4157,Reduced model
+4158,Slow manifolds
+4159,System of partial differential equations
+4160,Wave-mean-flow interaction
+4161,Difference equations
+4162,Boussinesq equation
+4163,nonlinearity
+4164,numerical method
+4165,quasi-geostrophic flow
+4166,wave field
+4167,Chemical reactors
+4168,Coal ash
+4169,Copper oxides
+4170,Cost effectiveness
+4171,Fly ash
+4172,Fossil fuel power plants
+4173,Ionization of gases
+4174,Iron oxides
+4175,Waste incineration
+4176,Carbon deposition
+4177,Chemical looping combustion
+4178,Cost-effective approach
+4179,Environmental-friendly
+4180,Fossil fuel combustion
+4181,Impregnation methods
+4182,Oxygen Carrier
+4183,Thermogravimetric analyzers
+4184,bioreactor
+4185,byproduct
+4186,carbon dioxide
+4187,coal combustion
+4188,combustion
+4189,decomposition
+4190,energy efficiency
+4191,fly ash
+4192,fossil fuel
+4193,inorganic compound
+4194,iron oxide
+4195,methane
+4196,performance assessment
+4197,technological development
+4198,temperature effect
+4199,Automobile testing
+4200,Integration testing
+4201,CAD applications
+4202,Development stages
+4203,Rectangular prisms
+4204,Three-dimensional model
+4205,User testing
+4206,Virtual reality modeling
+4207,Aspirated thermocouple
+4208,Combustion gas temperatures
+4209,Combustion products
+4210,Particle laden flows
+4211,Physical limitations
+4212,Spectral measurement
+4213,Atomization
+4214,High speed photography
+4215,Droplet impingement
+4216,Image processing algorithm
+4217,Low surface temperature
+4218,Surface microstructures
+4219,Surface structuring
+4220,Surface wettability
+4221,Algebraic curves
+4222,Exceptional polynomials
+4223,Finite fields
+4224,Permutation polynomials
+4225,Positive integers
+4226,Weil bounds
+4227,Polynomials
+4228,Butler matrix
+4229,Optical receivers
+4230,Butler matrices
+4231,Code-words
+4232,Codebooks
+4233,Internal phase
+4234,Phase error
+4235,Adaptive optics
+4236,Flanges
+4237,Structural frames
+4238,Beam - column connection
+4239,Beam-to-column connections
+4240,Connection rotation
+4241,High rise structures
+4242,RBS moment connection
+4243,Reduced beam section
+4244,Seismic Performance
+4245,Special moment frames
+4246,Axial loads
+4247,Atomic layer deposition
+4248,Extract informations
+4249,Growth process
+4250,Trimethylaluminum
+4251,XPS spectra
+4252,XPS survey
+4253,Binary trees
+4254,Domain decomposition methods
+4255,Supercomputers
+4256,Distributed architecture
+4257,Distribution strategies
+4258,Los Alamos National Laboratory
+4259,Multiphysics problems
+4260,Simulation
+4261,Smoothed particle hydrodynamics
+4262,Tree construction
+4263,Tree data structures
+4264,Bearings (structural)
+4265,Surface tension
+4266,Analytical approximation
+4267,Capillary
+4268,Design strategies
+4269,Load carrying capability
+4270,Positioning accuracy
+4271,Stiffness characteristics
+4272,Supporting surfaces
+4273,Wetting boundaries
+4274,Benchmark suites
+4275,CAD tool
+4276,FPGA design
+4277,Reduce costs
+4278,Time to market
+4279,Operating costs
+4280,Protein folding
+4281,Proteins
+4282,Transcription
+4283,Biosensing
+4284,Cell free protein synthesis
+4285,CFPS
+4286,In-vitro
+4287,Lab equipments
+4288,Protein biosensors
+4289,Specialized training
+4290,Specific detection
+4291,Biosynthesis
+4292,cell free protein synthesis
+4293,genetic procedures
+4294,protein engineering
+4295,protein folding
+4296,protein transcription
+4297,protein translation
+4298,transcription regulation
+4299,Carbon capture
+4300,Coal storage
+4301,Integrated control
+4302,Power generation
+4303,Precombustion
+4304,Carbon capture process
+4305,Chemical absorption
+4306,Coal-fired power plant
+4307,International policies
+4308,Low temperatures
+4309,Modeling and optimization
+4310,absorption
+4311,carbon emission
+4312,coal-fired power plant
+4313,demand analysis
+4314,electricity
+4315,energy policy
+4316,energy storage
+4317,integrated approach
+4318,low temperature
+4319,optimization
+4320,power generation
+4321,price dynamics
+4322,wind power
+4323,Columns (structural)
+4324,Beams on elastic foundation
+4325,Column base plate
+4326,Economical connection
+4327,Experimental specimens
+4328,Flexural stiffness
+4329,Rotational spring
+4330,column
+4331,concrete
+4332,flexure
+4333,steel
+4334,stiffness
+4335,strength
+4336,Chemical sensors
+4337,Chemical vapor deposition
+4338,Electrodes
+4339,Immunosensors
+4340,Light absorption
+4341,Cancer
+4342,CIP2A
+4343,Enzyme linked immunosorbent assay
+4344,Inter-digitated electrodes
+4345,Label-free immunosensor
+4346,Point of care diagnostic
+4347,Vertically aligned carbon nanotube
+4348,cancerous inhibitor PP2A
+4349,carbon nanotube
+4350,oncoprotein
+4351,antibody
+4352,autoantigen
+4353,"KIAA1524 protein, human"
+4354,membrane protein
+4355,antibody specificity
+4356,cancer screening
+4357,enzyme linked immunosorbent assay
+4358,intermethod comparison
+4359,mouth cancer
+4360,point of care testing
+4361,saliva
+4362,supernatant
+4363,vertically aligned carbon nanotube array
+4364,early cancer diagnosis
+4365,mouth tumor
+4366,point of care system
+4367,standards
+4368,Antibodies
+4369,Autoantigens
+4370,Biosensing Techniques
+4371,Early Detection of Cancer
+4372,Membrane Proteins
+4373,Mouth Neoplasms
+4374,"Nanotubes, Carbon"
+4375,Point-of-Care Systems
+4376,Wireless telecommunication systems
+4377,Destination nodes
+4378,Maximum flows
+4379,Single probe
+4380,Single source
+4381,Store and forward
+4382,Store code and forward
+4383,Topology inference
+4384,Network coding
+4385,Bit error probability
+4386,Code rates
+4387,Coded system
+4388,Constellation parameters
+4389,Peak to average power ratio
+4390,Symmetric information rates
+4391,Phase shift keying
+4392,Linear programming
+4393,Adaptive natures
+4394,Compression algorithms
+4395,Compression encoding
+4396,Compression process
+4397,Compression techniques
+4398,Statistical attacks
+4399,Statistical information
+4400,Universal compression
+4401,Biocatalysts
+4402,Biochemistry
+4403,Cell immobilization
+4404,Enzyme immobilization
+4405,Ionic liquids
+4406,Bio-manufacturing
+4407,Cascade engineerings
+4408,Cascade operation
+4409,Chemocatalysis
+4410,Enzyme encapsulation
+4411,Fine Chemicals
+4412,Plug and play
+4413,Reaction conditions
+4414,Cell engineering
+4415,enzyme
+4416,immobilized enzyme
+4417,biocatalyst
+4418,biomanufacturing
+4419,cell free chemical biosynthesis
+4420,cost effectiveness analysis
+4421,encapsulation
+4422,enzyme immobilization
+4423,enzyme purification
+4424,enzyme stability
+4425,signal transduction
+4426,synthesis
+4427,virus like agent
+4428,metabolic engineering
+4429,Cell-Free System
+4430,Enzyme Stability
+4431,"Enzymes, Immobilized"
+4432,Metabolic Engineering
+4433,Brillouin zones
+4434,Integer division
+4435,Reciprocal lattice vectors
+4436,Total energy
+4437,Materials science
+4438,Fighter aircraft
+4439,Specifications
+4440,Changing constraints
+4441,Coastal and hydraulics laboratories
+4442,Coastal environments
+4443,Environmental variables
+4444,Military logistics
+4445,Operation planning
+4446,Route planning
+4447,Two-dimensional hydrodynamics
+4448,Logistics
+4449,Flexible structures
+4450,Frequency domains
+4451,Lagrange's equation
+4452,Modeling procedure
+4453,Precision positioning stage
+4454,erratum
+4455,Austenite
+4456,Ductile fracture
+4457,Linear transformations
+4458,Mathematical transformations
+4459,Plastic deformation
+4460,Effect of strain
+4461,Effective strain
+4462,Forming limits
+4463,Plane strain tension
+4464,Retained austenite
+4465,Strain paths
+4466,Uniaxial tensions
+4467,Compliant stiffener
+4468,lenticular stiffener
+4469,Nonlinear elasticity
+4470,"STEM (science, technology, engineering and mathematics)"
+4471,Attitude
+4472,Engineering and technology
+4473,English literature
+4474,Interest
+4475,Literacy
+4476,Reading
+4477,STEM careers
+4478,Student attitudes
+4479,Isotherms
+4480,Radiation
+4481,Cavity effect
+4482,Monte-Carlo ray tracing
+4483,Multiple reflections
+4484,Numerical verification
+4485,Specular reflections
+4486,V grooves
+4487,Ray tracing
+4488,Gas adsorption
+4489,Iron compounds
+4490,Multiwalled carbon nanotubes (MWCN)
+4491,Organometallics
+4492,Alumina Nanoparticle
+4493,Carbon nano-tube structures
+4494,Ferrocenes
+4495,Liquid precursors
+4496,Moderate temperature
+4497,Multi-walled CNTs
+4498,Resulting materials
+4499,Consolidation
+4500,Analytical methodology
+4501,Dynamics characteristic
+4502,Exact analytical solutions
+4503,Geotechnical parameters
+4504,Natural radial frequency
+4505,Raft
+4506,Superstructure
+4507,analytical framework
+4508,centrifugal model test
+4509,geotechnical engineering
+4510,pile
+4511,Autonomous target
+4512,Hardware test
+4513,Multiple moving objects
+4514,Multiple objects
+4515,Vision-based target tracking
+4516,Cost functions
+4517,Gaussian noise (electronic)
+4518,Cooperating vehicles
+4519,Gaussian process regression
+4520,Grid cells
+4521,Mission objectives
+4522,Search area
+4523,Search parameters
+4524,Target density
+4525,Vehicle searches
+4526,Buckling failure
+4527,Buckling restrained braced frames
+4528,Compressive loads
+4529,Construction technique
+4530,Continuous support
+4531,Deployable boom
+4532,Support systems
+4533,Variable length
+4534,Robotic surgery
+4535,Universal joints
+4536,Alternative materials
+4537,Compliant joints
+4538,Constrained design
+4539,Effective moduli
+4540,Energy storage efficiencies
+4541,Joint stiffness
+4542,Maximum moments
+4543,Three orders of magnitude
+4544,Bi-stable state
+4545,Bistables
+4546,Large structures
+4547,Low-energy state
+4548,Stored energy
+4549,Thick sheets
+4550,Manufacturing complexity
+4551,Rolling contacts
+4552,Rolling joints
+4553,Rollers (machine components)
+4554,Bacteria
+4555,Pipelines
+4556,Anti-microbial activity
+4557,Drug discovery
+4558,Motif discovery
+4559,Novel antibiotics
+4560,Random forest algorithm
+4561,Random forests
+4562,Resistance genes
+4563,Sequence motifs
+4564,Dielectric waveguides
+4565,Fluorescence spectroscopy
+4566,Integrated optics
+4567,Low-k dielectric
+4568,Multiplexing
+4569,Optical sensors
+4570,Antiresonant reflecting optical waveguides
+4571,Disease diagnostics
+4572,Environmental stability
+4573,Ribs
+4574,Target identification
+4575,Emission spectroscopy
+4576,Collaborative filtering
+4577,Factorization
+4578,Motion pictures
+4579,Nearest neighbor search
+4580,Recommender systems
+4581,Collaborative filtering systems
+4582,Collaborative filtering techniques
+4583,K-nearest neighbors
+4584,Learning approach
+4585,Matrix factorizations
+4586,Movie recommendations
+4587,Root mean squared errors
+4588,Streaming service
+4589,Distance education
+4590,Graduate schools
+4591,Long-term perspective
+4592,Multi-class support vector machines
+4593,On-line education
+4594,Performance evaluations
+4595,Recommender
+4596,Micro air vehicle (MAV)
+4597,Key frames
+4598,New applications
+4599,Remote areas
+4600,Image segmentation
+4601,Mesh generation
+4602,Pipe flow
+4603,Turbulence models
+4604,Computationally efficient
+4605,Cylindrical
+4606,One-dimensional turbulence model
+4607,Spherical configurations
+4608,Spherical coordinates
+4609,Velocity fluctuations
+4610,advection
+4611,cylinder
+4612,numerical model
+4613,one-dimensional modeling
+4614,pipe flow
+4615,turbulence
+4616,Joints (structural components)
+4617,Compliant
+4618,Curvature
+4619,Developable
+4620,Ruled surfaces
+4621,Channel state information
+4622,Wi-Fi
+4623,Code construction
+4624,Linear block code
+4625,Operating parameters
+4626,Packet erasure channels
+4627,Probability of intercepts
+4628,Communication channels (information theory)
+4629,Fading (radio)
+4630,High reliability
+4631,Perfect secrecy
+4632,Quadrature phaseshift keying (QPSK)
+4633,Hardware
+4634,Longitudinal study
+4635,usability
+4636,YubiKey
+4637,Absorption spectroscopy
+4638,High temperature applications
+4639,High temperature engineering
+4640,Absorption co-efficient
+4641,Absorption cross sections
+4642,Engineering applications
+4643,Gas spectral absorption
+4644,Statistical narrow-band model
+4645,Temperature and pressures
+4646,Weighted-sum-of-gray-gases models
+4647,Gas absorption
+4648,Engineering research
+4649,Content creation
+4650,Talent management
+4651,CMOS integrated circuits
+4652,Dielectric devices
+4653,Digital cameras
+4654,Image sensors
+4655,Imaging systems
+4656,Metallic compounds
+4657,MOS devices
+4658,Oxide semiconductors
+4659,Photomultipliers
+4660,Polydimethylsiloxane
+4661,Signal conditioning circuits
+4662,Transistors
+4663,Analyte concentration
+4664,Complementary metal oxide semiconductor image sensor
+4665,Complementary metal oxide semiconductors
+4666,Contact imaging
+4667,Photomultiplier tube
+4668,Polydimethylsiloxane PDMS
+4669,Array processing
+4670,Correlation methods
+4671,Directional patterns (antenna)
+4672,Antenna array synthesis
+4673,Antenna radiation pattern synthesis
+4674,Array signal processing
+4675,Conventional beamforming
+4676,Electromagnetic propagation
+4677,Numerical implementation
+4678,Semi-definite programming
+4679,Sediment transport
+4680,Sedimentation
+4681,Stream flow
+4682,Bankfull discharge
+4683,Bed-load transport rate
+4684,Bedload sediment transport
+4685,Calibration procedure
+4686,Gravel-bed streams
+4687,Predictive accuracy
+4688,Semi-empirical methods
+4689,bedload
+4690,calibration
+4691,empirical analysis
+4692,gravel bed stream
+4693,sediment transport
+4694,Fusion reactions
+4695,affective theories
+4696,Design projects
+4697,Electrodermal activity
+4698,Learning environments
+4699,Multi-modal
+4700,Jacobian matrices
+4701,Distributed compliances
+4702,Force-displacement relations
+4703,Kinetostatic analysis
+4704,Matrix displacement method
+4705,Parameter optimization
+4706,Asteroids
+4707,Infrared imaging
+4708,Infrared spectroscopy
+4709,Orbits
+4710,Planets
+4711,Satellites
+4712,Space telescopes
+4713,Telescopes
+4714,Infra-red survey telescope
+4715,Infrared space observatory
+4716,James Webb space telescope
+4717,Kuiper belt objects
+4718,Large synoptic survey telescopes
+4719,Moving target tracking
+4720,Next generation space telescopes
+4721,System investigation
+4722,Printing presses
+4723,Exposure conditions
+4724,Particle traps
+4725,Rapid feedback
+4726,Surface feature
+4727,Three-dimensional (3D) printing
+4728,Austenite grain
+4729,Austenite twins
+4730,Lath martensitic steels
+4731,Orientation relationship
+4732,Overlapping regions
+4733,Reconstruction method
+4734,Special boundaries
+4735,Twin boundaries
+4736,Martensitic stainless steel
+4737,Incompressible flow
+4738,Displacement-based method
+4739,Locking
+4740,Nearly incompressible
+4741,Sparse non-symmetric systems
+4742,Spline representation
+4743,Cooperative communication
+4744,Critical component
+4745,Graph optimization
+4746,Guidance and control
+4747,High-fidelity simulations
+4748,Novel methodology
+4749,Registered images
+4750,Clocks
+4751,Electric current measurement
+4752,Operational amplifiers
+4753,Transconductance
+4754,Charge redistribution
+4755,Charge-Steering
+4756,Circuits and systems
+4757,Dynamic Circuits
+4758,Linearity
+4759,Light amplifiers
+4760,Crystallization
+4761,Grain refinement
+4762,Superalloys
+4763,Tribology
+4764,Annealing twins
+4765,Austenitic alloys
+4766,Boundary migration
+4767,Boundary misorientations
+4768,Discontinuous dynamic recrystallization
+4769,Formation mechanism
+4770,Grain refinement mechanism
+4771,Dynamic recrystallization
+4772,Laminar flow
+4773,Bubble nucleation
+4774,High aspect ratio
+4775,Transport dynamics
+4776,Volumetric flow rate
+4777,Alternative project delivery methods
+4778,Body of knowledge
+4779,Least significant differences
+4780,Schedule performance
+4781,Cost benefit analysis
+4782,Excitation pattern
+4783,Multi-mode waveguides
+4784,Optical throughput
+4785,Optofluidic biosensor
+4786,Rib waveguides
+4787,Simultaneous identification
+4788,Bricard linkages
+4789,Lamina emergent mechanisms
+4790,Mechanical device
+4791,Multi degrees of freedom
+4792,Planar fabrication
+4793,Planar material
+4794,Axial compression
+4795,Retaining walls
+4796,Walls (structural partitions)
+4797,Axial compressive load
+4798,Compression strength
+4799,Deformation properties
+4800,Eccentric loading
+4801,Flexural compression
+4802,Out of plane loads
+4803,Out-of-plane bending
+4804,Gravitation
+4805,Physiological models
+4806,Strain gages
+4807,BP neural networks
+4808,Identification accuracy
+4809,Nanocomposite sensors
+4810,Physiological parameters
+4811,Simple structures
+4812,Sitting posture
+4813,Three layer BP neural network
+4814,nanocomposite
+4815,artificial neural network
+4816,physiologic monitoring
+4817,"Monitoring, Physiologic"
+4818,Neural Networks (Computer)
+4819,Posture
+4820,Blasting
+4821,Diffusion
+4822,Neuroimaging
+4823,Diffusion magnetic resonance imaging
+4824,Diffusion mris
+4825,ENIGMA
+4826,Individual Differences
+4827,Military
+4828,Neuroimaging genetics
+4829,Posttraumatic stress disorder
+4830,Traumatic Brain Injuries
+4831,Windlasses
+4832,Forefoot strike
+4833,Metatarsophalangeal joints
+4834,Mid-foot
+4835,Multi-segment foot
+4836,Rearfoot
+4837,forefoot strike
+4838,human experiment
+4839,kinetics
+4840,metatarsophalangeal joint
+4841,midtarsal locking
+4842,normal human
+4843,rearfoot strike
+4844,running strike pattern
+4845,windlass mechanism
+4846,foot joint
+4847,running
+4848,Foot Joints
+4849,Running
+4850,Electric field measurement
+4851,Electric fields
+4852,Fiber amplifiers
+4853,Fiber optics
+4854,Optical signal processing
+4855,Phase modulation
+4856,Rail guns
+4857,Sensor networks
+4858,Differential sensors
+4859,Electromagnetic rail guns
+4860,High-pressure and temperatures
+4861,Interference noise
+4862,Multiple noise sources
+4863,Noise reduction technique
+4864,Optical phase modulation
+4865,Test and evaluation
+4866,Cyclic voltammetry
+4867,Electric conductivity
+4868,Microanalysis
+4869,Microelectrodes
+4870,Electrochemical measurements
+4871,Electrochemical response
+4872,Mechanical robustness
+4873,Microelectrode array
+4874,Neural probes
+4875,Phosphate buffered saline solutions
+4876,dopamine
+4877,paraquat
+4878,phosphate buffered saline
+4879,cyclic potentiometry
+4880,electric conductance
+4881,electric conductivity
+4882,microtechnology
+4883,Computer aided engineering
+4884,Computer aided language translation
+4885,Engine cylinders
+4886,Data translations
+4887,Design understanding
+4888,Engineering data
+4889,Four cylinder engine
+4890,Model interaction
+4891,User experiments
+4892,Welding
+4893,Dimensional analysis
+4894,Pi theorem
+4895,Rosenthal equation
+4896,Thermal model
+4897,Weld parameters
+4898,Bench-mark problems
+4899,Convergence rates
+4900,Mortar methods
+4901,Patch models
+4902,Solution strategy
+4903,Spline space
+4904,Weak continuity
+4905,Interpolation
+4906,Correction algorithms
+4907,Humidity and temperatures
+4908,impact
+4909,Multi-functional materials
+4910,multifunctional
+4911,Self-sensing
+4912,Signal drift
+4913,Foams
+4914,Cerium
+4915,Cerium oxide
+4916,Active site
+4917,Deep oxidation
+4918,Ethylene production
+4919,Nickel catalyst
+4920,Oxidative dehydrogenation catalysts
+4921,Temperature range
+4922,Low temperature production
+4923,Convergence of numerical methods
+4924,Eigenvalues and eigenfunctions
+4925,Spectrum analysis
+4926,Wave transmission
+4927,Bifurcation points
+4928,Computational aspects
+4929,Eigenvalue equations
+4930,Evans function
+4931,Linearized operators
+4932,Loss of stability
+4933,Spectral stability
+4934,Travelling waves
+4935,Crosstalk
+4936,Construction design
+4937,Flexible tactile sensors
+4938,Manufacturability
+4939,Rigid substrates
+4940,scalable
+4941,Soft-bodies
+4942,Tactile sensor array
+4943,Video conferencing
+4944,Collaboration Tool
+4945,Computer-aided design software
+4946,Expensive hardware
+4947,Remote collaboration
+4948,Three-dimensional (3D) information
+4949,Computer hardware
+4950,Anti-reflective
+4951,Blocking layers
+4952,Light couplings
+4953,Thin film layers
+4954,Electric impedance
+4955,Electric impedance measurement
+4956,Chloride concentrations
+4957,Cover depth
+4958,Electrical impedance
+4959,Half-cell potential
+4960,Impedance measurement
+4961,Electric variables measurement
+4962,Architectural facades
+4963,Design technique
+4964,Direction angle
+4965,Furniture design
+4966,Linear programming problem
+4967,Quadrilateral meshes
+4968,Vertex coordinates
+4969,Rigidity
+4970,Field measurement
+4971,Financial success
+4972,Impact metric
+4973,Quality of life
+4974,Social impact
+4975,Standard of living
+4976,United nations development programme
+4977,Infrared devices
+4978,Lasers
+4979,atrium
+4980,cavoatrial junction
+4981,PICC
+4982,stylet
+4983,Superior vena cava
+4984,Catheters
+4985,central venous catheter
+4986,heart atrium
+4987,pig
+4988,spectroscopy
+4989,superior cava vein
+4990,Central Venous Catheters
+4991,Heart Atria
+4992,Spectrum Analysis
+4993,Swine
+4994,"Vena Cava, Superior"
+4995,Land use
+4996,Motor transportation
+4997,Roads and streets
+4998,Traffic control
+4999,Conditional autoregressive
+5000,Road network
+5001,Safety modeling
+5002,Signal density
+5003,Suburban arterials
+5004,Bayes theorem
+5005,China
+5006,city
+5007,environmental planning
+5008,prevention and control
+5009,safety
+5010,statistical model
+5011,suburban population
+5012,traffic accident
+5013,"Accidents, Traffic"
+5014,Bayes Theorem
+5015,Cities
+5016,Environment Design
+5017,"Models, Statistical"
+5018,Safety
+5019,Suburban Population
+5020,Machine components
+5021,Differential geometry
+5022,Doubly Fed Induction generators (DFIG)
+5023,High-quality measurements
+5024,Model identification
+5025,Proportional integral controllers
+5026,Renewable energies
+5027,System identification procedure
+5028,Health
+5029,Radial basis function networks
+5030,10-fold cross-validation
+5031,Endurance time
+5032,Generalized Regression Neural Network(GRNN)
+5033,Machine learning methods
+5034,Multi-layer feed forward
+5035,Questionnaire data
+5036,Radial basis function neural networks
+5037,College students
+5038,Hybrid techniques
+5039,Learning Style
+5040,Personalized course
+5041,Potential course
+5042,Topic analysis
+5043,Markov processes
+5044,Bipartite graphs
+5045,Long tail
+5046,Nearest neighbors
+5047,Niche products
+5048,Random walkers
+5049,Tripartite graphs
+5050,Crystallographic textures
+5051,Grain boundary engineering
+5052,Grain boundary network
+5053,Microstructure design
+5054,Triple junction
+5055,Materials properties
+5056,Fire extinguishers
+5057,Fire fighting equipment
+5058,Fire protection
+5059,Fires
+5060,Heptane
+5061,Ambient fluids
+5062,Coanda effects
+5063,Flame attachment on slopes
+5064,Quiescent fluid
+5065,Rugged terrain
+5066,Separation distances
+5067,Small-scale experiment
+5068,Key elements
+5069,Robotic swarms
+5070,swarms
+5071,Embankments
+5072,Levees
+5073,Liquefaction
+5074,Rivers
+5075,Cultural heritages
+5076,Japan earthquakes
+5077,Liquefaction-induced damage
+5078,National Science Foundations
+5079,River embankments
+5080,Roads and highways
+5081,earthquake magnitude
+5082,earthquake rupture
+5083,extreme event
+5084,lidar
+5085,Japan
+5086,Kumamoto
+5087,Kyushu
+5088,density
+5089,microfluidics
+5090,miniaturization
+5091,pressure
+5092,three dimensional printing
+5093,microfluidic analysis
+5094,Microfluidic Analytical Techniques
+5095,"Printing, Three-Dimensional"
+5096,enzyme variant
+5097,lysozyme
+5098,macrogol
+5099,protein
+5100,solvent
+5101,recombinant protein
+5102,viral protein
+5103,chemical modification
+5104,coarse grain simulation
+5105,conjugation
+5106,PEGylation
+5107,protein stability
+5108,screening
+5109,thermostability
+5110,biological model
+5111,biosynthesis
+5112,Enterobacteria phage T4
+5113,enzymology
+5114,gene expression
+5115,Bacteriophage T4
+5116,Gene Expression
+5117,"Models, Biological"
+5118,Muramidase
+5119,Polyethylene Glycols
+5120,Recombinant Proteins
+5121,Viral Proteins
+5122,Computer debugging
+5123,High level synthesis
+5124,Memory architecture
+5125,Architectural support
+5126,Architecture exploration
+5127,Area overhead
+5128,Buffer memory
+5129,In-system debug
+5130,Recompilation
+5131,Source codes
+5132,Turn-arounds
+5133,Skin
+5134,Computational model
+5135,Solid model
+5136,Suture
+5137,Two-dimensional displays
+5138,Wound closure
+5139,Wounds
+5140,computer simulation
+5141,practice guideline
+5142,robot assisted surgery
+5143,stress strain relationship
+5144,suture technique
+5145,wound
+5146,education
+5147,robotic surgical procedure
+5148,Computer Simulation
+5149,Robotic Surgical Procedures
+5150,Suture Techniques
+5151,Amino acids
+5152,Aromatic compounds
+5153,Color
+5154,Colorimetry
+5155,Metal ions
+5156,Color changes
+5157,Colorimetric sensors
+5158,Dual sensor
+5159,HOMO-LUMO transitions
+5160,Limit of detection
+5161,Pyrimidine
+5162,Sensor molecules
+5163,Visible light
+5164,Mercury (metal)
+5165,Phase measurement
+5166,Delay
+5167,Irregular sampling
+5168,Random communication delay
+5169,State Estimators
+5170,Complex variable
+5171,Ill posed
+5172,Network configuration
+5173,Time invariant systems
+5174,Rational functions
+5175,Control system analysis
+5176,Identifiability
+5177,Identifiability conditions
+5178,Input-output data
+5179,Interconnected subsystems
+5180,Linear Fractional Transformations
+5181,Partial systems
+5182,Estimation performance
+5183,Local control
+5184,Structural insights
+5185,Target reachability
+5186,Computer aided analysis
+5187,Computer supported cooperative work
+5188,Collaboration software
+5189,Collaborative design
+5190,Comparative analysis
+5191,Computer aided designs (CAD)
+5192,Engineering process
+5193,Future research directions
+5194,Group dynamics
+5195,Materials testing
+5196,Sports
+5197,Ashby methods
+5198,Energy absorption materials
+5199,Experimental approaches
+5200,Football helmet
+5201,Impact scenarios
+5202,Materials selection
+5203,Specific energy absorption
+5204,Energy absorption
+5205,Axial flow
+5206,Crystal microstructure
+5207,Axial forces
+5208,Distribution of grains
+5209,Low angle grain boundaries
+5210,Power
+5211,Process fundamentals
+5212,Recrystallization and grain boundaries
+5213,Grain boundary sliding
+5214,Interoperability
+5215,Canonical form
+5216,Computer aided design systems
+5217,Configuration management
+5218,Heterogeneous CAD
+5219,Product life cycle management
+5220,Referential integrity
+5221,Transactional database
+5222,Monopole antennas
+5223,Reverberation
+5224,Determining modes
+5225,Ewald's method
+5226,Method analysis
+5227,Numerical computations
+5228,Reconfigurable
+5229,Rectangular cavity
+5230,Reverberation chambers
+5231,Method of moments
+5232,Fuel additives
+5233,Distinct points
+5234,Mesh morphing
+5235,Relative location
+5236,Surrogate model
+5237,Training sample
+5238,Electric vehicles
+5239,Propellers
+5240,Distributed propulsions
+5241,Early design stages
+5242,Electric aircrafts
+5243,Fidelity modeling
+5244,Theoretical values
+5245,Viscous vortex particles
+5246,Vortex particle method
+5247,Wake interactions
+5248,Office buildings
+5249,Curve fitting technique
+5250,Different stages
+5251,Embankment construction
+5252,Instrumentation installation
+5253,Primary consolidation
+5254,Project communications
+5255,Project schedules
+5256,Subsurface layer
+5257,Curve fitting
+5258,Aerodynamic stability
+5259,Aerodynamic stalling
+5260,Buckling
+5261,Control nonlinearities
+5262,Design aids
+5263,Fiber reinforced plastics
+5264,General stabilities
+5265,High modulus carbon fiber
+5266,Longitudinal stability
+5267,Material failures
+5268,Mission requirements
+5269,Multidisciplinary design optimization
+5270,Nonlinear aeroelasticity
+5271,Conceptual design
+5272,Lift
+5273,Alternative designs
+5274,Multi-disciplinary optimizations
+5275,Propulsion technology
+5276,Gas turbines
+5277,Acquisition process
+5278,Air Force Research lab
+5279,Aircraft acquisitions
+5280,Department of Defense
+5281,Mixing-plane method
+5282,Aperture antennas
+5283,Horn antennas
+5284,Seebeck effect
+5285,Control applications
+5286,Line of codes
+5287,Network applications
+5288,Network functions
+5289,Network systems
+5290,Secure sockets
+5291,System administrators
+5292,System services
+5293,Actuators
+5294,Microsystems
+5295,Solid-state sensors
+5296,Fluid channels
+5297,Fluid sources
+5298,Mixed fluids
+5299,Mixing units
+5300,Two-pump
+5301,Environmental regulations
+5302,Personnel training
+5303,Reservoirs (water)
+5304,Advisory committee
+5305,Deposited sediments
+5306,Reservoir capacity
+5307,Reservoir sediments
+5308,Sediment management plans
+5309,U.s. bureau of reclamations
+5310,Water informations
+5311,Sediments
+5312,Integrated photonics
+5313,Large circuits
+5314,Simulation environment
+5315,Anisotropic scattering
+5316,Image points
+5317,Depth of field
+5318,Imaging lens
+5319,Imaging method
+5320,Interference fringe
+5321,Interference patterns
+5322,Single pixel
+5323,Structured illumination
+5324,History
+5325,Course structure
+5326,Cultural awareness
+5327,Cultural impacts
+5328,Higher order thinking skills
+5329,Participatory learning
+5330,Student assignments
+5331,Student engagement
+5332,Applied learning
+5333,Experiential learning
+5334,Field trips
+5335,Pedagogy
+5336,Education computing
+5337,Problem solving
+5338,Chunking
+5339,Complex problem solving
+5340,Conceptual understanding
+5341,Frameworks
+5342,Information overloads
+5343,Information reduction
+5344,Insight
+5345,Control towers
+5346,Flight control systems
+5347,Free flight
+5348,Commercial users
+5349,Conflict avoidance
+5350,Course deviations
+5351,Different layers
+5352,Stratified systems
+5353,Vertical distributions
+5354,Air traffic control
+5355,Curves (road)
+5356,Freight transportation
+5357,Crash prediction
+5358,Horizontal alignment
+5359,Horizontal curves
+5360,Light detection and ranging
+5361,Point cloud data
+5362,Two lane two ways
+5363,Current levels
+5364,Hardware and software
+5365,Hardware components
+5366,Holographic videos
+5367,Low costs
+5368,Materials costs
+5369,Modularized
+5370,documentation
+5371,software
+5372,videorecording
+5373,Carbon steel
+5374,High strength alloys
+5375,Joining
+5376,High strength low alloy steels
+5377,Microstructure and properties
+5378,Oxide dispersion strengthened steel
+5379,Typical properties
+5380,Welding temperatures
+5381,Corrosion resistance
+5382,Plate metal
+5383,Corrosion products
+5384,Corrosion testing
+5385,Crack-healing
+5386,Hall Petch relationship
+5387,Intermittent immersions
+5388,Inverse correlation
+5389,Power amplifiers
+5390,Filter-based
+5391,Multi-path mitigation
+5392,RF power amplifiers
+5393,Spectral efficiencies
+5394,Decision feedback equalizers
+5395,Channel error
+5396,Error control coding
+5397,Gaussian channels
+5398,Noisy channel
+5399,Security constraint
+5400,Peer-mentoring
+5401,Mars Rovers
+5402,Wireless communications system
+5403,Aerodynamic vibrations
+5404,Design improvements
+5405,Energy Harvester
+5406,Energy harvesting device
+5407,Power sources
+5408,Sensor installation
+5409,Test scenario
+5410,Deployable mechanisms
+5411,Continuous motions
+5412,3-d cads
+5413,3D models
+5414,Assembly model
+5415,Mechanism design
+5416,Paper-like materials
+5417,Robust designs
+5418,Flexible device
+5419,Lateral stiffness
+5420,Medical Devices
+5421,Capabilities
+5422,Excess
+5423,Redesign
+5424,Requirements
+5425,Research and development
+5426,Hydrostatic pressure
+5427,Shear deformation
+5428,Chronic venous insufficiencies
+5429,Computational fluid dynamics analysis
+5430,Design and modeling
+5431,High shear rate
+5432,Maximum shears
+5433,Reactive property
+5434,Thrombogenicity
+5435,Ultimate strength
+5436,Artificial limbs
+5437,Silicon wafers
+5438,316 L stainless steel
+5439,Carbon nanotube growth
+5440,Electronic application
+5441,Growth behavior
+5442,Stainless steel surface
+5443,Integrated circuit testing
+5444,Benchmark testing
+5445,Design sensitivity
+5446,Device architectures
+5447,Device sensitivity
+5448,Integrated circuit reliability
+5449,Sensitivity
+5450,Architecture
+5451,Nanosatellites
+5452,Space optics
+5453,Systems engineering
+5454,Cubesat
+5455,Earth observations
+5456,Microwave remote sensing
+5457,Ocean winds
+5458,Micromanipulators
+5459,Asymmetric heating
+5460,Centimeter-scale
+5461,Laser particles
+5462,Microscopic particle
+5463,Opticaltrapping
+5464,Photophoresis
+5465,Thermal accommodation
+5466,Trapped particle
+5467,C (programming language)
+5468,Commitment
+5469,Human-robot-team
+5470,Intent
+5471,Intention
+5472,Path planing
+5473,Plans
+5474,Re-planning
+5475,Reasoning
+5476,Tradeoffs
+5477,Azimuth and elevation angles
+5478,Circular arrays
+5479,Low-power circuit
+5480,Onboard processors
+5481,Phase difference
+5482,Hammers
+5483,Titration
+5484,Assessment of liquefactions
+5485,Chinese Standard
+5486,Dynamic cone penetration test
+5487,Energy correction
+5488,Field performance
+5489,Gravelly soils
+5490,Liquefaction resistance
+5491,Penetration testing
+5492,Stators
+5493,Aero-dynamic performance
+5494,Calculated phase shifts
+5495,Compressor designs
+5496,Radial migration
+5497,Rotor and stators
+5498,URANS simulation
+5499,Turbomachine blades
+5500,Ship propellers
+5501,Airfoil design
+5502,Airfoil section
+5503,Airfoil surfaces
+5504,Direct control
+5505,Parametrizations
+5506,Shape transformation
+5507,Thickness distributions
+5508,Airfoils
+5509,Axial compressors
+5510,Fourier techniques
+5511,Harmonic balance approach
+5512,Harmonic balance simulations
+5513,Inlet flow distortions
+5514,Inlet guide vane
+5515,Harmonic analysis
+5516,Engineered systems
+5517,Hybrid approach
+5518,Material thickness
+5519,Self-intersections
+5520,Deflection (structures)
+5521,Nickel alloys
+5522,Complaint mechanisms
+5523,Cross-axis flexural pivot
+5524,Cylindrical cross-axis flexural pivot
+5525,Minimally invasive surgery
+5526,Nitinol
+5527,Pseudoelastic
+5528,Superelastic
+5529,Reinforced concrete
+5530,Shear walls
+5531,Limit analysis
+5532,Lower bound theorem
+5533,Masonry shear walls
+5534,Masonry structures
+5535,Modelling methodology
+5536,Shear strength predictions
+5537,Strut-and-tie model
+5538,Theory of plasticity
+5539,Stresses
+5540,Safety devices
+5541,Bonded systems
+5542,In-plane shear
+5543,Interlocking systems
+5544,Masonry
+5545,Numerical response
+5546,Stack systems
+5547,Surface coatings
+5548,Engineering Design Activities
+5549,Engineering design course
+5550,Freshman engineering design
+5551,Freshmen engineering
+5552,Learning outcome
+5553,Self efficacy
+5554,Topic emotions
+5555,Bond strength (materials)
+5556,Glass fibers
+5557,Baseline values
+5558,Cylindrical rod
+5559,Fiberglass composites
+5560,Infrastructure applications
+5561,Pull-out strength
+5562,Sustainable concretes
+5563,Three dimensional braiding
+5564,Tensile strength
+5565,Distributed computer systems
+5566,Collaborative learning
+5567,Communication medium
+5568,Computer mediated communication
+5569,Distributed engineering
+5570,Engineering design teams
+5571,Multi disciplinary engineerings
+5572,Virtual team
+5573,Knowledge based systems
+5574,In-situ sensors
+5575,Knowledge base
+5576,Laboratory datum
+5577,Matric suctions
+5578,Soil suction
+5579,Soil-water characteristic curve
+5580,The soil-water characteristic curves (SWCC)
+5581,Unsaturated soil
+5582,Single mode waveguides
+5583,Building blockes
+5584,Channel design
+5585,Particle focusing
+5586,Corrugated metal
+5587,Gravel
+5588,Pile driving
+5589,Pile foundations
+5590,Annular space
+5591,Back analysis
+5592,Compacted fill
+5593,Composite piles
+5594,Lateral load tests
+5595,Lateral resistance
+5596,Pile displacement
+5597,Pipe piles
+5598,Load testing
+5599,Shaft sinking
+5600,Axial load capacity
+5601,Distribution curves
+5602,Effective stress
+5603,New madrid seismic zones
+5604,Pore-water pressures
+5605,Post-liquefaction
+5606,Testing programs
+5607,Total resistance
+5608,Ports and harbors
+5609,Dynamic penetration test
+5610,Exploration techniques
+5611,Field observations
+5612,Geotechnical exploration
+5613,Gravel content
+5614,Gravelly sand
+5615,Sandy gravel
+5616,Site characterization
+5617,Wenchuan Earthquake
+5618,Engineering geology
+5619,Geophysics
+5620,Correction equation
+5621,Performance-based analysis
+5622,Performance-based earthquake engineering
+5623,Reference parameters
+5624,Seismic hazard maps
+5625,Specialized software
+5626,Clinical practices
+5627,Economic factors
+5628,Electronic health
+5629,Electronic health record
+5630,Environmental exposure
+5631,Health outcomes
+5632,Individual levels
+5633,Research efforts
+5634,biology
+5635,electronic health record
+5636,geographic information system
+5637,information processing
+5638,personalized medicine
+5639,public health
+5640,statistics and numerical data
+5641,Computational Biology
+5642,Data Collection
+5643,Electronic Health Records
+5644,Geographic Information Systems
+5645,Precision Medicine
+5646,Public Health
+5647,Fracture
+5648,Riveting
+5649,Steel sheet
+5650,Automotive manufacturing
+5651,Fracture mechanisms
+5652,On-resistance
+5653,Self-piercing riveting
+5654,Sheet thickness
+5655,Statistical comparisons
+5656,Wind turbines
+5657,Cost of energies
+5658,Dominant probability
+5659,Non-homogeneous
+5660,Rotor diameter
+5661,Turbine designs
+5662,Wake interferences
+5663,Wind directions
+5664,Turbine components
+5665,Bit sequences
+5666,Mix and match
+5667,Signal models
+5668,Transmitter and receiver
+5669,Wave forms
+5670,Carrier frequency offset estimation
+5671,CFO estimation
+5672,Cfo estimators
+5673,Estimated channels
+5674,Sparsity constraints
+5675,Test channel
+5676,Particle size analysis
+5677,Particulate emissions
+5678,Comparative simulation
+5679,Computational domains
+5680,Computational expense
+5681,Detailed modeling
+5682,Large scale simulations
+5683,Soot formations
+5684,Soot particle size distributions
+5685,Soot precursors
+5686,Geolocations
+5687,Optimal images
+5688,Processing time
+5689,Specific vehicles
+5690,Target classification algorithms
+5691,Target model
+5692,Engines
+5693,Nozzles
+5694,High performance aircrafts
+5695,Spatiotemporal analysis
+5696,Spatiotemporal correlation
+5697,Temporal relationships
+5698,Contributing factor
+5699,Field reconstruction
+5700,Radiation direction
+5701,Relative contribution
+5702,Synchronous measurements
+5703,Air
+5704,Spectral density
+5705,Jet noise generation
+5706,Three-way decomposition
+5707,Turbulent structures
+5708,Acoustic wave transmission
+5709,Fire alarm systems
+5710,Engine thrust
+5711,Jet noise
+5712,Run-up measurements
+5713,Shock formation
+5714,Angle of attack
+5715,Angle of attack indicators
+5716,Aerodynamic efficiency
+5717,Enabling technologies
+5718,Optimization problems
+5719,Shape optimization
+5720,Arctic engineering
+5721,Flowlines
+5722,Fracture mechanics
+5723,Hydrates
+5724,Hydration
+5725,Marine risers
+5726,Offshore oil well production
+5727,Production control
+5728,Accelerated aging test
+5729,Electrical components
+5730,Fiber-optic technology
+5731,Hydrate forming conditions
+5732,Pressure and temperature
+5733,Review of advancements
+5734,Subsea production control systems
+5735,Disclosure policies
+5736,Dynamic information
+5737,Dynamic settings
+5738,Information design
+5739,Information disclosure
+5740,Thresholding
+5741,Abrasion damages
+5742,Ballast fouling
+5743,Field investigation
+5744,Geographic location
+5745,Mud-pumping
+5746,Rail surfaces
+5747,Track stiffness
+5748,Abrasion
+5749,Pore pressure
+5750,Sand
+5751,Shear waves
+5752,Soil testing
+5753,Wave propagation
+5754,Excess pore pressure
+5755,Excess pore water pressure
+5756,In-situ test
+5757,Liquefiable soil
+5758,New zealand
+5759,Profilometers
+5760,Shear wave velocity
+5761,Soil property
+5762,Hydraulic structures
+5763,Quay walls
+5764,Failure mechanism
+5765,Geophysical techniques
+5766,Geotechnical modeling
+5767,Lateral earth pressure
+5768,Simplified evaluations
+5769,wharf
+5770,Conceptual blocks
+5771,Design heuristics
+5772,First-year curriculum
+5773,Butt welding
+5774,Characterization
+5775,Materials handling
+5776,AA6111
+5777,Butt joints
+5778,High Speed
+5779,Mechanical
+5780,Tensile
+5781,Vickers hardness
+5782,Complex materials
+5783,Heat-treatable alloys
+5784,High speed friction stir welding
+5785,High-speed processing
+5786,Microstructural analysis
+5787,Welding directions
+5788,Welding parameters
+5789,Antenna phased arrays
+5790,Digital signal processing
+5791,Measurement
+5792,Optical telescopes
+5793,Commissioning test
+5794,Figures of merits
+5795,Green Bank Telescope
+5796,Measured results
+5797,Real-time digital signal processing
+5798,Simulated performance
+5799,Radio telescopes
+5800,Acoustic variables measurement
+5801,Rocket nozzles
+5802,Acoustic intensity vectors
+5803,Conditional sampling
+5804,Impingement regions
+5805,Inclined flat plates
+5806,Schlieren visualization
+5807,Supersonic impinging jets
+5808,Upstream direction
+5809,Augmented reality systems
+5810,Display system
+5811,Near-to-Eye display
+5812,Optical platforms
+5813,Volume holograms
+5814,Waveguide optics
+5815,Cyber security
+5816,Insider Threat
+5817,Multiparty computation
+5818,state inference
+5819,Object detection
+5820,Cascade algorithm
+5821,Detection rates
+5822,Facial recognition
+5823,Image brightness
+5824,Image contrasts
+5825,Manual labeling
+5826,Non cooperative situations
+5827,Roadside cameras
+5828,Face recognition
+5829,Lime
+5830,Numerical analysis
+5831,Plasma confinement
+5832,Poisson ratio
+5833,Applied loads
+5834,Experimental and numerical analysis
+5835,Mortar specimens
+5836,Nonlinear behavior
+5837,Nonlinear elastics
+5838,Stress-strain behaviors
+5839,Dynamic analysis
+5840,Electric sensing devices
+5841,Ballistic armors
+5842,Dynamic testing
+5843,Energy dissipation mechanism
+5844,High-speed camera image
+5845,In-situ measurement
+5846,Spectral distortions
+5847,Wavelength shift
+5848,Electrical engineering students
+5849,Inter-disciplinary designs
+5850,Multi-disciplinary designs
+5851,Project based learning
+5852,Student design projects
+5853,Teaching methodologies
+5854,University of technologies
+5855,Arctic vehicles
+5856,Commercial vehicles
+5857,Marine pollution
+5858,Offshore oil wells
+5859,Remotely operated vehicles
+5860,Space platforms
+5861,Strain measurement
+5862,Fiber optic monitoring systems
+5863,Instrumentation technologies
+5864,Johnson Space Center
+5865,Measurement correlations
+5866,Operational platforms
+5867,Strain sensing systems
+5868,Tension and compression
+5869,Monitoring
+5870,Asset management
+5871,Budget control
+5872,Water pipelines
+5873,Capital budgets
+5874,Condition assessments
+5875,Infrastructure asset management
+5876,Likelihood of failures
+5877,Overall costs
+5878,Reducing costs
+5879,Replacement projects
+5880,Water infrastructure
+5881,Cellulose
+5882,Dispensers
+5883,Fiber reinforced materials
+5884,Hemp
+5885,Hybrid materials
+5886,Kenaf fibers
+5887,Lignin
+5888,Natural fibers
+5889,Composite thermal properties
+5890,Constituent materials
+5891,Eco-composites
+5892,Effective thermal conductivity
+5893,Experimental investigations
+5894,Fiber reinforced composites
+5895,Kenaf
+5896,Multilevels
+5897,Composites
+5898,Lignins
+5899,Thermal Conductivity
+5900,Design of experiments
+5901,Gas plants
+5902,Combustion power
+5903,Constraining models
+5904,Full scale simulation
+5905,Full-scale modeling
+5906,Full-scale models
+5907,Pacific northwest national laboratories
+5908,Statistical framework
+5909,Collision detection algorithm
+5910,Frequency-modulated continuous waves
+5911,Geometric relationships
+5912,Path-planning algorithm
+5913,Phased array radar systems
+5914,Random sample consensus
+5915,Sense and avoid systems
+5916,International trade
+5917,International Standards Organization
+5918,Life Cycle Assessment (LCA)
+5919,Nongovernmental organizations
+5920,Sustainability practices
+5921,Sustainable infrastructure
+5922,Sustainable outcomes
+5923,Underground infrastructure
+5924,ISO Standards
+5925,Wastewater treatment
+5926,Water conservation
+5927,Water treatment
+5928,Department of interiors
+5929,Global warming potential
+5930,Hydrologic conditions
+5931,Infrastructure systems
+5932,Sustainability assessment
+5933,Linear regression
+5934,Loads (forces)
+5935,Maximum tensile force
+5936,Mechanically stabilized earth wall
+5937,Multiple linear regression equations
+5938,Reinforcing elements
+5939,Thermal variation
+5940,Aggregates
+5941,Pipeline corrosion
+5942,Slip forming
+5943,Underground corrosion
+5944,Water supply
+5945,Asset management plan
+5946,Operating characteristics
+5947,Soil corrosivity
+5948,Trenchless technologies
+5949,Underground pipes
+5950,Utah state universities
+5951,Water industries
+5952,Trenching
+5953,Bone
+5954,Drug products
+5955,Intelligent control
+5956,Patient monitoring
+5957,Patient treatment
+5958,Pulmonary diseases
+5959,Statistical tests
+5960,Bone mineral density
+5961,Clinical support systems
+5962,Demographic information
+5963,Fracture prediction
+5964,Imbalanced dataset
+5965,Objective functions
+5966,Predictive performance
+5967,corticosteroid
+5968,chronic respiratory tract disease
+5969,comorbidity
+5970,data base
+5971,demography
+5972,fracture
+5973,sensitivity analysis
+5974,statistical analysis
+5975,area under the curve
+5976,bone density
+5977,breathing disorder
+5978,complication
+5979,epidemiology
+5980,health insurance
+5981,hip fracture
+5982,inhalational drug administration
+5983,osteoporosis
+5984,prospective study
+5985,spine fracture
+5986,Taiwan
+5987,"Administration, Inhalation"
+5988,Adrenal Cortex Hormones
+5989,Area Under Curve
+5990,Bone Density
+5991,Comorbidity
+5992,Hip Fractures
+5993,"Insurance, Health"
+5994,Osteoporosis
+5995,Prevalence
+5996,Prospective Studies
+5997,Respiration Disorders
+5998,Software
+5999,Spinal Fractures
+6000,Geographic information systems
+6001,Risk analysis
+6002,Spatial variables measurement
+6003,Computerized maintenance management system
+6004,Consequence of failures (CoF)
+6005,GIS (geographic information system)
+6006,Management decision-making
+6007,Management functionality
+6008,Maps
+6009,Tensors
+6010,22q11.2 deletion syndrome
+6011,Diffusion anisotropy
+6012,dMRI
+6013,White matter
+6014,Anisotropy
+6015,Best model
+6016,Default values
+6017,Hyper-parameter optimizations
+6018,Hyperparameters
+6019,Metalearning
+6020,Performance improvements
+6021,Systematic analysis
+6022,Intelligent robots
+6023,Vision
+6024,Attitude error
+6025,Flying vehicles
+6026,Gravity vectors
+6027,Standard deviation
+6028,Unmanned aircrafts
+6029,Visual odometry
+6030,Binary mixtures
+6031,Vapor pressure
+6032,Average absolute deviation
+6033,Correlating equations
+6034,Predictive correlation
+6035,Temperature dependent
+6036,Thermodynamic consistency
+6037,Thermodynamic relationships
+6038,Bias estimation
+6039,Constant bias
+6040,Covariance intersection
+6041,Multi target tracking system
+6042,Pseudo measurements
+6043,Sensor model
+6044,Tracking performance
+6045,Aperiodic arrays
+6046,Electrically large
+6047,Frequency sensitivity
+6048,Numerical optimizations
+6049,Peak sidelobe level
+6050,Acceleration
+6051,Accelerometers
+6052,Fatigue crack propagation
+6053,Nanosensors
+6054,Sporting goods
+6055,Impact detection
+6056,Impact energy
+6057,Impact velocities
+6058,Severity index
+6059,polyurethan
+6060,polyurethan foam
+6061,acceleration
+6062,foam
+6063,football
+6064,football player
+6065,Gadd severity index
+6066,injury scale
+6067,injury severity
+6068,piezoelectricity
+6069,accelerometry
+6070,conductometry
+6071,device failure analysis
+6072,evaluation study
+6073,helmet
+6074,nanotechnology
+6075,pressure transducer
+6076,reproducibility
+6077,sports equipment
+6078,Accelerometry
+6079,Conductometry
+6080,Equipment Failure Analysis
+6081,Football
+6082,Head Protective Devices
+6083,Polyurethanes
+6084,Reproducibility of Results
+6085,Sensitivity and Specificity
+6086,Sports Equipment
+6087,"Transducers, Pressure"
+6088,Audition
+6089,Speech recognition
+6090,Auditory feedback
+6091,Hearing disorders
+6092,Stroke counts
+6093,Vocal tract movements
+6094,voicing
+6095,whisper
+6096,Whispered speech
+6097,Approximate function
+6098,Boundary systems
+6099,Crack resistance
+6100,High dimensional spaces
+6101,High-dimensional systems
+6102,College buildings
+6103,Multipath propagation
+6104,Radio waves
+6105,Directional Antenna
+6106,Wireless communications
+6107,Cast iron
+6108,Electric power supply
+6109,Lateral spreading
+6110,Lifeline damage
+6111,Pipeline failures
+6112,Roads and bridges
+6113,Transportation system
+6114,Water distribution networks
+6115,Water distribution systems
+6116,distribution system
+6117,landslide
+6118,pipeline
+6119,water supply
+6120,Bibliographies
+6121,Industrial relations
+6122,Instruments
+6123,Conciseness
+6124,language use
+6125,Pragmatics
+6126,Word choices
+6127,Writing style
+6128,Acoustic radiators
+6129,Shells (structures)
+6130,Acoustic radiation modes
+6131,Basis functions
+6132,Circular cylindrical shells
+6133,Critical design parameters
+6134,Cut-on phenomena
+6135,Cylindrical shell
+6136,Radiation efficiency
+6137,Radiation mode
+6138,Antenna feeders
+6139,Antenna radiation
+6140,Electric resistance
+6141,Radio astronomy
+6142,Radio communication
+6143,Satellite communication systems
+6144,Effective resistances
+6145,Phased array antennas
+6146,scanned beams
+6147,Carbon
+6148,Compressibility
+6149,Molding
+6150,Empirical measurement
+6151,Non-uniform thickness
+6152,Permeability measurements
+6153,Reinforcement materials
+6154,Thickness gradients
+6155,Vacuum infusion
+6156,Capacitance measurement
+6157,Frequency converters
+6158,Capacitor mismatch
+6159,Measurement precision
+6160,Metal oxides
+6161,Mismatch characterization
+6162,Multiplexing techniques
+6163,Resolution requirements
+6164,Sensitivity improvements
+6165,Boundary element analysis
+6166,Deformable particles
+6167,Dynamic refinement
+6168,Smoothing techniques
+6169,Bragg gratings
+6170,High-speed interrogation
+6171,Sensor systems
+6172,Stiffened composite
+6173,Temporal resolution
+6174,Tunable filters
+6175,Wavelength division multiplexed
+6176,Security systems
+6177,Software design
+6178,Application security
+6179,End-to-end encryption
+6180,Layered security
+6181,Legacy software
+6182,Secure software development
+6183,Security features
+6184,Threat mitigation
+6185,macrogol derivative
+6186,amino acid sequence
+6187,beta sheet
+6188,circular dichroism
+6189,enzyme active site
+6190,protein binding
+6191,protein conformation
+6192,protein degradation
+6193,reduction (chemistry)
+6194,molecular model
+6195,Amino Acid Sequence
+6196,"Models, Molecular"
+6197,"Protein Conformation, beta-Strand"
+6198,Protein Stability
+6199,Proteolysis
+6200,Cost reduction
+6201,Dynamic grouping
+6202,Operational environments
+6203,Receding horizon control
+6204,Receding horizon controllers
+6205,Unmanned vehicles
+6206,Passive networks
+6207,Causal influences
+6208,Network reconstruction
+6209,Single users
+6210,Systems theoretic approach
+6211,Twitter datum
+6212,Insertion losses
+6213,Manufacture
+6214,Melting
+6215,Waveguide attenuators
+6216,Attenuation performance
+6217,Complex structure
+6218,High mechanical strength
+6219,Industry standards
+6220,Selective laser melting
+6221,Waveguide structure
+6222,Construction Management Courses
+6223,Engineering management education
+6224,Ethical issues
+6225,Management course
+6226,Multiple-case study
+6227,Thematic analysis
+6228,Undergraduate projects
+6229,Electric control equipment
+6230,Heat conduction
+6231,Comparison of models
+6232,First-order plus dead-time models
+6233,Heat source modeling
+6234,Heat sources
+6235,Quasi steady state conditions
+6236,Temperature models
+6237,Computer science
+6238,Data visualization
+6239,Facings
+6240,Flow visualization
+6241,Visualization
+6242,Conferences
+6243,Data and knowledge visualizations
+6244,Intelligent educational systems
+6245,Literature reviews
+6246,Aircraft carriers
+6247,Aircraft communication
+6248,Sensitivity analysis
+6249,Adaptability
+6250,Evolvability
+6251,Improved cookstove
+6252,Reconfigurability
+6253,Reconfigure
+6254,Liquefied gases
+6255,Logic devices
+6256,Electromagnetic calorimeter
+6257,High energy physics experiments
+6258,High energy physics experiments (HEP)
+6259,Instrumentation
+6260,Reliability requirements
+6261,Scrubbing
+6262,High energy physics
+6263,Bandpass filters
+6264,Circuit elements
+6265,Narrow band filter
+6266,Phase-shift method
+6267,Spectral purity
+6268,Standing problems
+6269,Tunable oscillator
+6270,Typical values
+6271,Voltage dividers
+6272,Brakes
+6273,Wood
+6274,Aeronautical design
+6275,All-electric aircraft
+6276,Carbon fiber reinforced
+6277,Engineering challenges
+6278,Interior space
+6279,Manufacturing skills
+6280,Total distances
+6281,avobenzone
+6282,coumarin
+6283,photoinitiator
+6284,quercetin
+6285,resin
+6286,rosin
+6287,serpentine
+6288,sudan I
+6289,sulfide
+6290,channel gating
+6291,fluorescent lighting
+6292,height
+6293,illumination
+6294,layer thickness
+6295,physical parameters
+6296,polymerization
+6297,radiation absorption
+6298,scanning electron microscopy
+6299,solubility
+6300,ultraviolet spectrophotometry
+6301,Biophysics
+6302,Gait analysis
+6303,Average errors
+6304,Calibration model
+6305,Cross validation
+6306,Functional data analysis
+6307,Ground reaction forces
+6308,Human movements
+6309,Human walking
+6310,Novel nanocomposites
+6311,biosensor
+6312,body height
+6313,body mass
+6314,exercise intensity
+6315,ground reaction force
+6316,measurement accuracy
+6317,nanocomposite piezo responsive foam sensor
+6318,shoe
+6319,three dimensional imaging
+6320,treadmill
+6321,validation process
+6322,clinical trial
+6323,Walking
+6324,Development time
+6325,Engineering design process
+6326,Latest technology
+6327,Microsoft kinect
+6328,Space requirements
+6329,Virtual reality technology
+6330,Industry
+6331,Ascending auctions
+6332,Average numbers
+6333,Internet auctions
+6334,Unobserved auction participation
+6335,bed
+6336,environmental monitoring
+6337,season
+6338,Bedding and Linens
+6339,Environmental Monitoring
+6340,Floors and Floorcoverings
+6341,Seasons
+6342,Grippers
+6343,MIS devices
+6344,Transplantation (surgical)
+6345,Bending stress
+6346,Range of motions
+6347,Research results
+6348,Surgical instrument
+6349,Two-degree of freedom
+6350,grasping forceps
+6351,large scale production
+6352,minimally invasive surgery
+6353,range of motion
+6354,Per unit
+6355,Spatial visualization
+6356,gadolinium pentetate meglumine
+6357,cartilage
+6358,controlled clinical trial
+6359,disease severity
+6360,femoroacetabular impingement
+6361,hip osteoarthritis
+6362,prognosis
+6363,early diagnosis
+6364,hip
+6365,radiography
+6366,Early Diagnosis
+6367,Femoracetabular Impingement
+6368,Follow-Up Studies
+6369,Hip Joint
+6370,"Osteoarthritis, Hip"
+6371,Prognosis
+6372,Radiography
+6373,Design implications
+6374,Human-in-the-loop
+6375,Interactive system
+6376,Mixed-initiative interactions
+6377,Model algorithms
+6378,Refinement operations
+6379,Topic Modeling
+6380,Fluid motions
+6381,Original videos
+6382,bad news
+6383,directness
+6384,Message format
+6385,Negative information
+6386,Negative message buffer
+6387,Small buffers
+6388,Social relationships
+6389,visuals
+6390,Coaxial cables
+6391,Adverse effect
+6392,Charge buildup
+6393,Compact size
+6394,Dynamic range
+6395,Fixed structure
+6396,High-voltage measurement
+6397,Risetimes
+6398,Plasma CVD
+6399,Plasma enhanced chemical vapor deposition
+6400,Water absorption
+6401,Absorption effects
+6402,Fluorescence sensing
+6403,Fluorescence sensors
+6404,Plasma enhanced chemical vapor depositions (PE CVD)
+6405,Single oxides
+6406,SiO2
+6407,Cerebellar ataxia
+6408,Essential tremor
+6409,In-vivo
+6410,Multiple research
+6411,Parkinson's disease
+6412,Quantitative characterization
+6413,Side effect
+6414,Surgical interventions
+6415,Low pass filters
+6416,electronic device
+6417,signal processing
+6418,theoretical model
+6419,Essential Tremor
+6420,"Models, Theoretical"
+6421,Shoulder
+6422,"Signal Processing, Computer-Assisted"
+6423,Wearable Electronic Devices
+6424,Wrist
+6425,Fluid dynamics
+6426,Dimensionless ratios
+6427,Effective diameter
+6428,Flow-structure interaction
+6429,High speed imaging
+6430,Hydrodynamic forces
+6431,Impact hydrodynamic pressure
+6432,Interfacial flow (free surface)
+6433,Oscillation periods
+6434,aerodynamics
+6435,fluid mechanics
+6436,free surface flow
+6437,interface
+6438,sphere
+6439,Group theory
+6440,Atomic displacement
+6441,Combinatorial explosion
+6442,Displacement direction
+6443,Displacement patterns
+6444,Elimination process
+6445,Enumeration
+6446,Model alloys
+6447,Thermal properties of materials
+6448,Anechoic chambers
+6449,Millimeter waves
+6450,Scattering parameters
+6451,Antenna radiation efficiency
+6452,Measurement uncertainty
+6453,Open ended waveguides
+6454,Wireless systems
+6455,Frequency estimators
+6456,Joint maximum likelihood
+6457,Simplex search algorithms
+6458,Space time coding
+6459,Two-dimensional grids
+6460,Turbo codes
+6461,Alamouti space time block codes
+6462,Exponential representation
+6463,Least Square
+6464,Number of state
+6465,Quadrature modulation
+6466,Test flights
+6467,Dissimilar aluminum alloy
+6468,Joint property
+6469,Macroscopic materials
+6470,Material combination
+6471,Process response
+6472,Quasi-static tensile test
+6473,Vectors
+6474,Crystal lattice structure
+6475,Crystal system
+6476,Naval Research Laboratory
+6477,Pearson symbol
+6478,Concurrent engineering
+6479,Candidate models
+6480,Completion time
+6481,Multiple user
+6482,Optimal number
+6483,Predictive power
+6484,Refined model
+6485,Proportional navigation
+6486,Adaptation methods
+6487,Disaster response
+6488,Failure mitigation
+6489,Future applications
+6490,Internal structure
+6491,Space explorations
+6492,Steady state errors
+6493,Mobile robots
+6494,Design optimization
+6495,Load-bearing capacity
+6496,Multi-objective design optimization
+6497,Multi-objective fitness function
+6498,Pneumatic robot
+6499,Target application
+6500,Constrained optimization
+6501,Inverse kinematics
+6502,End-effector trajectory
+6503,Hard constraints
+6504,High-dimensional problems
+6505,Optimization routine
+6506,Quadratic programs
+6507,Robotic manipulation
+6508,Single configuration
+6509,Ion beams
+6510,Laser surgery
+6511,Scanning
+6512,Charge collection
+6513,Circuit response
+6514,Laser facilities
+6515,Laser testing
+6516,New facilities
+6517,Spot scanning
+6518,Laser mirrors
+6519,Avionics
+6520,Beam testing
+6521,BRAM
+6522,EDAC
+6523,MMCM
+6524,SERDES
+6525,Soft error rate
+6526,space
+6527,Costs analysis
+6528,Feasibility studies
+6529,Health benefits
+6530,Human energy
+6531,Human-powered
+6532,Public places
+6533,System level synthesis
+6534,Gene expression
+6535,Biological phenomena
+6536,Codon bias
+6537,Contextual information
+6538,Global context
+6539,Heterologous gene expressions
+6540,Language model
+6541,Long-range dependencies
+6542,Protein sequences
+6543,Modeling languages
+6544,High resolution transmission electron microscopy
+6545,Lithium
+6546,Mechanical stability
+6547,Nanocrystalline silicon
+6548,Nanocrystals
+6549,Nanotubes
+6550,Scaffolds
+6551,Transmission electron microscopy
+6552,Atmospheric pressure chemical vapor deposition
+6553,Electrically conductive
+6554,High silicon content
+6555,Low pressure chemical vapor infiltration
+6556,Nanocrystalline carbon
+6557,Transmission electron
+6558,Volumetric capacity
+6559,Silicon batteries
+6560,Construction
+6561,Construction industry
+6562,Commercial construction
+6563,Economic cycles
+6564,Economic downturn
+6565,Economic Recession
+6566,Organizational issues
+6567,Organizational learning
+6568,Recession
+6569,Sampling survey
+6570,Genetic engineering
+6571,Bubble structures
+6572,Phylogenetic tree reconstruction
+6573,Phylogenetic trees
+6574,Phylogenetics
+6575,Supermatrix
+6576,Whole genome sequences
+6577,Disease associations
+6578,Graph
+6579,GWAS
+6580,Next-generation sequencing
+6581,Single nucleotides
+6582,Polymorphism
+6583,Basin of attraction
+6584,Competitive environment
+6585,cooperation
+6586,Initial conditions
+6587,Nash equilibria
+6588,Side-payments
+6589,College of Engineering and Technology
+6590,General education
+6591,Leadership principles
+6592,Positive attitude
+6593,Sophomore-level
+6594,Statistically significant difference
+6595,Academic institutions
+6596,Advisory boards
+6597,Construction management
+6598,Industry experience
+6599,Program accreditation
+6600,Technology and designs
+6601,Management science
+6602,Construction projects
+6603,Experiential learning theories
+6604,Learning opportunity
+6605,Project management principles
+6606,Laptop computers
+6607,Personal computers
+6608,Smartphones
+6609,Computing environments
+6610,Computing hardware
+6611,Computing platform
+6612,Performance metrics
+6613,Qualitative research
+6614,Software usabilities
+6615,Testing methodology
+6616,Usability analysis
+6617,Water filtration
+6618,Sustainable water
+6619,Project sustainability
+6620,Tag systems
+6621,Classroom presentations
+6622,Effective learning
+6623,Multi-disciplinary collaborations
+6624,Preparation process
+6625,Professional development opportunities
+6626,"Science , technology , engineering , and maths"
+6627,Teaching activities
+6628,Coding framework
+6629,Ethical responsibility
+6630,Bridges
+6631,Losses
+6632,Damage
+6633,Experimental analysis
+6634,Fragility
+6635,Incremental dynamic analysis
+6636,Seismic behavior
+6637,Highway bridges
+6638,bridge
+6639,cyclic loading
+6640,dynamic analysis
+6641,Chile
+6642,Directional sensitivity
+6643,Fiber axis
+6644,Fiber direction
+6645,Optical electric field sensors
+6646,Cost engineering
+6647,Standards
+6648,collaboration
+6649,Heterogeneous systems
+6650,National institute for standards and technologies
+6651,Real-time collaboration
+6652,SQL database
+6653,Analog circuits
+6654,Differential amplifiers
+6655,Gain measurement
+6656,Cascode
+6657,Differential circuits
+6658,High voltage gain
+6659,Low power amplifiers
+6660,Moderate inversion
+6661,Strong inversion regions
+6662,Ultra high voltage
+6663,weak/moderate inversion
+6664,Cascode amplifiers
+6665,Rural areas
+6666,Market introduction
+6667,Sales and distribution
+6668,Testing conditions
+6669,Energy conservation
+6670,Weather information services
+6671,Building energy consumption
+6672,Building energy efficiency
+6673,climate normalization
+6674,Commercial building
+6675,Energy simulation
+6676,Heating and cooling
+6677,Normalization methods
+6678,Standard operating conditions
+6679,Antigens
+6680,Medical imaging
+6681,Phase interfaces
+6682,Urology
+6683,Hierarchical splines
+6684,Phase fields
+6685,Tumor growth
+6686,Electric welding
+6687,Melting point
+6688,Dissimilar material joining
+6689,Dissimilar material systems
+6690,Mechanical fastener
+6691,Dissimilar materials
+6692,Air delivery systems
+6693,Capacity limitation
+6694,Design and implementations
+6695,Model and simulation
+6696,Multi-Agent Model
+6697,Separation assurances
+6698,UAV systems
+6699,Constitutive models
+6700,Elastoplasticity
+6701,Plasticity
+6702,Unloading
+6703,Yield stress
+6704,Crystal plasticity
+6705,Dislocation pileup
+6706,Dual-phase steel
+6707,Representative volume element (RVE)
+6708,Superdislocations
+6709,Optical films
+6710,Refraction
+6711,Refractive index
+6712,Film stress
+6713,High index
+6714,High refractive index difference
+6715,High-humidity environment
+6716,Intrinsic stress
+6717,RNA
+6718,Air bubbles
+6719,Concentration ranges
+6720,Point of care
+6721,RNA detection
+6722,Streptavidin beads
+6723,streptavidin
+6724,virus RNA
+6725,antiresonant reflecting optical waveguide biosensor chip
+6726,automation
+6727,concentration (parameters)
+6728,Ebolavirus
+6729,incubation time
+6730,process development
+6731,process optimization
+6732,sample preparation multiplexer
+6733,signal detection
+6734,"Hemorrhagic Fever, Ebola"
+6735,isolation and purification
+6736,nucleic acid hybridization
+6737,solid phase extraction
+6738,virology
+6739,Nucleic Acid Hybridization
+6740,"RNA, Viral"
+6741,Solid Phase Extraction
+6742,Streptavidin
+6743,Ignition
+6744,Nuclear fuel elements
+6745,Wind tunnels
+6746,Combustion data
+6747,Computational speed
+6748,Growth parameters
+6749,Heat transfer model
+6750,Live fuels
+6751,Semi-empirical modeling
+6752,Wildland fire
+6753,Flame research
+6754,Electric power distribution
+6755,Storms
+6756,Vegetation
+6757,Electric infrastructures
+6758,Infrastructure networks
+6759,Prediction model
+6760,Resilience
+6761,Resolution measurements
+6762,Severe weather
+6763,Vegetation management
+6764,Fisher information matrix
+6765,information
+6766,Large power systems
+6767,Mathematical forms
+6768,Parameter combination
+6769,Statistical manifolds
+6770,Cell culture
+6771,Cells
+6772,Disease control
+6773,Medicine
+6774,Pathology
+6775,Cell delivery
+6776,Cell therapy
+6777,Endogenous TGase
+6778,Intraperitoneal injections
+6779,Mesenchymal stem cell
+6780,Micro-scaffold capsule
+6781,Regenerative medicine
+6782,Tissue transglutaminase
+6783,Scaffolds (biology)
+6784,glutamine
+6785,lysine
+6786,molecular scaffold
+6787,protein glutamine gamma glutamyltransferase
+6788,guanine nucleotide binding protein
+6789,protein glutamine gamma glutamyltransferase 2
+6790,acute liver failure
+6791,anoikis
+6792,cell adhesion
+6793,cell protection
+6794,cell therapy
+6795,cell viability
+6796,chemical binding
+6797,ex vivo study
+6798,liver injury
+6799,mesenchymal stem cell
+6800,Bagg albino mouse
+6801,biocatalysis
+6802,injection
+6803,injuries
+6804,liver
+6805,mesenchymal stem cell transplantation
+6806,mesenchymal stroma cell
+6807,nude mouse
+6808,tissue scaffold
+6809,Biocatalysis
+6810,Cell Adhesion
+6811,Drug Delivery Systems
+6812,GTP-Binding Proteins
+6813,Injections
+6814,Liver
+6815,Mesenchymal Stem Cell Transplantation
+6816,Mesenchymal Stromal Cells
+6817,"Mice, Inbred BALB C"
+6818,"Mice, Nude"
+6819,Tissue Scaffolds
+6820,Transglutaminases
+6821,Deformation mechanism
+6822,Digital image correlation methods
+6823,Elevated temperature
+6824,Increasing temperatures
+6825,Microstructure correlation
+6826,Strain accommodations
+6827,Thermally activated
+6828,Manganese
+6829,Minerals
+6830,Synthesis (chemical)
+6831,Band gap energy
+6832,Direct transition
+6833,Energy value
+6834,ferritin
+6835,Indirect band gap
+6836,Mineral formation
+6837,Mixed metal oxide
+6838,Energy gap
+6839,Oxides
+6840,Acidic conditions
+6841,Basic conditions
+6842,Electron acceptor
+6843,Oxide nanoparticles
+6844,Uv/vis absorptions
+6845,Manganese oxide
+6846,Computer applications
+6847,Application architecture
+6848,Business logic layers
+6849,Cycle time reduction
+6850,nocv1
+6851,Singleton design patterns
+6852,Synchronous collaboration
+6853,Electric heating
+6854,Recombinant proteins
+6855,Spinning (fibers)
+6856,Thermal diffusivity
+6857,3-omega
+6858,Low crystallinity
+6859,Spider silk fibers
+6860,Spider silks
+6861,Synthetic silk
+6862,Volumetric heat capacity
+6863,Damping
+6864,Lumped parameter modeling
+6865,Sinusoidal input
+6866,Tremor suppression
+6867,device therapy
+6868,joint
+6869,limb tremor
+6870,"Models, Neurological"
+6871,Upper Extremity
+6872,General designs
+6873,Relative motion
+6874,Rigid panels
+6875,Available data
+6876,Bayesian Analysis
+6877,Designed experiments
+6878,Large amounts of data
+6879,Repeats and replicates
+6880,Two sources
+6881,Plates (structural components)
+6882,Automotive applications
+6883,Kirchhoff Love
+6884,Reissner-Mindlin
+6885,shells
+6886,Design and evaluations
+6887,Graphical user interface (GUIs)
+6888,Multi objective decision making
+6889,Multi-objective optimization problem
+6890,Multiobjective decision
+6891,Pareto optimal solutions
+6892,Robot path-planning
+6893,Effective interactions
+6894,Haptic feedbacks
+6895,human-swarm interaction
+6896,Interaction methods
+6897,Level of autonomies
+6898,Operator performance
+6899,Operator workload
+6900,Situation awareness
+6901,Gas industry
+6902,Dynamic data reconciliation
+6903,Industrial datum
+6904,Industrial dynamics
+6905,Measurement technologies
+6906,Moving horizon estimation
+6907,Oil and Gas Industry
+6908,Optimization and control
+6909,Wireless transmitter
+6910,Economic analysis
+6911,Insurance
+6912,Reconstruction (structural)
+6913,Water supply systems
+6914,Construction costs
+6915,Dam decommissioning
+6916,Damage information
+6917,Future generations
+6918,Insurance policies
+6919,Intergenerational equity
+6920,cost-benefit analysis
+6921,dam repair
+6922,decommissioning
+6923,economic analysis
+6924,infrastructural development
+6925,sedimentation
+6926,sustainability
+6927,Gavins Point Dam
+6928,Rating
+6929,Environmental hazards
+6930,Front-end planning
+6931,Infrastructure project
+6932,Project definition rating index (PDRI)
+6933,Project performance
+6934,Scope definition
+6935,Structured approach
+6936,Dispersions
+6937,Lagrange multipliers
+6938,Dispersive transport
+6939,Lagrangian particles
+6940,Particle dispersion
+6941,Particle dispersion model
+6942,Particle-carrier gas
+6943,Particle-tracking method
+6944,Turbulent round jet
+6945,Electric network parameters
+6946,Meteorological problems
+6947,Bayesian additive regression trees
+6948,High spatial resolution
+6949,Individual modeling
+6950,Outage models
+6951,Predictive modeling
+6952,Quantile regression
+6953,Weather hazards
+6954,Bayesian analysis
+6955,land use
+6956,thunderstorm
+6957,Connecticut
+6958,forest
+6959,grid cell
+6960,human cell
+6961,hurricane
+6962,plant leaf
+6963,remission
+6964,winter
+6965,Failure modes
+6966,Stress-strain curves
+6967,Concrete masonry prisms
+6968,Masonry prisms
+6969,Nonlinear stress-strain relationship
+6970,Stiffness ratios
+6971,Stress-strain relationships
+6972,Masonry materials
+6973,Velocimeters
+6974,Velocity
+6975,Accurate velocity measurement
+6976,Backward facing step
+6977,Hardware alterations
+6978,Hardware differences
+6979,In-plane components
+6980,Particle image velocimetries
+6981,Velocity measurement
+6982,Laminates
+6983,Superconducting materials
+6984,Accelerating cavities
+6985,Effects of materials
+6986,Flux penetration
+6987,Radio frequency cavity
+6988,Superconducting cavities
+6989,Superconducting layer
+6990,Superconducting radio frequency
+6991,superheating field
+6992,In situ processing
+6993,Austenite stainless steel
+6994,Electron backscattering diffraction
+6995,Fine equiaxed grains
+6996,Grain size distribution
+6997,Antenna structures
+6998,Broadband operation
+6999,Fabrication errors
+7000,Power flux density
+7001,Atria
+7002,Lateral load analysis
+7003,Resource consumption
+7004,Skybridges
+7005,Structural volume
+7006,Tracking (position)
+7007,Cluttered environments
+7008,Comparison and analysis
+7009,Data association
+7010,Low computational complexity
+7011,Modular framework
+7012,Multiple target tracking
+7013,Tuning parameter
+7014,Light polarization
+7015,Alignment-free
+7016,Light splitting
+7017,Linear polarizer
+7018,Linearly polarized
+7019,Linearly polarized light
+7020,Maximum ranges
+7021,Polarization rotator
+7022,Splitting ratio
+7023,Optical devices
+7024,polarization
+7025,Web services
+7026,Bed load
+7027,Bed-load transport
+7028,Hydrologic information systems
+7029,Predictive methods
+7030,Stream classification
+7031,data set
+7032,database
+7033,information system
+7034,Circular polarization
+7035,Microstrip antennas
+7036,Optical resonators
+7037,Active integrated antenna
+7038,Class B
+7039,Harmonic suppression
+7040,High power
+7041,Performance validation
+7042,Size reductions
+7043,Equations of motion
+7044,Flow of water
+7045,Fluid mechanics
+7046,Froude number
+7047,Korteweg-de Vries equation
+7048,Shore protection
+7049,Analytical results
+7050,Complete classification
+7051,Hydraulic engineering
+7052,Power law relation
+7053,Shallow water equations
+7054,Shallow water flow
+7055,Singular perturbations
+7056,St. Venant equations
+7057,Stability criteria
+7058,Drug-resistant bacteria
+7059,Fluorescence patterns
+7060,MMI waveguides
+7061,Molecular beacon
+7062,Multiple excitations
+7063,Multispectral detection
+7064,Two-color
+7065,Feed-back based
+7066,Individual nanoparticles
+7067,Single particle
+7068,Deceleration
+7069,Detect and avoid
+7070,Frequency limitation
+7071,Small UAS
+7072,Alternative fuels
+7073,Deionized water
+7074,Fuel oils
+7075,Rankine cycle
+7076,Sulfur
+7077,Sulfur dioxide
+7078,Velocity control
+7079,Capture efficiency
+7080,Gas temperature
+7081,Industrial gas turbines
+7082,Inorganic materials
+7083,Nickel base superalloy
+7084,Particle velocities
+7085,Particle-laden
+7086,Removal of sulfur
+7087,Petroleum deposits
+7088,Driving factors
+7089,Flow experience
+7090,Pressure gain
+7091,Pulse amplitude
+7092,Pulsing frequencies
+7093,Turbine efficiency
+7094,Linux
+7095,Authentication services
+7096,Certificate validations
+7097,Certificate-based
+7098,Linux prototype
+7099,Loadable kernel modules
+7100,Research prototype
+7101,Distance parameter
+7102,Minimal representation
+7103,Multiple grounds
+7104,Reference frame
+7105,Target estimations
+7106,Trigonometric functions
+7107,Weighted averages
+7108,Course evaluations
+7109,Design creativities
+7110,Design synthesis
+7111,Educational goals
+7112,Assessment practices
+7113,Design assessments
+7114,Design project assessments
+7115,Face to face
+7116,Feedback to students
+7117,Formative and summative assessments
+7118,Public assessment
+7119,Copyrights
+7120,Intellectual property
+7121,Patents and inventions
+7122,Trademarks
+7123,Creative work
+7124,Cultural evolution
+7125,Design schools
+7126,IP trends
+7127,Live projects
+7128,Sponsored projects
+7129,Utility patent
+7130,Design thinking
+7131,Experience design
+7132,Holistic design
+7133,Human-centered designs
+7134,Collagen
+7135,Molds
+7136,Bio-inspired designs
+7137,Bio-plastics
+7138,Biodegradable plastics
+7139,Development process
+7140,Environmentally sensitive
+7141,Manufacturing process
+7142,Sustainable products
+7143,Biodegradable polymers
+7144,Sea ice
+7145,Data set
+7146,Oceansat-2
+7147,Quick scatterometer (QuikSCAT)
+7148,QuikSCAT
+7149,Scatterometer data
+7150,Sea ice extent
+7151,Ice
+7152,Combustion characteristics
+7153,Fire spread model
+7154,Innovative approaches
+7155,Lindenmayer system
+7156,Terrestrial lidars
+7157,Fuel systems
+7158,Merging
+7159,Combustion model
+7160,Different geometry
+7161,Flame characteristics
+7162,Flame interaction
+7163,Growth patterns
+7164,Multiple leaves
+7165,Plane geometry
+7166,Vertical geometries
+7167,Coal tar
+7168,Pyrolysis
+7169,Combustion simulations
+7170,Comprehensive model
+7171,Elemental compositions
+7172,Particle composition
+7173,Physical behaviors
+7174,Product composition
+7175,Pyrolysis products
+7176,Boilers
+7177,Size distribution
+7178,Flame temperatures
+7179,Flat flame burner
+7180,Gaseous species
+7181,Gaseous systems
+7182,Mechanism-based
+7183,Particle nucleation
+7184,Soot concentration
+7185,cell labeling
+7186,confocal microscopy
+7187,decellularization
+7188,epithelium cell
+7189,epithelization
+7190,histology
+7191,immune response
+7192,kidney perfusion
+7193,kidney transplantation
+7194,vascularization
+7195,Concrete buildings
+7196,Concrete reinforcements
+7197,Materials testing apparatus
+7198,Carbon/epoxy composites
+7199,Design configurations
+7200,Fiber reinforced polymers
+7201,Low cost manufacturing
+7202,Manufacturing parameters
+7203,Structural reinforcement
+7204,Tensile testing machines
+7205,Arithmetic operations
+7206,Bandpass signals
+7207,Discrete time
+7208,Poly phase filters
+7209,Polyphase filter banks
+7210,Quadrature down-conversion
+7211,Sample rate
+7212,Sampled data
+7213,Signal systems
+7214,Matched filters
+7215,Pulse shaping circuits
+7216,Bandwidth efficient
+7217,Finite supports
+7218,Linear modulations
+7219,Nyquist pulse
+7220,Spectral containment
+7221,Square roots
+7222,Fuel burners
+7223,Flat-flame burners (FFB)
+7224,Fuel properties
+7225,Gaseous flame
+7226,High molecular weight
+7227,Prescribed fires
+7228,Ecology
+7229,Ecosystems
+7230,Heating rate
+7231,Combustible materials
+7232,Controlled burning
+7233,Fire propagation
+7234,Prescribed burning
+7235,Propagation rate
+7236,Slow heating rates
+7237,Coal industry
+7238,Forward scattering
+7239,Complex index of refraction
+7240,Forward-and-backward
+7241,Numerical experiments
+7242,Oxy-coal combustions
+7243,Particle properties
+7244,Scattering phase function
+7245,Felts
+7246,Vertical direction
+7247,Water towers
+7248,Mass flow rate
+7249,Particle in cell
+7250,Starting pressure
+7251,Equilibrium chemistry
+7252,Flue gas recirculation
+7253,Iterative calculation
+7254,Radiation calculations
+7255,Refractory temperature
+7256,Temperature calculation
+7257,Panel design
+7258,Sheet-metal panels
+7259,Shift technique
+7260,Sheet metal
+7261,Power transfers
+7262,Tubes (components)
+7263,Deployable structure
+7264,FEA models
+7265,Lightweight deployable structures
+7266,Panel geometry
+7267,Design tool
+7268,Random set
+7269,Sustainability issues
+7270,Three categories
+7271,Three-dimensional designs
+7272,Functional characteristics
+7273,Product functions
+7274,Enthalpy
+7275,Computational mesh
+7276,Critical factors
+7277,High velocity gradients
+7278,Local mesh refinement
+7279,Mesh refinement
+7280,Polyhedral meshes
+7281,Realistic simulation
+7282,Data reduction
+7283,Drag reduction
+7284,Pressure drop
+7285,Air-water mixture
+7286,Flow condensation
+7287,Pressure drop measurements
+7288,Rectangular channel
+7289,Single-phase flow
+7290,Superficial Reynolds number
+7291,Two-phase pressure drops
+7292,Scrubbers
+7293,FPGA configuration
+7294,Hybrid configurations
+7295,Multi-bit upset
+7296,BRAM scrubbing
+7297,configuration scrubbing
+7298,LEON3
+7299,SEU mitigation
+7300,Boiling liquids
+7301,Hydrophilicity
+7302,Hydrophilic surfaces
+7303,Hydrophobic surfaces
+7304,Superhydrophilic surface
+7305,Water droplet impingement
+7306,Ellipsometry
+7307,Hydrogen
+7308,Innovation
+7309,Observatories
+7310,Reflective coatings
+7311,Barrier material
+7312,Extreme Ultraviolet
+7313,Protective layers
+7314,Space-based observatories
+7315,Ultraviolet
+7316,Air transportation
+7317,Video cameras
+7318,Air traffic density
+7319,High definition video
+7320,Safe operation
+7321,Sense and avoid
+7322,Technology development
+7323,Cost accounting
+7324,Highway accidents
+7325,Highway engineering
+7326,Spreadsheets
+7327,Annual maintenance
+7328,Construction contract
+7329,Rehabilitation cost
+7330,Safety improvement
+7331,State highway systems
+7332,Computer games
+7333,Operations research
+7334,Semantics
+7335,Image rendering
+7336,Semantic descriptions
+7337,Source images
+7338,System intelligence
+7339,Construction process
+7340,Finishing methods
+7341,Last planner system
+7342,Lean construction
+7343,Lean implementation
+7344,Lean practices
+7345,Subcontractors
+7346,Under-represented
+7347,Contractors
+7348,Delivery methods
+7349,Project governance
+7350,Project maintenance
+7351,Relational contracting
+7352,Unethical behavior
+7353,Unethical conduct
+7354,Aircraft engines
+7355,Blowers
+7356,Fourier analysis
+7357,Descriptors
+7358,Fan/compressor
+7359,Flow physics
+7360,Fourier descriptors
+7361,Low distortion
+7362,Phase Change
+7363,Profile shapes
+7364,Fourier transforms
+7365,Bottom hole pressure
+7366,Drill pipe
+7367,Conventional controllers
+7368,Hammerstein-Wiener models
+7369,High speed measurements
+7370,Managed pressure drillings
+7371,Non-linear relationships
+7372,Nonlinear control algorithm
+7373,Bituminous coal
+7374,Effluents
+7375,Flue gases
+7376,Flues
+7377,Natural gas fields
+7378,Natural gasoline plants
+7379,Nitrogen oxides
+7380,Research reactors
+7381,Space heating
+7382,External cooling
+7383,Heating plants
+7384,Municipal waste
+7385,Refrigerant loop
+7386,Subbituminous coal
+7387,Sustainable energy solutions
+7388,Turbines
+7389,Height optimization
+7390,Hub height
+7391,Layout optimization
+7392,Structural modeling
+7393,Three-dimensional wakes
+7394,Analytical method
+7395,Closed-form analytical solutions
+7396,Detection and avoidances
+7397,National airspace system
+7398,Velocity vectors
+7399,Geotechnical information
+7400,Geotechnical investigations
+7401,Lateral spread displacements
+7402,Linear infrastructure
+7403,Probabilistic approaches
+7404,Subsurface investigations
+7405,Buried channels
+7406,High humidity
+7407,Optical confinement
+7408,Fluorescence analysis
+7409,Influenza virus
+7410,Spatial multiplex
+7411,Virus detection
+7412,DNA molecules
+7413,Electronic feedback
+7414,Fluorescence detection
+7415,Individual particles
+7416,Single-particle analysis
+7417,Detecting moving objects
+7418,Feature descriptors
+7419,Frame differencing
+7420,Image feature points
+7421,Kalman filter algorithms
+7422,Moving object tracking
+7423,Bridge superstructure
+7424,Geosynthetic reinforced soils
+7425,Interface friction
+7426,Internal friction angle
+7427,Large scale testing
+7428,Passive resistance
+7429,Service conditions
+7430,Aerosols
+7431,Deposition rates
+7432,Electric lines
+7433,High pressure effects
+7434,Oxidants
+7435,Recycling
+7436,Ash aerosol
+7437,Combustion pressure
+7438,Combustion temperatures
+7439,Heat transfer conditions
+7440,Oxyfuel combustion
+7441,Sub-micron particles
+7442,Forward error correction
+7443,LDPC codes
+7444,Optimum solution
+7445,UNCODED
+7446,Information theory
+7447,Curve fitting algorithm
+7448,Greedy algorithms
+7449,Optimum power allocations
+7450,Signaltonoise ratio (SNR)
+7451,Cracking (chemical)
+7452,Wood fuels
+7453,Full detailed modeling
+7454,Model simplification
+7455,Particle formations
+7456,Physics-based modeling
+7457,Wildfire simulation
+7458,Enzyme kinetics
+7459,Bayesian calibration
+7460,Char oxidation
+7461,Computational requirements
+7462,Conversion kinetics
+7463,New constructions
+7464,Oxy-fuels
+7465,Preparation conditions
+7466,Thermal-annealing
+7467,Computational Fluid Dynamics codes
+7468,Convective heat
+7469,Fire dynamics simulator
+7470,Gradient measurement
+7471,Wildland firefighter
+7472,Absorbing properties
+7473,Elastic energy
+7474,Physical testing
+7475,Similar models
+7476,Tesselation
+7477,Unit cells
+7478,Virtual works
+7479,Complementary strain energy
+7480,Energy-based
+7481,Energy-based methods
+7482,Explicit formulation
+7483,Geometric non-linearity
+7484,Kinetostatic model
+7485,Newtonian method
+7486,Curved fold
+7487,Discretization algorithms
+7488,Low degree
+7489,A-plane
+7490,Conducting polymers
+7491,Energy storage
+7492,Flow batteries
+7493,Storage (materials)
+7494,Electrochemical energy storage
+7495,Energy storage applications
+7496,High rate capability
+7497,Organic battery
+7498,Organic radical polymer
+7499,Radical polymers
+7500,Theoretical capacity
+7501,Electrochemical electrodes
+7502,Amperometric sensors
+7503,Electrochemical sensors
+7504,Platinum
+7505,Amperometric sensing
+7506,Concentration boundary layer
+7507,Convective mass transfer
+7508,Electrochemical
+7509,Electrochemical sensing
+7510,Microchannel surfaces
+7511,Enterprise resource planning
+7512,Hydraulic models
+7513,Oil wells
+7514,Parallel architectures
+7515,Personnel
+7516,Tuning
+7517,Automatic configuration
+7518,Calibration algorithm
+7519,Configuration parameters
+7520,Frictional pressure loss
+7521,Massively parallel computing
+7522,Process understanding
+7523,Bioanalytic devices
+7524,Dynamic researches
+7525,Lab on chip
+7526,Level of integrations
+7527,Miniaturized systems
+7528,Reconfigurable devices
+7529,Fluidics
+7530,Higher order statistics
+7531,Partial differential equations
+7532,Shock waves
+7533,Aggregate behavior
+7534,Atmospheric effects
+7535,Burgers equations
+7536,Microphone arrays
+7537,Multi-path interference
+7538,Propagation distances
+7539,Wave packets
+7540,Acoustic source models
+7541,Acoustical measurements
+7542,Amplitude distributions
+7543,Autospectral densities
+7544,Far field measurement
+7545,Frequency dependence
+7546,Low and high frequencies
+7547,Beamforming methods
+7548,Benchmark measurements
+7549,Coherence properties
+7550,Correlated sources
+7551,Directivity pattern
+7552,Radiation characteristics
+7553,Spatial coherence properties
+7554,Spatio temporal features
+7555,Acoustic intensity
+7556,Broadband sources
+7557,Frequency dependent characteristics
+7558,Hydrodynamic field
+7559,Intensity methods
+7560,Near-field intensity
+7561,Pressure microphones
+7562,Ray-tracing technique
+7563,Source characterization
+7564,Acoustic holography
+7565,Acoustical holography
+7566,Exhaust plumes
+7567,Ground reflection
+7568,Imaging technology
+7569,Linear microphonearray
+7570,Multiple frequency
+7571,Implants (surgical)
+7572,Analytical tool
+7573,Clinical outcome
+7574,Coronary stents
+7575,Filled carbon nanotubes
+7576,Maximum forces
+7577,Radial forces
+7578,Stent configurations
+7579,Vascular stents
+7580,Stents
+7581,Convergence
+7582,Energy expenditure
+7583,Interaction systems
+7584,Lateral acceleration
+7585,Leader placement
+7586,Placement strategy
+7587,Pressure distribution
+7588,Compressible material
+7589,Expanded polystyrene
+7590,Geofoam inclusions
+7591,Surface reactions
+7592,Chemical percolation devolatilization (CPD)
+7593,Gasification model
+7594,Gasification reaction
+7595,Predictive simulations
+7596,Single-particle combustion
+7597,Hooks
+7598,Interfaces (materials)
+7599,Interface morphologies
+7600,Lap shear strength
+7601,Lower temperatures
+7602,Material interfaces
+7603,Mechanical interlock
+7604,Mechanical interlocking
+7605,Morphology parameters
+7606,Corrosion
+7607,AA7075
+7608,EXCO
+7609,Friction stir process
+7610,Industrial processs
+7611,Non-uniform corrosions
+7612,Precipitate distributions
+7613,Electron holography
+7614,Modulators
+7615,Digital spatial light modulators
+7616,Electro-holography
+7617,Space-bandwidth product
+7618,Compaction
+7619,Deep dynamic compactions
+7620,Field operation
+7621,Settlement measurement
+7622,Subsurface soil
+7623,Traditional techniques
+7624,Volume change
+7625,Adaptive control systems
+7626,Closed loop control systems
+7627,Cruise control
+7628,Decentralized control
+7629,Distributed parameter control systems
+7630,Coprime factorizations
+7631,Distributed control architectures
+7632,Linear feedback control systems
+7633,Structural constraints
+7634,Synchronization mechanisms
+7635,Bellows
+7636,Microgravity
+7637,Microgravity processing
+7638,Space flight
+7639,Environmental temperature
+7640,Mass reduction
+7641,Polyvinyl fluorides
+7642,Potential benefits
+7643,Reaction forces
+7644,Space conditions
+7645,Stroke length
+7646,Space debris
+7647,Fast Fourier transforms
+7648,Laser excitation
+7649,Silk
+7650,Fluorescence spectra
+7651,Modulation frequencies
+7652,Photo-thermal
+7653,Steady-state condition
+7654,Synthetic silk fibers
+7655,Thermometry
+7656,Trained neural networks
+7657,Detection
+7658,Neural Networks
+7659,Formability
+7660,Biaxial stretching
+7661,Biaxial tensions
+7662,Surface strains
+7663,Adaptive equalizer
+7664,Bit-errors
+7665,Data-aided
+7666,Telemetry channels
+7667,Test points
+7668,Cutting tools
+7669,AA6022
+7670,Automotive manufacturers
+7671,High-temperature flows
+7672,Surfalex 6s
+7673,U.S. Department of Energy
+7674,Ultra high strength steel
+7675,Structured programming
+7676,Causal dependencies
+7677,Input-output behavior
+7678,Linear time-invariant system
+7679,Minimal realizations
+7680,State realizations
+7681,System structures
+7682,Systems biology
+7683,Crops
+7684,Herbicides
+7685,Weed control
+7686,Crop diversification
+7687,Cropping systems
+7688,Dryland cropping systems
+7689,Herbicide resistant weeds
+7690,No-till
+7691,Residue management

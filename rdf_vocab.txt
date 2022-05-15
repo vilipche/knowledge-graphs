@@ -1,0 +1,35 @@
++--------------------+----------------+
+|       rdfs:        |      rdf:      |
++--------------------+----------------+
+|                Classes              |
++--------------------+----------------+
+| rdfs:Resource      | rdf:Property   |
+| rdfs:Class         | rdf:langString |
+| rdfs:Literal       | rdf:HTML       |
+| rdfs:Datatype      | rdf:XMLLiteral |
++--------------------+----------------+
+|               Properties            |
++--------------------+----------------+
+| rdfs:range         | rdf:type       |
+| rdfs:domain        |                |
+| rdfs:subClassOf    |                |
+| rdfs:subPropertyOf |                |
+| rdfs:label         |                |
+| rdfs:comment       |                |
++--------------------+----------------+
+|             Other Vocabulary        |
++--------------------+----------------+
+| rdfs:Container     | rdf:Bag        |
+| rdfs:member        | rdf:Seq        |
+| rdfs:seeAlso       | rdf:Alt        |
+| rdfs:isdDefinedBy  | rdf:List       |
+|                    | rdf:first      |
+|                    | rdf:rest       |
+|                    | rdf:nil        |
+|                    | rdf:_1         |
+|                    | rdf:Statement  |
+|                    | rdf:subject    |
+|                    | rdf:predicate  |
+|                    | rdf:object     |
+|                    | rdf:value      |
++--------------------+----------------+
