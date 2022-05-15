@@ -79,7 +79,7 @@ g.add((KG_SDM.related_to, RDFS.label, Literal("related_to")))
 
 
 g.add((KG_SDM.reviews, RDFS.domain, KG_SDM.Reviewers))
-g.add((KG_SDM.reviews, RDFS.range, KG_SDM.Review_process))
+g.add((KG_SDM.reviews, RDFS.range, KG_SDM.ReviewProcess))
 g.add((KG_SDM.reviews, RDFS.label, Literal("reviews")))
 
 
@@ -190,5 +190,6 @@ g.add((KG_SDM.Workshop, RDFS.label, Literal("Workshop")))
 # ## Saving TBOX
 
 save_format = "ttl"
-g.serialize('sdm_kg.ttl', format=save_format)
+file_name = "sdm_kg."+save_format
+g.serialize(file_name, format=save_format)
 
