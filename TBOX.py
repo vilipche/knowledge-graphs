@@ -174,7 +174,6 @@ g.add((KG_SDM.Symposium,RDFS.subClassOf,KG_SDM.Conference))
 g.add((KG_SDM.Symposium, RDFS.label, Literal("Symposium")))
 
 
-
 g.add((KG_SDM.Volume,RDFS.subClassOf,KG_SDM.Publication))
 g.add((KG_SDM.Volume, RDFS.label, Literal("Volume")))
 
@@ -183,6 +182,20 @@ g.add((KG_SDM.Workshop,RDFS.subClassOf,KG_SDM.Conference))
 g.add((KG_SDM.Workshop, RDFS.label, Literal("Workshop")))
 
 
+g.add((KG_SDM.ML,RDFS.subClassOf,KG_SDM.Keyword))
+g.add((KG_SDM.ML, RDFS.label, Literal("ML")))
+
+
+g.add((KG_SDM.NLP,RDFS.subClassOf,KG_SDM.Keyword))
+g.add((KG_SDM.NLP, RDFS.label, Literal("NLP")))
+
+
+g.add((KG_SDM.GRAPH,RDFS.subClassOf,KG_SDM.Keyword))
+g.add((KG_SDM.GRAPH, RDFS.label, Literal("GRAPH")))
+
+
+g.add((KG_SDM.GRAPH,RDFS.subClassOf,KG_SDM.Keyword))
+g.add((KG_SDM.GRAPH, RDFS.label, Literal("DATABASE")))
 
 
 # ===================================================================================================================
