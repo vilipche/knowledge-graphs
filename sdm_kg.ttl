@@ -15,8 +15,18 @@ kg_sdm:Editor rdfs:label "Editor" ;
 kg_sdm:FullPaper rdfs:label "FullPaper" ;
     rdfs:subClassOf kg_sdm:PaperType .
 
+kg_sdm:GRAPH rdfs:label "DATABASE",
+        "GRAPH" ;
+    rdfs:subClassOf kg_sdm:Keyword .
+
 kg_sdm:Journal rdfs:label "Journal" ;
     rdfs:subClassOf kg_sdm:Venue .
+
+kg_sdm:ML rdfs:label "ML" ;
+    rdfs:subClassOf kg_sdm:Keyword .
+
+kg_sdm:NLP rdfs:label "NLP" ;
+    rdfs:subClassOf kg_sdm:Keyword .
 
 kg_sdm:Poster rdfs:label "Poster" ;
     rdfs:subClassOf kg_sdm:PaperType .
