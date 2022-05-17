@@ -185,12 +185,12 @@ g.add((KG_SDM.NLP,RDFS.subClassOf,KG_SDM.Keyword))
 g.add((KG_SDM.NLP, RDFS.label, Literal("NLP")))
 
 
-g.add((KG_SDM.GRAPH,RDFS.subClassOf,KG_SDM.Keyword))
-g.add((KG_SDM.GRAPH, RDFS.label, Literal("GRAPH")))
+g.add((KG_SDM.Graph,RDFS.subClassOf,KG_SDM.Keyword))
+g.add((KG_SDM.GRAPH, RDFS.label, Literal("Graph")))
 
 
-g.add((KG_SDM.GRAPH,RDFS.subClassOf,KG_SDM.Keyword))
-g.add((KG_SDM.GRAPH, RDFS.label, Literal("DATABASE")))
+g.add((KG_SDM.Database,RDFS.subClassOf,KG_SDM.Keyword))
+g.add((KG_SDM.Database, RDFS.label, Literal("Database")))
 
 
 # ===================================================================================================================
@@ -198,6 +198,6 @@ g.add((KG_SDM.GRAPH, RDFS.label, Literal("DATABASE")))
 # ## Saving TBOX
 
 save_format = "ttl"
-file_name = "sdm_kg_TBOX."+save_format
+file_name = "sdm_kg_TBOX"+"."+save_format
 g.serialize(file_name, format=save_format)
 
