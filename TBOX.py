@@ -79,7 +79,7 @@ g.add((KG_SDM.related_to, RDFS.label, Literal("related_to")))
 
 
 g.add((KG_SDM.participates_in, RDFS.domain, KG_SDM.Reviewers))
-g.add((KG_SDM.participates_in, RDFS.range, KG_SDM.ReviewProcess))
+g.add((KG_SDM.participates_in, RDFS.range, KG_SDM.DecisionProcess))
 g.add((KG_SDM.participates_in, RDFS.label, Literal("participates_in")))
 
 
