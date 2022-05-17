@@ -47,12 +47,12 @@ kg_sdm:Workshop rdfs:label "Workshop" ;
     rdfs:subClassOf kg_sdm:Conference .
 
 kg_sdm:comment rdfs:label "comment" ;
-    rdfs:domain kg_sdm:ReviewProcess ;
+    rdfs:domain kg_sdm:DecisionProcess ;
     rdfs:range xsd:string .
 
 kg_sdm:goes_through rdfs:label "goes_through" ;
     rdfs:domain kg_sdm:Submission ;
-    rdfs:range kg_sdm:ReviewProcess .
+    rdfs:range kg_sdm:DecisionProcess .
 
 kg_sdm:handles rdfs:label "handles" ;
     rdfs:domain kg_sdm:Handler ;
@@ -70,6 +70,10 @@ kg_sdm:paper_year rdfs:label "paper_year" ;
     rdfs:domain kg_sdm:Submission ;
     rdfs:range xsd:integer .
 
+kg_sdm:participates_in rdfs:label "participates_in" ;
+    rdfs:domain kg_sdm:Reviewers ;
+    rdfs:range kg_sdm:ReviewProcess .
+
 kg_sdm:publication_title rdfs:label "publication_title" ;
     rdfs:domain kg_sdm:Publication ;
     rdfs:range xsd:string .
@@ -85,10 +89,6 @@ kg_sdm:published_in rdfs:label "published_in" ;
 kg_sdm:related_to rdfs:label "related_to" ;
     rdfs:domain kg_sdm:Submission ;
     rdfs:range kg_sdm:Keyword .
-
-kg_sdm:reviews rdfs:label "reviews" ;
-    rdfs:domain kg_sdm:Reviewers ;
-    rdfs:range kg_sdm:ReviewProcess .
 
 kg_sdm:school rdfs:label "school" ;
     rdfs:domain kg_sdm:Academic ;

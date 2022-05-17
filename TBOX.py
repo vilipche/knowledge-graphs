@@ -15,14 +15,14 @@ g.bind("kg_sdm",KG_SDM)
 #======================================================================================================
 # Properties
 
-g.add((KG_SDM.comment, RDFS.domain, KG_SDM.ReviewProcess))
+g.add((KG_SDM.comment, RDFS.domain, KG_SDM.DecisionProcess))
 g.add((KG_SDM.comment, RDFS.range, XSD.string))
 g.add((KG_SDM.comment, RDFS.label, Literal("comment")))
 
 
 
 g.add((KG_SDM.goes_through, RDFS.domain, KG_SDM.Submission))
-g.add((KG_SDM.goes_through, RDFS.range, KG_SDM.ReviewProcess))
+g.add((KG_SDM.goes_through, RDFS.range, KG_SDM.DecisionProcess))
 g.add((KG_SDM.goes_through, RDFS.label, Literal("goes_through")))
 
 
@@ -78,9 +78,9 @@ g.add((KG_SDM.related_to, RDFS.label, Literal("related_to")))
 
 
 
-g.add((KG_SDM.reviews, RDFS.domain, KG_SDM.Reviewers))
-g.add((KG_SDM.reviews, RDFS.range, KG_SDM.ReviewProcess))
-g.add((KG_SDM.reviews, RDFS.label, Literal("reviews")))
+g.add((KG_SDM.participates_in, RDFS.domain, KG_SDM.Reviewers))
+g.add((KG_SDM.participates_in, RDFS.range, KG_SDM.ReviewProcess))
+g.add((KG_SDM.participates_in, RDFS.label, Literal("participates_in")))
 
 
 
@@ -119,23 +119,39 @@ g.add((KG_SDM.Academic, RDFS.label, Literal("Author")))
 
 
 
+g.add((KG_SDM.Reviewers,RDFS.subClassOf,KG_SDM.Academic))
+g.add((KG_SDM.Reviewers, RDFS.label, Literal("Reviewers")))
+
+
+g.add((KG_SDM.Handler,RDFS.subClassOf,KG_SDM.Academic))
+g.add((KG_SDM.Handler, RDFS.label, Literal("Handler")))
+
+
 g.add((KG_SDM.Chair,RDFS.subClassOf,KG_SDM.Handler))
 g.add((KG_SDM.Chair, RDFS.label, Literal("Chair")))
 
+g.add((KG_SDM.Editor,RDFS.subClassOf,KG_SDM.Handler))
+g.add((KG_SDM.Editor, RDFS.label, Literal("Editor")))
 
 
 g.add((KG_SDM.Conference,RDFS.subClassOf,KG_SDM.Venue))
 g.add((KG_SDM.Conference, RDFS.label, Literal("Conference")))
 
 
+g.add((KG_SDM.Symposium,RDFS.subClassOf,KG_SDM.Conference))
+g.add((KG_SDM.Symposium, RDFS.label, Literal("Symposium")))
+
+
+g.add((KG_SDM.Workshop,RDFS.subClassOf,KG_SDM.Conference))
+g.add((KG_SDM.Workshop, RDFS.label, Literal("Workshop")))
+
+
+g.add((KG_SDM.Journal,RDFS.subClassOf,KG_SDM.Venue))
+g.add((KG_SDM.Journal, RDFS.label, Literal("Journal")))
+
 
 g.add((KG_SDM.Demo,RDFS.subClassOf,KG_SDM.PaperType))
 g.add((KG_SDM.Demo, RDFS.label, Literal("Demo")))
-
-
-
-g.add((KG_SDM.Editor,RDFS.subClassOf,KG_SDM.Handler))
-g.add((KG_SDM.Editor, RDFS.label, Literal("Editor")))
 
 
 g.add((KG_SDM.FullPaper,RDFS.subClassOf,KG_SDM.PaperType))
@@ -143,12 +159,8 @@ g.add((KG_SDM.FullPaper, RDFS.label, Literal("FullPaper")))
 
 
 
-g.add((KG_SDM.Handler,RDFS.subClassOf,KG_SDM.Academic))
-g.add((KG_SDM.Handler, RDFS.label, Literal("Handler")))
-
-
-g.add((KG_SDM.Journal,RDFS.subClassOf,KG_SDM.Venue))
-g.add((KG_SDM.Journal, RDFS.label, Literal("Journal")))
+g.add((KG_SDM.Short,RDFS.subClassOf,KG_SDM.PaperType))
+g.add((KG_SDM.Short, RDFS.label, Literal("Short")))
 
 
 
@@ -160,26 +172,9 @@ g.add((KG_SDM.Proceddings,RDFS.subClassOf,KG_SDM.Publication))
 g.add((KG_SDM.Proceddings, RDFS.label, Literal("Proceddings")))
 
 
-
-g.add((KG_SDM.Reviewers,RDFS.subClassOf,KG_SDM.Academic))
-g.add((KG_SDM.Reviewers, RDFS.label, Literal("Reviewers")))
-
-
-g.add((KG_SDM.Short,RDFS.subClassOf,KG_SDM.PaperType))
-g.add((KG_SDM.Short, RDFS.label, Literal("Short")))
-
-
-
-g.add((KG_SDM.Symposium,RDFS.subClassOf,KG_SDM.Conference))
-g.add((KG_SDM.Symposium, RDFS.label, Literal("Symposium")))
-
-
 g.add((KG_SDM.Volume,RDFS.subClassOf,KG_SDM.Publication))
 g.add((KG_SDM.Volume, RDFS.label, Literal("Volume")))
 
-
-g.add((KG_SDM.Workshop,RDFS.subClassOf,KG_SDM.Conference))
-g.add((KG_SDM.Workshop, RDFS.label, Literal("Workshop")))
 
 
 g.add((KG_SDM.ML,RDFS.subClassOf,KG_SDM.Keyword))
@@ -203,6 +198,6 @@ g.add((KG_SDM.GRAPH, RDFS.label, Literal("DATABASE")))
 # ## Saving TBOX
 
 save_format = "ttl"
-file_name = "sdm_kg."+save_format
+file_name = "sdm_kg_TBOX."+save_format
 g.serialize(file_name, format=save_format)
 
