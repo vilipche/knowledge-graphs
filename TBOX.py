@@ -53,8 +53,6 @@ g.add((KG_SDM.paper_year, RDFS.range, XSD.integer))
 g.add((KG_SDM.paper_year, RDFS.label, Literal("paper_year")))
 
 
-
-
 g.add((KG_SDM.publication_title, RDFS.domain, KG_SDM.Publication))
 g.add((KG_SDM.publication_title, RDFS.range, XSD.string))
 g.add((KG_SDM.publication_title, RDFS.label, Literal("publication_title")))
@@ -71,11 +69,9 @@ g.add((KG_SDM.published_in, RDFS.range, KG_SDM.Publication))
 g.add((KG_SDM.published_in, RDFS.label, Literal("published_in")))
 
 
-
 g.add((KG_SDM.related_to, RDFS.domain, KG_SDM.Submission))
 g.add((KG_SDM.related_to, RDFS.range, KG_SDM.Keyword))
 g.add((KG_SDM.related_to, RDFS.label, Literal("related_to")))
-
 
 
 g.add((KG_SDM.participates_in, RDFS.domain, KG_SDM.Reviewers))
@@ -198,6 +194,6 @@ g.add((KG_SDM.Database, RDFS.label, Literal("Database")))
 # ## Saving TBOX
 
 save_format = "ttl"
-file_name = "sdm_kg_TBOX"+"."+save_format
+file_name = "tbox"+"."+save_format
 g.serialize(file_name, format=save_format)
 
