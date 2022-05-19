@@ -1,2 +1,0 @@
-pandas=1.4.2
-rdflib=6.1.1
