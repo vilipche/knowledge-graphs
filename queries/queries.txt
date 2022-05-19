@@ -1,0 +1,57 @@
+#####
+QUERY 1
+query results: query4-result.csv
+#####
+
+PREFIX kg_sdm: <http://kg_sdm.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+#1. Find all Authors.
+SELECT ?s ?name
+WHERE {
+	?s ?p kg_sdm:Author .
+    ?s foaf:name ?name
+}
+
+#####
+QUERY 2
+query results: query2-result.csv
+#####
+
+PREFIX kg_sdm: <http://kg_sdm.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+#2. Find all properties whose domain is Author.
+SELECT ?p
+WHERE {
+	 ?p rdfs:domain kg_sdm:Author
+}
+
+
+#####
+QUERY 3
+query results: query3-result.csv
+#####
+
+
+#####
+QUERY 4
+query results: query4-result.csv
+#####
+
+
+PREFIX kg_sdm: <http://kg_sdm.org/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+# 4. Find all the papers written by a given author that where published in database conferences.
+SELECT ?author (group_concat(?title;separator="\n_____\n") as ?titles)
+WHERE {
+    ?author kg_sdm:writes ?submission .
+    ?submission kg_sdm:paper_title ?title .
+    ?submission kg_sdm:submitted_to ?venue .
+    ?venue a kg_sdm:Conference .
+    ?submission kg_sdm:related_to kg_sdm:Database .   
+}
+GROUP BY ?author
