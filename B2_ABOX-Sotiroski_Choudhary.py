@@ -47,7 +47,7 @@ def URLparse(url:str):
 # ![title](B1_TBOX-Sotiroski_Choudhary.png)
 
 # %% [markdown]
-# # ABOX Defination
+# # ABOX Definition
 
 # %% [markdown]
 # ## 1. Person
@@ -159,29 +159,16 @@ articles['accepted'].loc[500:] = False
 articles.head()
 
 # %%
-# only authors are writing the papers
-authors.head()
-
-# %%
-# joining the authors and articles with the bridge table
-article_pub = pd.merge(articles, author_article, left_on='ID', right_on='article_ID')
-articles_publishedin = pd.merge(article_pub, authors, left_on='author_ID', right_on='author_ID')
-articles_publishedin = articles_publishedin[['title', 'year', 'type', 'keyword', 'accepted', 'person_name', 'school_name']]
-
-# %%
-articles_publishedin.head()
-
-# %%
-for _, article_title, year, paper_type, keyword, accepted, author_name, school_name in articles_publishedin.itertuples():
+for _,_, article_title, _, _ , year, paper_type, keyword, decision in articles.itertuples():
     # get the author node
-    author_node = URIRef(f"http://kg_sdm.org/Person/{URLparse(author_name)}")
+    # author_node = URIRef(f"http://kg_sdm.org/Person/{URLparse(author_name)}")
     
     # create the submission onde
     submission_node = URIRef(f"http://kg_sdm.org/Submission/{URLparse(article_title)}")
     g.add((submission_node, RDF.type, KG_SDM.Submission))
     
     # author wrote a paper
-    g.add((author_node, KG_SDM.writes, submission_node))
+    # g.add((author_node, KG_SDM.writes, submission_node))
     
     # data for submission
     paper_title_lit = Literal(str(article_title))
@@ -196,6 +183,35 @@ for _, article_title, year, paper_type, keyword, accepted, author_name, school_n
     # adding the paper type
     paper_node = URIRef(f"http://kg_sdm.org/{URLparse(paper_type)}")
     g.add((submission_node, KG_SDM.of_type, paper_node))
+
+# %%
+
+
+# %%
+# only authors are writing the papers
+authors.head()
+
+# %%
+# joining the authors and articles with the bridge table
+article_pub = pd.merge(articles, author_article, left_on='ID', right_on='article_ID')
+articles_publishedin = pd.merge(article_pub, authors, left_on='author_ID', right_on='author_ID')
+articles_publishedin = articles_publishedin[['title', 'year', 'type', 'keyword', 'accepted', 'person_name', 'school_name']]
+
+# %%
+articles_publishedin
+
+# %%
+
+
+# %%
+for _, article_title, _, _, _ , _, author_name, _ in articles_publishedin.itertuples():
+
+    # get the author node
+    author_node = URIRef(f"http://kg_sdm.org/Person/{URLparse(author_name)}")
+    
+    # create the submission onde
+    submission_node = URIRef(f"http://kg_sdm.org/Submission/{URLparse(article_title)}")
+    g.add((author_node, KG_SDM.writes, submission_node))
 
 # %%
 # save_rdf_file(g,'submission_links','ttl')
@@ -247,22 +263,22 @@ reviewProcess.head()
 # %%
 # because we were storing the comments and decisions and reviewers in an array
 # we will use the explode function to have each reviewer connected to the paper
-reviewProcess.apply(pd.Series.explode)
+reviewProcess = reviewProcess.apply(pd.Series.explode)
 
 # %%
-for _, article_name, year, _, _, _, _, _, reviewer_name, comment, accepted in reviewProcess.itertuples():
+for _, article_name, year, _, _, _, author_name, _, reviewer_name, comment, accepted in reviewProcess.itertuples():
     # get the submission node
-    submission_node = URIRef(f"http://kg_sdm.org/Submission/{URLparse(article_title)}")
+    submission_node = URIRef(f"http://kg_sdm.org/Submission/{URLparse(article_name)}")
 
     # create the reviewProcess node
-    review_process = URIRef(f"http://kg_sdm.org/DecisionProcess/{URLparse(author_name+'_'+article_name)}")
+    review_process = URIRef(f"http://kg_sdm.org/DecisionProcess/{URLparse(reviewer_name+'_'+article_name)}")
     g.add((review_process, RDF.type, KG_SDM.DecisionProcess))
     
     # connect submission and review process
     g.add((submission_node, KG_SDM.goes_through, review_process))
-    
+
     # get the reviewer node
-    reviewer_node = URIRef(f"http://kg_sdm.org/Person/{URLparse(author_name)}")
+    reviewer_node = URIRef(f"http://kg_sdm.org/Person/{URLparse(reviewer_name)}")
     g.add((reviewer_node, KG_SDM.participates_in, review_process))
     
     # add the literals
@@ -367,12 +383,6 @@ for index,row in articles_publishedin.iterrows():
     # connect conference and submission
     g.add((sub_node,KG_SDM.submitted_to,conf_node))
 
-
-
-# %%
-
-
-# %%
 
 
 # %% [markdown]
@@ -514,7 +524,7 @@ for index,row in conferences.iterrows():
 
     # parsing conference
     conf_title = URLparse(confname)
-    conf_node = URIRef(f"http://kg_sdm.org/venue/{conf_title}")
+    conf_node = URIRef(f"http://kg_sdm.org/Venue/{conf_title}")
     venue_lit = Literal(str(conf_title))
 
     # parsing authors
@@ -532,7 +542,7 @@ for index,row in journals.iterrows():
 
     # parsing conference
     conf_title = URLparse(confname)
-    conf_node = URIRef(f"http://kg_sdm.org/venue/{conf_title}")
+    conf_node = URIRef(f"http://kg_sdm.org/Venue/{conf_title}")
     venue_lit = Literal(str(conf_title))
 
     # parsing authors
@@ -550,6 +560,25 @@ for index,row in journals.iterrows():
 
 # %%
 save_rdf_file(g,"abox",rdf_format='ttl')
+
+# %% [markdown]
+# # 5. Statistics
+
+# %%
+print(f"Number of people\t{len(people_names)}")
+print(f"Number of authors\t{len(authors)}")
+print(f"Number of reviewers\t{len(reviewers)}")
+print(f"Number of chairs\t{len(chair)}")
+print(f"Number of editor\t{len(editor)}")
+print(f"Number of submissions\t{len(articles_publishedin)}")
+print(f"Number of reviews\t{len(reviewProcess)}")
+print(f"Number of publications\t{len(publications)}")
+print(f"Number of journals\t{len(journals)}")
+print(f"Number of conferences \t{len(conferences)}")
+
+
+# %%
+reviewers.head()
 
 # %%
 
