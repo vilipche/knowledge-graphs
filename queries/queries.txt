@@ -22,13 +22,18 @@ query results: query2-result.csv
 #####
 
 #2. Find all properties whose domain is Author.
-PREFIX kg_sdm: <http://kg_sdm.org/>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT ?p
-WHERE {
-	 ?p rdfs:domain kg_sdm:Author
+PREFIX kg_sdm: <http://kg_sdm.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select DISTINCT ?aut_domain where {
+    {
+    ?aut_domain rdfs:domain kg_sdm:Author
+    }
+    UNION
+    {
+        kg_sdm:Author rdfs:subClassOf* ?k. # getting all the superclasses of author
+        ?aut_domain rdfs:domain ?k # domain of all those superclasses
+    }
 }
 
 
